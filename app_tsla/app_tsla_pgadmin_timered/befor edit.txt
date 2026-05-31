@@ -1,0 +1,348 @@
+
+#########     scraper.  ###########
+
+
+
+import undetected_chromedriver as uc
+from selenium.webdriver.common.by import By
+import psycopg2 
+import time, json, random, pytz
+from datetime import datetime
+
+# --- AWS RDS DATABASE CONFIG ---
+DB_CONFIG = {
+    "dbname": "dyDATA_new",
+    "user": "ehab.elnahas",
+    "password": "test",
+    "host": "database-1.ctzm0hf7fhri.eu-central-1.rds.amazonaws.com",
+    "port": "5432",
+    "sslmode": "require"
+}
+
+def get_market_status():
+    """Returns 'ACTIVE', 'QUIET', or 'CLOSED' based on NY Time"""
+    ny_tz = pytz.timezone('US/Eastern')
+    now = datetime.now(ny_tz)
+    
+    # Weekend Shutdown (Saturday=5, Sunday=6)
+    if now.weekday() >= 5:
+        return "CLOSED"
+    
+    # Quiet Zone (8 PM to 4 AM) - Markets are frozen
+    if now.hour >= 20 or now.hour < 4:
+        return "QUIET"
+        
+    return "ACTIVE"
+
+def run_worker():
+    options = uc.ChromeOptions()
+    options.add_argument("--headless")
+    
+    driver = None
+    conn = None
+
+    print("🕵️ Adaptive Scraper active. Monitoring TSLA...")
+
+    try:
+        while True:
+            status = get_market_status()
+            
+            if status == "CLOSED":
+                print(f"🛑 Weekend: Market closed. Sleeping for 1 hour...")
+                if driver: 
+                    driver.quit()
+                    driver = None
+                time.sleep(3600)
+                continue
+
+            # Determine sleep time based on status
+            if status == "QUIET":
+                print(f"🌙 Quiet Zone: Using Heartbeat (30 min delay)...")
+                wait_time = 1800
+            else:
+                wait_time = random.uniform(5, 8)
+
+            try:
+                # Initialize driver/connection only when needed
+                if not driver:
+                    driver = uc.Chrome(options=options, version_main=144)
+                if not conn or conn.closed:
+                    conn = psycopg2.connect(**DB_CONFIG)
+                    cursor = conn.cursor()
+
+                url = "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?interval=1m&range=1d"
+                driver.get(url)
+                
+                raw_data = driver.find_element(By.TAG_NAME, "pre").text
+                data = json.loads(raw_data)
+                quote = data['chart']['result'][0]['indicators']['quote'][0]
+                
+                symbol = "TSLA"
+                price_date = datetime.now()
+                close = float(quote['close'][-1])
+                open_p = float(quote['open'][-1])
+                high = float(quote['high'][-1])
+                low = float(quote['low'][-1])
+                volume = int(quote['volume'][-1])
+
+                insert_query = """
+                INSERT INTO tsla_timered (symbol, price_date, close, open, high, low, volume)
+                VALUES (%s, %s, %s, %s, %s, %s, %s)
+                """
+                
+                cursor.execute(insert_query, (symbol, price_date, close, open_p, high, low, volume))
+                conn.commit()
+                
+                print(f"✅ Saved ({status}): {close} at {price_date.strftime('%H:%M:%S')}")
+
+            except Exception as e:
+                print(f"❌ Error: {e}")
+                if driver:
+                    driver.quit()
+                    driver = None
+                time.sleep(10)
+
+            time.sleep(wait_time)
+
+    finally:
+        if 'cursor' in locals(): cursor.close()
+        if conn: conn.close()
+        if driver: driver.quit()
+
+if __name__ == "__main__":
+    run_worker()import undetected_chromedriver as uc
+from selenium.webdriver.common.by import By
+import psycopg2 
+import time, json, random, pytz
+from datetime import datetime
+
+# --- AWS RDS DATABASE CONFIG ---
+DB_CONFIG = {
+    "dbname": "dyDATA_new",
+    "user": "ehab.elnahas",
+    "password": "test",
+    "host": "database-1.ctzm0hf7fhri.eu-central-1.rds.amazonaws.com",
+    "port": "5432",
+    "sslmode": "require"
+}
+
+def get_market_status():
+    """Returns 'ACTIVE', 'QUIET', or 'CLOSED' based on NY Time"""
+    ny_tz = pytz.timezone('US/Eastern')
+    now = datetime.now(ny_tz)
+    
+    # Weekend Shutdown (Saturday=5, Sunday=6)
+    if now.weekday() >= 5:
+        return "CLOSED"
+    
+    # Quiet Zone (8 PM to 4 AM) - Markets are frozen
+    if now.hour >= 20 or now.hour < 4:
+        return "QUIET"
+        
+    return "ACTIVE"
+
+def run_worker():
+    options = uc.ChromeOptions()
+    options.add_argument("--headless")
+    
+    driver = None
+    conn = None
+
+    print("🕵️ Adaptive Scraper active. Monitoring TSLA...")
+
+    try:
+        while True:
+            status = get_market_status()
+            
+            if status == "CLOSED":
+                print(f"🛑 Weekend: Market closed. Sleeping for 1 hour...")
+                if driver: 
+                    driver.quit()
+                    driver = None
+                time.sleep(3600)
+                continue
+
+            # Determine sleep time based on status
+            if status == "QUIET":
+                print(f"🌙 Quiet Zone: Using Heartbeat (30 min delay)...")
+                wait_time = 1800
+            else:
+                wait_time = random.uniform(5, 8)
+
+            try:
+                # Initialize driver/connection only when needed
+                if not driver:
+                    driver = uc.Chrome(options=options, version_main=144)
+                if not conn or conn.closed:
+                    conn = psycopg2.connect(**DB_CONFIG)
+                    cursor = conn.cursor()
+
+                url = "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?interval=1m&range=1d"
+                driver.get(url)
+                
+                raw_data = driver.find_element(By.TAG_NAME, "pre").text
+                data = json.loads(raw_data)
+                quote = data['chart']['result'][0]['indicators']['quote'][0]
+                
+                symbol = "TSLA"
+                price_date = datetime.now()
+                close = float(quote['close'][-1])
+                open_p = float(quote['open'][-1])
+                high = float(quote['high'][-1])
+                low = float(quote['low'][-1])
+                volume = int(quote['volume'][-1])
+
+                insert_query = """
+                INSERT INTO tsla_timered (symbol, price_date, close, open, high, low, volume)
+                VALUES (%s, %s, %s, %s, %s, %s, %s)
+                """
+                
+                cursor.execute(insert_query, (symbol, price_date, close, open_p, high, low, volume))
+                conn.commit()
+                
+                print(f"✅ Saved ({status}): {close} at {price_date.strftime('%H:%M:%S')}")
+
+            except Exception as e:
+                print(f"❌ Error: {e}")
+                if driver:
+                    driver.quit()
+                    driver = None
+                time.sleep(10)
+
+            time.sleep(wait_time)
+
+    finally:
+        if 'cursor' in locals(): cursor.close()
+        if conn: conn.close()
+        if driver: driver.quit()
+
+if __name__ == "__main__":
+    run_worker()
+
+
+#########     main.  ###########
+
+import os
+import urllib.parse
+from flask import Flask, request, jsonify
+from flask_sqlalchemy import SQLAlchemy
+from ariadne import load_schema_from_path, make_executable_schema, \
+    graphql_sync, snake_case_fallback_resolvers, ObjectType
+from ariadne.explorer import ExplorerGraphiQL
+
+app = Flask(__name__)
+
+# --- AWS RDS DATABASE CONFIG ---
+DB_USER = "ehab.elnahas"
+DB_PASS = "test"
+DB_HOST = "database-1.ctzm0hf7fhri.eu-central-1.rds.amazonaws.com"
+DB_PORT = "5432"
+DB_NAME = "dyDATA_new"
+
+safe_user = urllib.parse.quote_plus(DB_USER)
+safe_pass = urllib.parse.quote_plus(DB_PASS)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = f'postgresql://{safe_user}:{safe_pass}@{DB_HOST}:{DB_PORT}/{DB_NAME}?sslmode=require'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
+
+class StockPrice(db.Model):
+    __tablename__ = 'tsla_timered'
+    id = db.Column(db.Integer, primary_key=True)
+    symbol = db.Column(db.String(10))
+    price_date = db.Column(db.DateTime)
+    close = db.Column(db.Float)
+    open = db.Column(db.Float)
+    high = db.Column(db.Float)    
+    low = db.Column(db.Float)
+    volume = db.Column(db.BigInteger)
+
+query = ObjectType("Query")
+
+@query.field("latestPrice")
+def resolve_latest_price(_, info, symbol):
+    return StockPrice.query.filter_by(symbol=symbol.upper()).order_by(StockPrice.price_date.desc()).first()
+
+@query.field("priceHistory")
+def resolve_price_history(_, info, symbol, limit=10):
+    return StockPrice.query.filter_by(symbol=symbol.upper()).order_by(StockPrice.price_date.desc()).limit(limit).all()
+
+type_defs = load_schema_from_path("../schema.graphql")
+schema = make_executable_schema(type_defs, query, snake_case_fallback_resolvers)
+
+@app.route("/graphql", methods=["GET"])
+def graphql_playground():
+    return ExplorerGraphiQL().html(None), 200
+
+@app.route("/graphql", methods=["POST"])
+def graphql_server():
+    data = request.get_json()
+    success, result = graphql_sync(schema, data, context_value=request, debug=app.debug)
+    return jsonify(result), 200 if success else 400
+
+if __name__ == "__main__":
+    app.run(debug=True, port=5000)
+
+#MAIN  
+
+
+import os
+import urllib.parse
+from flask import Flask, request, jsonify
+from flask_sqlalchemy import SQLAlchemy
+from ariadne import load_schema_from_path, make_executable_schema, \
+    graphql_sync, snake_case_fallback_resolvers, ObjectType
+from ariadne.explorer import ExplorerGraphiQL
+
+app = Flask(__name__)
+
+# --- AWS RDS DATABASE CONFIG ---
+DB_USER = "ehab.elnahas"
+DB_PASS = "test"
+DB_HOST = "database-1.ctzm0hf7fhri.eu-central-1.rds.amazonaws.com"
+DB_PORT = "5432"
+DB_NAME = "dyDATA_new"
+
+safe_user = urllib.parse.quote_plus(DB_USER)
+safe_pass = urllib.parse.quote_plus(DB_PASS)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = f'postgresql://{safe_user}:{safe_pass}@{DB_HOST}:{DB_PORT}/{DB_NAME}?sslmode=require'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
+
+class StockPrice(db.Model):
+    __tablename__ = 'tsla_timered'
+    id = db.Column(db.Integer, primary_key=True)
+    symbol = db.Column(db.String(10))
+    price_date = db.Column(db.DateTime)
+    close = db.Column(db.Float)
+    open = db.Column(db.Float)
+    high = db.Column(db.Float)    
+    low = db.Column(db.Float)
+    volume = db.Column(db.BigInteger)
+
+query = ObjectType("Query")
+
+@query.field("latestPrice")
+def resolve_latest_price(_, info, symbol):
+    return StockPrice.query.filter_by(symbol=symbol.upper()).order_by(StockPrice.price_date.desc()).first()
+
+@query.field("priceHistory")
+def resolve_price_history(_, info, symbol, limit=10):
+    return StockPrice.query.filter_by(symbol=symbol.upper()).order_by(StockPrice.price_date.desc()).limit(limit).all()
+
+type_defs = load_schema_from_path("../schema.graphql")
+schema = make_executable_schema(type_defs, query, snake_case_fallback_resolvers)
+
+@app.route("/graphql", methods=["GET"])
+def graphql_playground():
+    return ExplorerGraphiQL().html(None), 200
+
+@app.route("/graphql", methods=["POST"])
+def graphql_server():
+    data = request.get_json()
+    success, result = graphql_sync(schema, data, context_value=request, debug=app.debug)
+    return jsonify(result), 200 if success else 400
+
+if __name__ == "__main__":
+    app.run(debug=True, port=5000)

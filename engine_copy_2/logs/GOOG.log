@@ -1,0 +1,10 @@
+2026-05-14 02:35:09 - [Worker-GOOG] [GOOG] Worker initialized.
+2026-05-14 02:35:10 - [Worker-GOOG] [GOOG] Market is OPEN. Starting scraper...
+2026-05-16 10:29:55 - [Worker-GOOG] [GOOG] Worker initialized.
+2026-05-16 10:29:56 - [Worker-GOOG] [GOOG] Market is OPEN. Starting scraper...
+2026-05-16 10:29:56 - [Worker-GOOG] [GOOG] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:41:09 - [Worker-GOOG] [GOOG] Worker validated.
+2026-05-16 10:41:10 - [Worker-GOOG] [GOOG] Market is OPEN. Starting scraper...
+2026-05-16 10:42:53 - [Worker-GOOG] [GOOG] Data collected and pushed to DB: O:392.06 H:392.06 L:392.06 C:392.06
+2026-05-16 10:43:54 - [Worker-GOOG] [GOOG] Data collected and pushed to DB: O:392.06 H:392.06 L:392.06 C:392.06
+2026-05-16 10:44:40 - [Worker-GOOG] [GOOG] Data collected and pushed to DB: O:392.06 H:392.06 L:392.06 C:392.06

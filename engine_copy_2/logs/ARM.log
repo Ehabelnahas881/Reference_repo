@@ -1,0 +1,9 @@
+2026-05-14 02:35:22 - [Worker-ARM] [ARM] Worker initialized.
+2026-05-14 02:35:23 - [Worker-ARM] [ARM] Market is OPEN. Starting scraper...
+2026-05-16 10:30:06 - [Worker-ARM] [ARM] Worker initialized.
+2026-05-16 10:30:07 - [Worker-ARM] [ARM] Market is OPEN. Starting scraper...
+2026-05-16 10:30:07 - [Worker-ARM] [ARM] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:41:18 - [Worker-ARM] [ARM] Worker validated.
+2026-05-16 10:41:19 - [Worker-ARM] [ARM] Market is OPEN. Starting scraper...
+2026-05-16 10:42:53 - [Worker-ARM] [ARM] Data collected and pushed to DB: O:206.88 H:206.88 L:206.88 C:206.88
+2026-05-16 10:43:54 - [Worker-ARM] [ARM] Data collected and pushed to DB: O:206.88 H:206.88 L:206.88 C:206.88

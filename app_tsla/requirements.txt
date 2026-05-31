@@ -1,0 +1,5 @@
+flask
+ariadne
+neo4j
+undetected-chromedriver
+selenium

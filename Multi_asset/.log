@@ -1,0 +1,160 @@
+2026-04-06 05:17:26,800 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3989
+ * Running on http://192.168.1.5:3989
+2026-04-06 05:17:26,800 - [33mPress CTRL+C to quit[0m
+2026-04-06 05:17:27,779 - --- [POD HEALTH] RAM: 53.5MB | CPU: 23.8% ---
+2026-04-06 05:19:01,674 - [DATA] AMZN | O: 69099.18 H: 69132.19 L: 69099.18 C: 69132.19 | TS:03:17:00
+2026-04-06 05:19:02,016 - [DATA] TSLA | O: 69099.18 H: 69132.19 L: 69099.18 C: 69132.19 | TS:03:17:00
+2026-04-06 05:19:03,218 - [DATA] NVDA | O: 69099.18 H: 69132.19 L: 69099.18 C: 69132.19 | TS:03:17:00
+2026-04-06 05:19:04,029 - [DATA] MSFT | O: 69099.18 H: 69132.19 L: 69099.18 C: 69132.19 | TS:03:17:00
+2026-04-06 05:19:05,104 - [DATA] AAPL | O: 69099.18 H: 69132.19 L: 69099.18 C: 69132.19 | TS:03:17:00
+2026-04-06 05:23:08,101 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3989
+ * Running on http://10.255.0.1:3989
+2026-04-06 05:23:08,102 - [33mPress CTRL+C to quit[0m
+2026-04-06 05:23:09,083 - --- [HEALTH] RAM: 53.5MB | CPU: 28.2% ---
+2026-04-06 05:28:10,101 - --- [HEALTH] RAM: 63.4MB | CPU: 12.9% ---
+2026-04-06 05:28:51,930 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3989
+ * Running on http://10.255.0.1:3989
+2026-04-06 05:28:51,931 - [33mPress CTRL+C to quit[0m
+2026-04-06 05:28:52,932 - --- [POD HEALTH] RAM: 53.5MB | CPU: 86.2% ---
+2026-04-06 05:28:52,936 - [TSLA] Initializing session...
+2026-04-06 05:28:53,914 - [AAPL] Initializing session...
+2026-04-06 05:28:55,542 - Consent bypass failed: Failed to perform, curl: (3) URL rejected: Malformed input to a URL function. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-04-06 05:28:55,746 - Consent bypass failed: Failed to perform, curl: (3) URL rejected: Malformed input to a URL function. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-04-06 05:28:55,918 - [NVDA] Initializing session...
+2026-04-06 05:28:57,610 - Consent bypass failed: Failed to perform, curl: (3) URL rejected: Malformed input to a URL function. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-04-06 05:28:57,933 - [MSFT] Initializing session...
+2026-04-06 05:28:59,592 - Consent bypass failed: Failed to perform, curl: (3) URL rejected: Malformed input to a URL function. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-04-06 05:28:59,938 - [AMZN] Initializing session...
+2026-04-06 05:29:02,613 - Consent bypass failed: Failed to perform, curl: (3) URL rejected: Malformed input to a URL function. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-04-06 05:29:53,677 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3989
+ * Running on http://10.255.0.1:3989
+2026-04-06 05:29:53,678 - [33mPress CTRL+C to quit[0m
+2026-04-06 05:29:54,655 - --- [HEALTH] RAM: 53.2MB | CPU: 41.5% ---
+2026-04-06 05:29:54,655 - [TSLA] Initializing session...
+2026-04-06 05:29:55,665 - [AAPL] Initializing session...
+2026-04-06 05:29:57,044 - Bypassed consent wall on: https://consent.yahoo.com/v2/collectConsent?sessio...
+2026-04-06 05:29:57,046 - [TSLA] Starting scrape for 03:29:00...
+2026-04-06 05:29:57,665 - [NVDA] Initializing session...
+2026-04-06 05:29:57,744 - Bypassed consent wall on: https://consent.yahoo.com/v2/collectConsent?sessio...
+2026-04-06 05:29:57,745 - [AAPL] Starting scrape for 03:29:00...
+2026-04-06 05:29:58,386 -    - TSLA check 1/6: 69153.64
+2026-04-06 05:29:58,927 -    - AAPL check 1/6: 69153.64
+2026-04-06 05:29:59,675 - [MSFT] Initializing session...
+2026-04-06 05:30:00,593 - Bypassed consent wall on: https://consent.yahoo.com/v2/collectConsent?sessio...
+2026-04-06 05:30:00,594 - [NVDA] Starting scrape for 03:30:00...
+2026-04-06 05:30:01,583 - Bypassed consent wall on: https://consent.yahoo.com/v2/collectConsent?sessio...
+2026-04-06 05:30:01,583 - [MSFT] Starting scrape for 03:30:00...
+2026-04-06 05:30:01,680 - [AMZN] Initializing session...
+2026-04-06 05:30:02,139 -    - NVDA check 1/6: 69153.64
+2026-04-06 05:30:02,805 -    - MSFT check 1/6: 69153.64
+2026-04-06 05:30:03,660 - Bypassed consent wall on: https://consent.yahoo.com/v2/collectConsent?sessio...
+2026-04-06 05:30:03,661 - [AMZN] Starting scrape for 03:30:00...
+2026-04-06 05:30:04,801 -    - AMZN check 1/6: 69153.64
+2026-04-06 05:30:13,489 -    - MSFT check 2/6: 69153.64
+2026-04-06 05:30:13,521 -    - TSLA check 2/6: 69153.64
+2026-04-06 05:30:15,531 -    - AMZN check 2/6: 69153.64
+2026-04-06 05:30:15,670 -    - AAPL check 2/6: 69153.64
+2026-04-06 05:30:17,961 -    - NVDA check 2/6: 69153.64
+2026-04-06 05:30:25,122 -    - MSFT check 3/6: 69153.64
+2026-04-06 05:30:26,059 -    - TSLA check 3/6: 69153.64
+2026-04-06 05:30:33,980 -    - AMZN check 3/6: 69153.64
+2026-04-06 05:30:35,767 -    - MSFT check 4/6: 69153.64
+2026-04-06 05:30:36,141 -    - TSLA check 4/6: 69153.64
+2026-04-06 05:30:46,750 -    - MSFT check 5/6: 69165.20
+2026-04-06 05:30:48,304 -    - AAPL check 4/6: 69165.20
+2026-04-06 05:30:48,494 -    - TSLA check 5/6: 69165.20
+2026-04-06 05:30:50,037 -    - NVDA check 4/6: 69165.20
+2026-04-06 05:30:56,796 -    - MSFT check 6/6: 69165.20
+2026-04-06 05:31:00,253 -    - AAPL check 5/6: 69165.20
+2026-04-06 05:31:01,309 -    - TSLA check 6/6: 69165.20
+2026-04-06 05:31:01,427 -    - NVDA check 5/6: 69165.20
+2026-04-06 05:31:05,481 - [DATA] MSFT | O: 69153.64 H: 69165.20 L: 69153.64 C: 69165.20 | TS:03:30:00
+2026-04-06 05:31:05,797 -    - AMZN check 5/6: 69165.20
+2026-04-06 05:31:10,129 - [DATA] TSLA | O: 69153.64 H: 69165.20 L: 69153.64 C: 69165.20 | TS:03:29:00
+2026-04-06 05:31:10,833 -    - AAPL check 6/6: 69165.20
+2026-04-06 05:31:11,399 -    - NVDA check 6/6: 69165.20
+2026-04-06 05:31:16,870 -    - AMZN check 6/6: 69165.20
+2026-04-06 05:31:20,020 - [DATA] NVDA | O: 69153.64 H: 69165.20 L: 69153.64 C: 69165.20 | TS:03:30:00
+2026-04-06 05:31:20,309 - [DATA] AAPL | O: 69153.64 H: 69165.20 L: 69153.64 C: 69165.20 | TS:03:29:00
+2026-04-06 05:31:26,240 - [DATA] AMZN | O: 69153.64 H: 69165.20 L: 69153.64 C: 69165.20 | TS:03:30:00
+2026-04-06 05:31:56,849 - --- [HEALTH] RAM: 53.1MB | CPU: 93.3% ---
+2026-04-06 05:31:56,994 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3989
+ * Running on http://10.255.0.1:3989
+2026-04-06 05:31:57,003 - [33mPress CTRL+C to quit[0m
+2026-04-06 05:33:04,545 - [MSFT] MISSING data at 03:31:00
+2026-04-06 05:33:05,367 - [TSLA] MISSING data at 03:31:00
+2026-04-06 05:33:06,245 - [AMZN] MISSING data at 03:31:00
+2026-04-06 05:33:08,998 - [AAPL] MISSING data at 03:31:00
+2026-04-06 05:33:16,785 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-6' coro=<StealthOHLCWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:121> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:33:16,798 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<StealthOHLCWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:121> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:33:16,809 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-2' coro=<StealthOHLCWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:121> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:33:16,814 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-5' coro=<StealthOHLCWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:121> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:33:16,837 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-3' coro=<StealthOHLCWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:121> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:33:22,045 - --- [HEALTH] RAM: 53.3MB | CPU: 98.0% ---
+2026-04-06 05:33:22,126 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3989
+ * Running on http://10.255.0.1:3989
+2026-04-06 05:33:22,140 - [33mPress CTRL+C to quit[0m
+2026-04-06 05:33:24,375 - [AMZN] Checking Overnight Price for 03:33:00...
+2026-04-06 05:33:24,395 - [NVDA] Checking Overnight Price for 03:33:00...
+2026-04-06 05:33:24,480 - [TSLA] Checking Overnight Price for 03:33:00...
+2026-04-06 05:33:24,543 - [AAPL] Checking Overnight Price for 03:33:00...
+2026-04-06 05:33:24,548 - [MSFT] Checking Overnight Price for 03:33:00...
+2026-04-06 05:33:28,106 -    - TSLA Overnight check 1/6: 362.50
+2026-04-06 05:33:28,592 -    - MSFT Overnight check 1/6: 373.45
+2026-04-06 05:33:29,045 -    - AMZN Overnight check 1/6: 209.27
+2026-04-06 05:33:29,491 -    - NVDA Overnight check 1/6: 177.07
+2026-04-06 05:33:34,614 -    - AAPL Overnight check 1/6: 255.27
+2026-04-06 05:33:39,409 -    - AMZN Overnight check 2/6: 209.27
+2026-04-06 05:33:39,903 -    - TSLA Overnight check 2/6: 362.51
+2026-04-06 05:33:40,376 -    - MSFT Overnight check 2/6: 373.48
+2026-04-06 05:33:40,815 -    - NVDA Overnight check 2/6: 177.05
+2026-04-06 05:33:48,678 -    - AAPL Overnight check 2/6: 255.27
+2026-04-06 05:33:50,817 -    - MSFT Overnight check 3/6: 373.46
+2026-04-06 05:33:51,319 -    - TSLA Overnight check 3/6: 362.49
+2026-04-06 05:33:52,030 -    - NVDA Overnight check 3/6: 177.01
+2026-04-06 05:33:52,557 -    - AMZN Overnight check 3/6: 209.27
+2026-04-06 05:34:05,268 -    - TSLA Overnight check 4/6: 362.50
+2026-04-06 05:34:05,881 -    - AMZN Overnight check 4/6: 209.27
+2026-04-06 05:34:07,581 -    - MSFT Overnight check 4/6: 373.46
+2026-04-06 05:34:08,828 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-5' coro=<OvernightWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:126> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:36:00 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3989
+ * Running on http://10.255.0.1:3989
+2026-04-06 05:36:00 - [33mPress CTRL+C to quit[0m
+2026-04-06 05:37:05 - [Overnight] GOOGL O:295.20 | H:295.20 | L:295.15 | C:295.15 | TS:03:36:00
+2026-04-06 05:37:14 - [Overnight] AMZN O:209.34 | H:209.34 | L:209.34 | C:209.34 | TS:03:36:00
+2026-04-06 05:37:14 - [Overnight] MSFT O:373.60 | H:373.63 | L:373.54 | C:373.63 | TS:03:36:00
+2026-04-06 05:37:18 - [Overnight] TSLA O:362.65 | H:362.77 | L:362.65 | C:362.73 | TS:03:36:00
+2026-04-06 05:37:21 - [Overnight] NVDA O:177.11 | H:177.21 | L:177.11 | C:177.21 | TS:03:36:00
+2026-04-06 05:37:22 - [Overnight] AAPL O:255.45 | H:255.49 | L:255.41 | C:255.49 | TS:03:36:00
+2026-04-06 05:37:52 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-7' coro=<OvernightWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:109> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:37:53 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-2' coro=<OvernightWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:109> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:37:53 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-5' coro=<OvernightWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:109> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:37:53 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-3' coro=<OvernightWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:109> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:37:53 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-6' coro=<OvernightWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:109> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
+2026-04-06 05:37:53 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<OvernightWorker.process_asset() running at C:\Users\ehaba\OneDrive\Desktop\Multi_asset\new.py:109> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>

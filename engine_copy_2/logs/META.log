@@ -1,0 +1,9 @@
+2026-05-14 02:35:14 - [Worker-META] [META] Worker initialized.
+2026-05-14 02:35:15 - [Worker-META] [META] Market is OPEN. Starting scraper...
+2026-05-16 10:30:00 - [Worker-META] [META] Worker initialized.
+2026-05-16 10:30:01 - [Worker-META] [META] Market is OPEN. Starting scraper...
+2026-05-16 10:30:01 - [Worker-META] [META] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:41:12 - [Worker-META] [META] Worker validated.
+2026-05-16 10:41:13 - [Worker-META] [META] Market is OPEN. Starting scraper...
+2026-05-16 10:42:53 - [Worker-META] [META] Data collected and pushed to DB: O:610.4 H:610.4 L:610.4 C:610.4
+2026-05-16 10:43:50 - [Worker-META] [META] Data collected and pushed to DB: O:610.4 H:610.4 L:610.4 C:610.4

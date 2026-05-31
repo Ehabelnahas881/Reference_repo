@@ -1,0 +1,5 @@
+Driver  RAM Usage  CPU Impact
+Chrome	High	   Medium
+Edge	Medium	   Low
+Firefox	Low	       Medium
+Safari	Medium	   Medium

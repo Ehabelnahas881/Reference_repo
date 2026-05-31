@@ -1,0 +1,116 @@
+2026-03-14 20:46:28,760 - Database Connected Successfully for NVDA
+2026-03-14 20:46:28,760 - Scraper Online for NVDA
+2026-03-14 20:48:07,059 - [NVDA] Regular Buffered: 18:47 | Pending: 1
+2026-03-14 20:49:20,249 - [NVDA] Regular Buffered: 18:48 | Pending: 2
+2026-03-14 20:50:32,911 - [NVDA] Regular Buffered: 18:49 | Pending: 3
+2026-03-14 20:51:48,470 - [NVDA] Regular Buffered: 18:50 | Pending: 4
+2026-03-14 20:53:06,453 - [NVDA] Regular Buffered: 18:51 | Pending: 5
+2026-03-14 20:53:06,687 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 20:54:25,222 - [NVDA] Regular Buffered: 18:52 | Pending: 6
+2026-03-14 20:54:30,377 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 20:55:43,552 - [NVDA] Regular Buffered: 18:53 | Pending: 7
+2026-03-14 20:55:43,786 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 20:56:58,475 - [NVDA] Regular Buffered: 18:54 | Pending: 8
+2026-03-14 20:57:02,161 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 20:58:15,178 - [NVDA] Regular Buffered: 18:55 | Pending: 9
+2026-03-14 20:58:15,418 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 20:59:23,223 - [NVDA] Regular Buffered: 18:56 | Pending: 10
+2026-03-14 20:59:23,544 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:00:42,745 - [NVDA] Regular Buffered: 18:57 | Pending: 11
+2026-03-14 21:00:43,416 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:02:12,138 - [NVDA] Regular Buffered: 18:58 | Pending: 12
+2026-03-14 21:02:12,421 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:03:23,068 - [NVDA] Regular Buffered: 18:59 | Pending: 13
+2026-03-14 21:03:23,408 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:04:29,858 - [NVDA] Regular Buffered: 19:00 | Pending: 14
+2026-03-14 21:04:30,122 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:05:32,915 - [NVDA] Regular Buffered: 19:01 | Pending: 15
+2026-03-14 21:05:33,158 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:06:48,113 - [NVDA] Regular Buffered: 19:02 | Pending: 16
+2026-03-14 21:06:48,352 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:08:02,493 - [NVDA] Regular Buffered: 19:03 | Pending: 17
+2026-03-14 21:08:02,767 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:09:13,753 - [NVDA] Regular Buffered: 19:04 | Pending: 18
+2026-03-14 21:09:13,993 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:10:24,253 - [NVDA] Regular Buffered: 19:05 | Pending: 19
+2026-03-14 21:10:24,512 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:11:37,552 - [NVDA] Regular Buffered: 19:06 | Pending: 20
+2026-03-14 21:11:38,168 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:12:51,435 - [NVDA] Regular Buffered: 19:07 | Pending: 21
+2026-03-14 21:12:51,690 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:14:03,951 - [NVDA] Regular Buffered: 19:08 | Pending: 22
+2026-03-14 21:14:04,195 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:15:13,109 - [NVDA] Regular Buffered: 19:09 | Pending: 23
+2026-03-14 21:15:13,355 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:16:17,885 - [NVDA] Regular Buffered: 19:10 | Pending: 24
+2026-03-14 21:16:18,130 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:17:30,524 - [NVDA] Regular Buffered: 19:11 | Pending: 25
+2026-03-14 21:17:30,777 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.
+2026-03-14 21:18:37,212 - [NVDA] Regular Buffered: 19:12 | Pending: 26
+2026-03-14 21:18:37,462 - [NVDA] Flush Failed: permission denied for schema TEST_NVDA
+LINE 2:                 INSERT INTO "TEST_NVDA"."one_min_timeseries_...
+                                    ^
+.

@@ -1,0 +1,20 @@
+2026-03-11 03:01:51,070 - [OK] DB Connected Successfully
+2026-03-11 03:01:51,083 - [START] Pod Run with DE Cookie Bypass & Regex Fallback
+2026-03-11 03:02:02,617 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:02:05,054 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:02:07,055 - ⏭️ Skipping 2026-03-11 01:02:00+00:00 - Price fetch failed
+2026-03-11 03:03:00,380 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:03:02,767 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:03:04,768 - ⏭️ Skipping 2026-03-11 01:03:00+00:00 - Price fetch failed
+2026-03-11 03:04:00,391 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:04:02,800 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:04:04,802 - ⏭️ Skipping 2026-03-11 01:04:00+00:00 - Price fetch failed
+2026-03-11 03:05:00,479 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:05:02,871 - [TRACK] Status: 200 - Data not found in HTML
+2026-03-11 03:22:34,066 - [OK] Database Connected
+2026-03-11 03:26:10,097 - [DB] Connected Successfully
+2026-03-11 03:26:18,148 - Starting Scraper: Overnight Priority Mode
+2026-03-11 03:27:01,118 - [SAVED] Price: 399.235 | NY Time: 21:27:01
+2026-03-11 19:17:15,895 - [OK] DB Connected Successfully
+2026-03-11 19:17:15,898 - [START] Precision Stealth Mode Active (Timeout 20s)
+2026-03-11 19:18:05,624 - ⏭️ Skipping candle 2026-03-11 17:18:00+00:00 - No Open price.

@@ -1,0 +1,220 @@
+2026-03-16 00:06:03,106 - Connection Failed for NVDA: could not translate host name "database-1.ctzm0hf7fhri.eu-central-1.rds.amazonaws.com" to address: Name or service not known
+
+2026-03-16 00:06:03,108 - Worker Online for NVDA
+2026-03-16 00:07:54,921 - [NVDA] Weekend-Test Buffered: 22:07
+2026-03-16 00:08:53,719 - [NVDA] Weekend-Test Buffered: 22:08
+2026-03-16 00:09:59,222 - [NVDA] Weekend-Test Buffered: 22:09
+2026-03-16 00:11:05,287 - [NVDA] Weekend-Test Buffered: 22:10
+2026-03-16 00:11:58,065 - [NVDA] Weekend-Test Buffered: 22:11
+2026-03-16 00:12:06,683 - Database Connected for NVDA
+2026-03-16 00:12:07,231 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:13:04,592 - [NVDA] Weekend-Test Buffered: 22:12
+2026-03-16 00:13:04,826 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:13:57,468 - [NVDA] Weekend-Test Buffered: 22:13
+2026-03-16 00:13:57,701 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:14:56,219 - [NVDA] Weekend-Test Buffered: 22:14
+2026-03-16 00:14:56,451 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:15:51,743 - [NVDA] Weekend-Test Buffered: 22:15
+2026-03-16 00:15:52,084 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:16:51,718 - [NVDA] Weekend-Test Buffered: 22:16
+2026-03-16 00:16:51,954 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:17:48,620 - [NVDA] Weekend-Test Buffered: 22:17
+2026-03-16 00:17:48,891 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:18:57,183 - [NVDA] Weekend-Test Buffered: 22:18
+2026-03-16 00:18:57,523 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:19:51,000 - [NVDA] Weekend-Test Buffered: 22:19
+2026-03-16 00:19:51,240 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:21:20,443 - [NVDA] Weekend-Test Buffered: 22:20
+2026-03-16 00:21:20,680 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:22:15,961 - [NVDA] Weekend-Test Buffered: 22:21
+2026-03-16 00:22:16,259 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:23:10,365 - [NVDA] Weekend-Test Buffered: 22:22
+2026-03-16 00:23:10,608 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:24:04,580 - [NVDA] Weekend-Test Buffered: 22:23
+2026-03-16 00:24:04,817 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:24:59,367 - [NVDA] Weekend-Test Buffered: 22:24
+2026-03-16 00:24:59,607 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:25:56,837 - [NVDA] Weekend-Test Buffered: 22:25
+2026-03-16 00:25:57,079 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:26:51,298 - [NVDA] Weekend-Test Buffered: 22:26
+2026-03-16 00:26:51,541 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:27:51,245 - [NVDA] Weekend-Test Buffered: 22:27
+2026-03-16 00:27:51,486 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:28:53,315 - [NVDA] Weekend-Test Buffered: 22:28
+2026-03-16 00:28:53,569 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:29:50,202 - [NVDA] Weekend-Test Buffered: 22:29
+2026-03-16 00:29:50,454 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:30:51,322 - [NVDA] Weekend-Test Buffered: 22:30
+2026-03-16 00:30:51,566 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:31:49,504 - [NVDA] Weekend-Test Buffered: 22:31
+2026-03-16 00:31:49,754 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:32:50,302 - [NVDA] Weekend-Test Buffered: 22:32
+2026-03-16 00:32:50,554 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:33:51,364 - [NVDA] Weekend-Test Buffered: 22:33
+2026-03-16 00:33:51,619 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:34:50,870 - [NVDA] Weekend-Test Buffered: 22:34
+2026-03-16 00:34:51,118 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 00:35:56,025 - [NVDA] Weekend-Test Buffered: 22:35
+2026-03-16 00:35:56,431 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:32:44,987 - Database Connected for NVDA
+2026-03-16 02:32:44,987 - Worker Online for NVDA
+2026-03-16 02:33:57,152 - [NVDA] Post-Market-Fallback Buffered: 00:33
+2026-03-16 02:34:53,138 - [NVDA] Post-Market-Fallback Buffered: 00:34
+2026-03-16 02:35:54,217 - [NVDA] Post-Market-Fallback Buffered: 00:35
+2026-03-16 02:36:49,948 - [NVDA] Post-Market-Fallback Buffered: 00:36
+2026-03-16 02:37:49,907 - [NVDA] Post-Market-Fallback Buffered: 00:37
+2026-03-16 02:37:50,143 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:38:54,677 - [NVDA] Post-Market-Fallback Buffered: 00:38
+2026-03-16 02:38:54,922 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:39:51,274 - [NVDA] Post-Market-Fallback Buffered: 00:39
+2026-03-16 02:39:51,508 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:40:49,891 - [NVDA] Post-Market-Fallback Buffered: 00:40
+2026-03-16 02:40:50,138 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:41:51,745 - [NVDA] Post-Market-Fallback Buffered: 00:41
+2026-03-16 02:41:51,986 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:42:51,559 - [NVDA] Post-Market-Fallback Buffered: 00:42
+2026-03-16 02:42:51,803 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:43:54,935 - [NVDA] Post-Market-Fallback Buffered: 00:43
+2026-03-16 02:43:55,511 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:44:54,163 - [NVDA] Post-Market-Fallback Buffered: 00:44
+2026-03-16 02:44:54,424 - Flush Failed for NVDA: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:46:33,535 - Worker Online for NVDA
+2026-03-16 02:47:51,622 - [NVDA] Post-Market-Fallback Buffered: 00:47
+2026-03-16 02:48:54,965 - [NVDA] Post-Market-Fallback Buffered: 00:48
+2026-03-16 02:49:51,064 - [NVDA] Post-Market-Fallback Buffered: 00:49
+2026-03-16 02:50:51,445 - DB Error: could not translate host name "database-1.ctzm0hf7fhri.eu-central-1.rds.amazonaws.com" to address: Name or service not known
+
+2026-03-16 02:50:51,446 - Worker Online for NVDA
+2026-03-16 02:52:04,183 - [NVDA] Overnight Buffered: 00:51
+2026-03-16 02:52:56,716 - [NVDA] Overnight Buffered: 00:52
+2026-03-16 02:53:56,935 - [NVDA] Overnight Buffered: 00:53
+2026-03-16 02:54:55,080 - [NVDA] Overnight Buffered: 00:54
+2026-03-16 02:55:56,810 - [NVDA] Overnight Buffered: 00:55
+2026-03-16 02:55:57,730 - Flush Failed: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:56:52,779 - [NVDA] Overnight Buffered: 00:56
+2026-03-16 02:56:53,010 - Flush Failed: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:57:51,533 - [NVDA] Overnight Buffered: 00:57
+2026-03-16 02:57:52,005 - Flush Failed: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 02:58:58,123 - [NVDA] Overnight Buffered: 00:58
+2026-03-16 02:58:58,559 - Flush Failed: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+
+2026-03-16 22:46:13,971 - Worker Online for NVDA
+2026-03-16 22:48:27,114 - [NVDA] Regular Buffered: 20:47
+2026-03-16 22:49:51,950 - [NVDA] Regular Buffered: 20:48
+2026-03-16 22:51:02,672 - [NVDA] Regular Buffered: 20:49
+2026-03-16 22:52:04,288 - [NVDA] Regular Buffered: 20:50
+2026-03-16 22:53:11,831 - [NVDA] Regular Buffered: 20:51
+2026-03-16 22:53:12,068 - Flush Failed: permission denied for schema TEST_NVDA
+LINE 1: INSERT INTO "TEST_NVDA"."one_min_timeseries_data" ("one_min_...
+                    ^
+

@@ -1,0 +1,9 @@
+2026-05-14 02:35:12 - [Worker-NVDA] [NVDA] Worker initialized.
+2026-05-14 02:35:13 - [Worker-NVDA] [NVDA] Market is OPEN. Starting scraper...
+2026-05-16 10:29:58 - [Worker-NVDA] [NVDA] Worker initialized.
+2026-05-16 10:29:59 - [Worker-NVDA] [NVDA] Market is OPEN. Starting scraper...
+2026-05-16 10:29:59 - [Worker-NVDA] [NVDA] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:41:11 - [Worker-NVDA] [NVDA] Worker validated.
+2026-05-16 10:41:12 - [Worker-NVDA] [NVDA] Market is OPEN. Starting scraper...
+2026-05-16 10:42:54 - [Worker-NVDA] [NVDA] Data collected and pushed to DB: O:224.41 H:224.41 L:224.41 C:224.41
+2026-05-16 10:43:54 - [Worker-NVDA] [NVDA] Data collected and pushed to DB: O:224.41 H:224.41 L:224.41 C:224.41

@@ -1,0 +1,21 @@
+* [33m4a0815d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mFMU_V2[m[33m, [m[1;31morigin/FMU_V2[m[33m)[m FMU_V2
+* [33m7251bfd[m insert the data using the financial market Pk list
+* [33m8c9ceab[m Initial commit on new branch
+* [33mfe21adc[m Use the financial market PK toinsert the data in FMU table
+* [33md283af0[m[33m ([m[1;31morigin/FMU_V1[m[33m)[m Update financial_market_session.py
+* [33m86bd561[m Added all project files to FMU_V1
+* [33m615d720[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m PROD code
+*   [33m8a3e800[m Merge pull request #1 from proceedit-DATA-Bots/Development_branch
+[32m|[m[33m\[m  
+[32m|[m [33m|[m * [33m3d8e939[m[33m ([m[1;31morigin/Development_branch[m[33m)[m flask.log
+[32m|[m [33m|[m[33m/[m  
+[32m|[m * [33mf758f48[m production FMU with API failure robustness
+[32m|[m * [33m1a14495[m Development branch
+[32m|[m * [33ma775b6e[m APICalls failure robust code
+[32m|[m[32m/[m  
+* [33m85a6b0f[m The problme with 'is socket correct' solved
+* [33m57c04a4[m The making of API robust and secure with addition of neccessary dummy variable. 2024-09-06
+* [33mf4f3e12[m Alphavantage US makets stopper implemented.
+* [33m8c0a4f7[m The final version of the FMU is ready with fail safe mechanisms.
+* [33mf0d9510[m The working prototype of the FMU
+* [33me8bc642[m Initial commit

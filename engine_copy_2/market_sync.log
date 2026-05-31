@@ -1,0 +1,236 @@
+2026-05-14 02:35:00 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-14 02:35:00 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-14 02:35:00 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.8:3987
+2026-05-14 02:35:00 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-14 02:35:01 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-14 02:36:39 - [Worker-ARM] DATA | ARM | 23:36:00 | O:223.61 H:223.9 L:223.61 C:223.9
+2026-05-14 02:36:40 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-13 23:36:00
+2026-05-14 02:36:49 - [Worker-MSFT] DATA | MSFT | 23:36:00 | O:404.43 H:404.43 L:404.41 C:404.5
+2026-05-14 02:36:49 - [Worker-AMZN] DATA | AMZN | 23:36:00 | O:270.48 H:270.5 L:270.5 C:270.5
+2026-05-14 02:36:49 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-13 23:36:00
+2026-05-14 02:36:49 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-13 23:36:00
+2026-05-14 02:36:50 - [Worker-HPQ] DATA | HPQ | 23:36:00 | O:21.31 H:21.31 L:21.31 C:21.31
+2026-05-14 02:36:51 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-13 23:36:00
+2026-05-14 02:36:51 - [Worker-NVDA] DATA | NVDA | 23:36:00 | O:227.25 H:227.3 L:227.28 C:227.3
+2026-05-14 02:36:51 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-13 23:36:00
+2026-05-14 02:36:52 - [Worker-AAPL] DATA | AAPL | 23:36:00 | O:298.34 H:298.37 L:298.35 C:298.3
+2026-05-14 02:36:52 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-13 23:36:00
+2026-05-14 02:36:53 - [Worker-AMD] DATA | AMD | 23:36:00 | O:444.82 H:444.74 L:444.55 C:444.74
+2026-05-14 02:36:54 - [Worker-GOOG] DATA | GOOG | 23:36:00 | O:399.74 H:399.74 L:399.74 C:399.74
+2026-05-14 02:36:54 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-13 23:36:00
+2026-05-14 02:36:54 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-13 23:36:00
+2026-05-14 02:36:55 - [Worker-TSLA] DATA | TSLA | 23:36:00 | O:447.9 H:447.99 L:447.88 C:447.95
+2026-05-14 02:36:55 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-13 23:36:00
+2026-05-14 02:36:57 - [Worker-META] DATA | META | 23:36:00 | O:616.35 H:616.35 L:616.35 C:616.35
+2026-05-14 02:36:57 - [DB-Writer] DATA INSERTED for META | at 2026-05-13 23:36:00
+2026-05-14 02:37:43 - [Worker-AMZN] DATA | AMZN | 23:37:00 | O:270.48 H:270.5 L:270.5 C:270.5
+2026-05-14 02:37:43 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-13 23:37:00
+2026-05-14 02:37:43 - [Worker-META] DATA | META | 23:37:00 | O:616.35 H:616.49 L:616.49 C:616.49
+2026-05-14 02:37:44 - [DB-Writer] DATA INSERTED for META | at 2026-05-13 23:37:00
+2026-05-14 02:37:46 - [Worker-GOOG] DATA | GOOG | 23:37:00 | O:399.92 H:399.75 L:399.75 C:399.75
+2026-05-14 02:37:46 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-13 23:37:00
+2026-05-14 02:37:48 - [Worker-AMD] DATA | AMD | 23:37:00 | O:444.62 H:444.75 L:444.67 C:444.75
+2026-05-14 02:37:48 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-13 23:37:00
+2026-05-14 02:37:50 - [Worker-HPQ] DATA | HPQ | 23:37:00 | O:21.31 H:21.31 L:21.31 C:21.31
+2026-05-14 02:37:50 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-13 23:37:00
+2026-05-14 02:37:51 - [Worker-NVDA] DATA | NVDA | 23:37:00 | O:227.27 H:227.3 L:227.29 C:227.3
+2026-05-14 02:37:51 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-13 23:37:00
+2026-05-14 02:37:53 - [Worker-TSLA] DATA | TSLA | 23:37:00 | O:447.9 H:447.94 L:447.93 C:447.9
+2026-05-14 02:37:53 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-13 23:37:00
+2026-05-14 02:37:54 - [Worker-ARM] DATA | ARM | 23:37:00 | O:223.6 H:223.73 L:223.73 C:223.73
+2026-05-14 02:37:54 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-13 23:37:00
+2026-05-14 02:37:55 - [Worker-AAPL] DATA | AAPL | 23:37:00 | O:298.37 H:298.3 L:298.3 C:298.3
+2026-05-14 02:37:56 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-13 23:37:00
+2026-05-14 02:37:56 - [Worker-MSFT] DATA | MSFT | 23:37:00 | O:404.4 H:404.31 L:404.31 C:404.31
+2026-05-14 02:37:56 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-13 23:37:00
+2026-05-14 02:38:23 - [Worker-NVDA] DATA | NVDA | 23:38:00 | O:227.33 H:227.33 L:227.32 C:227.33
+2026-05-14 02:38:23 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-13 23:38:00
+2026-05-14 02:38:26 - [Worker-ARM] DATA | ARM | 23:38:00 | O:223.75 H:223.75 L:223.57 C:223.57
+2026-05-14 02:38:27 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-13 23:38:00
+2026-05-14 02:38:38 - [Worker-MSFT] DATA | MSFT | 23:38:00 | O:404.4 H:404.4 L:404.38 C:404.34
+2026-05-14 02:38:38 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-13 23:38:00
+2026-05-14 02:38:39 - [Worker-HPQ] DATA | HPQ | 23:38:00 | O:21.31 H:21.31 L:21.31 C:21.31
+2026-05-14 02:38:40 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-13 23:38:00
+2026-05-14 02:38:40 - [Worker-AAPL] DATA | AAPL | 23:38:00 | O:298.3 H:298.3 L:298.3 C:298.28
+2026-05-14 02:38:40 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-13 23:38:00
+2026-05-14 02:38:44 - [Worker-AMZN] DATA | AMZN | 23:38:00 | O:270.5 H:270.5 L:270.45 C:270.45
+2026-05-14 02:38:45 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-13 23:38:00
+2026-05-14 02:38:51 - [Worker-TSLA] DATA | TSLA | 23:38:00 | O:447.9 H:447.96 L:447.88 C:447.92
+2026-05-14 02:38:51 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-13 23:38:00
+2026-05-14 02:38:52 - [Worker-AMD] DATA | AMD | 23:38:00 | O:444.68 H:444.97 L:444.88 C:444.88
+2026-05-14 02:38:52 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-13 23:38:00
+2026-05-14 02:38:52 - [Worker-META] DATA | META | 23:38:00 | O:616.35 H:616.49 L:616.35 C:616.3
+2026-05-14 02:38:53 - [DB-Writer] DATA INSERTED for META | at 2026-05-13 23:38:00
+2026-05-14 02:38:56 - [Worker-GOOG] DATA | GOOG | 23:38:00 | O:399.75 H:399.84 L:399.8 C:399.8
+2026-05-14 02:38:56 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-13 23:38:00
+2026-05-14 02:39:42 - [Worker-NVDA] DATA | NVDA | 23:39:00 | O:227.33 H:227.29 L:227.29 C:227.29
+2026-05-14 02:39:43 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-13 23:39:00
+2026-05-14 02:39:44 - [Worker-ARM] DATA | ARM | 23:39:00 | O:223.84 H:223.84 L:223.84 C:223.84
+2026-05-14 02:39:44 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-13 23:39:00
+2026-05-14 02:39:45 - [Worker-HPQ] DATA | HPQ | 23:39:00 | O:21.31 H:21.31 L:21.31 C:21.31
+2026-05-14 02:39:46 - [Worker-AAPL] DATA | AAPL | 23:39:00 | O:298.3 H:298.28 L:298.2 C:298.28
+2026-05-14 02:39:46 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-13 23:39:00
+2026-05-14 02:39:46 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-13 23:39:00
+2026-05-14 02:39:47 - [Worker-TSLA] DATA | TSLA | 23:39:00 | O:448.05 H:447.99 L:447.88 C:447.82
+2026-05-14 02:39:47 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-13 23:39:00
+2026-05-14 02:39:48 - [Worker-MSFT] DATA | MSFT | 23:39:00 | O:404.3 H:404.3 L:404.3 C:404.3
+2026-05-14 02:39:48 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-13 23:39:00
+2026-05-14 02:39:49 - [Worker-AMD] DATA | AMD | 23:39:00 | O:444.67 H:444.79 L:444.76 C:444.78
+2026-05-14 02:39:49 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-13 23:39:00
+2026-05-14 02:39:52 - [Worker-GOOG] DATA | GOOG | 23:39:00 | O:399.61 H:399.61 L:399.6 C:399.61
+2026-05-14 02:39:52 - [Worker-AMZN] DATA | AMZN | 23:39:00 | O:270.5 H:270.5 L:270.46 C:270.39
+2026-05-14 02:39:52 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-13 23:39:00
+2026-05-14 02:39:52 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-13 23:39:00
+2026-05-14 02:39:53 - [Worker-META] DATA | META | 23:39:00 | O:616.3 H:616.21 L:616.2 C:616.2
+2026-05-14 02:39:53 - [DB-Writer] DATA INSERTED for META | at 2026-05-13 23:39:00
+2026-05-14 02:40:27 - [Worker-META] DATA | META | 23:40:00 | O:616.2 H:616.21 L:616.21 C:616.18
+2026-05-14 02:40:27 - [DB-Writer] DATA INSERTED for META | at 2026-05-13 23:40:00
+2026-05-14 02:40:47 - [Worker-NVDA] DATA | NVDA | 23:40:00 | O:227.28 H:227.3 L:227.29 C:227.29
+2026-05-14 02:40:47 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-13 23:40:00
+2026-05-14 02:40:47 - [Worker-AAPL] DATA | AAPL | 23:40:00 | O:298.15 H:298.21 L:298.14 C:298.11
+2026-05-14 02:40:48 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-13 23:40:00
+2026-05-14 02:40:49 - [Worker-ARM] DATA | ARM | 23:40:00 | O:223.9 H:223.85 L:223.7 C:223.85
+2026-05-14 02:40:49 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-13 23:40:00
+2026-05-14 02:40:50 - [Worker-AMZN] DATA | AMZN | 23:40:00 | O:270.45 H:270.45 L:270.42 C:270.42
+2026-05-14 02:40:50 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-13 23:40:00
+2026-05-14 02:40:53 - [Worker-GOOG] DATA | GOOG | 23:40:00 | O:399.78 H:399.78 L:399.77 C:399.62
+2026-05-14 02:40:53 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-13 23:40:00
+2026-05-14 02:40:53 - [Worker-AMD] DATA | AMD | 23:40:00 | O:444.69 H:444.78 L:444.69 C:444.69
+2026-05-14 02:40:54 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-13 23:40:00
+2026-05-14 02:40:55 - [Worker-HPQ] DATA | HPQ | 23:40:00 | O:21.31 H:21.31 L:21.31 C:21.31
+2026-05-14 02:40:55 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-13 23:40:00
+2026-05-14 02:40:56 - [Worker-MSFT] DATA | MSFT | 23:40:00 | O:404.25 H:404.3 L:404.28 C:404.28
+2026-05-14 02:40:56 - [Worker-TSLA] DATA | TSLA | 23:40:00 | O:447.87 H:447.73 L:447.73 C:447.71
+2026-05-14 02:40:56 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-13 23:40:00
+2026-05-14 02:40:57 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-13 23:40:00
+2026-05-14 02:41:36 - [Worker-HPQ] DATA | HPQ | 23:41:00 | O:21.31 H:21.31 L:21.31 C:21.31
+2026-05-14 02:41:36 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-13 23:41:00
+2026-05-14 02:41:38 - [Worker-AMZN] DATA | AMZN | 23:41:00 | O:270.46 H:270.46 L:270.46 C:270.5
+2026-05-14 02:41:38 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-13 23:41:00
+2026-05-14 02:41:42 - [Worker-ARM] DATA | ARM | 23:41:00 | O:223.65 H:223.76 L:223.76 C:223.76
+2026-05-14 02:41:43 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-13 23:41:00
+2026-05-14 02:41:46 - [Worker-GOOG] DATA | GOOG | 23:41:00 | O:399.62 H:399.65 L:399.62 C:399.65
+2026-05-14 02:41:46 - [Worker-MSFT] DATA | MSFT | 23:41:00 | O:404.29 H:404.29 L:404.29 C:404.29
+2026-05-14 02:41:46 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-13 23:41:00
+2026-05-14 02:41:46 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-13 23:41:00
+2026-05-14 02:41:49 - [Worker-AMD] DATA | AMD | 23:41:00 | O:444.69 H:444.78 L:444.78 C:444.82
+2026-05-14 02:41:50 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-13 23:41:00
+2026-05-14 02:41:51 - [Worker-NVDA] DATA | NVDA | 23:41:00 | O:227.29 H:227.3 L:227.27 C:227.3
+2026-05-14 02:41:51 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-13 23:41:00
+2026-05-14 02:41:52 - [Worker-META] DATA | META | 23:41:00 | O:616.48 H:616.48 L:616.48 C:616.48
+2026-05-14 02:41:52 - [DB-Writer] DATA INSERTED for META | at 2026-05-13 23:41:00
+2026-05-14 02:41:53 - [Worker-AAPL] DATA | AAPL | 23:41:00 | O:298.24 H:298.12 L:298.12 C:298.2
+2026-05-14 02:41:54 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-13 23:41:00
+2026-05-14 02:41:56 - [Worker-TSLA] DATA | TSLA | 23:41:00 | O:447.58 H:447.64 L:447.56 C:447.71
+2026-05-14 02:41:56 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-13 23:41:00
+2026-05-14 02:42:30 - [Worker-HPQ] DATA | HPQ | 23:42:00 | O:21.31 H:21.31 L:21.31 C:21.31
+2026-05-14 02:42:30 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-13 23:42:00
+2026-05-14 02:42:38 - [Worker-META] DATA | META | 23:42:00 | O:616.35 H:616.0 L:616.0 C:616.0
+2026-05-14 02:42:38 - [DB-Writer] DATA INSERTED for META | at 2026-05-13 23:42:00
+2026-05-14 02:42:39 - [Worker-GOOG] DATA | GOOG | 23:42:00 | O:399.95 H:399.95 L:399.95 C:399.69
+2026-05-14 02:42:39 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-13 23:42:00
+2026-05-14 02:42:42 - [Worker-ARM] DATA | ARM | 23:42:00 | O:223.9 H:223.9 L:223.5 C:223.79
+2026-05-14 02:42:42 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-13 23:42:00
+2026-05-14 02:42:44 - [Worker-AMD] DATA | AMD | 23:42:00 | O:444.73 H:444.99 L:444.74 C:445.25
+2026-05-14 02:42:44 - [Worker-AMZN] DATA | AMZN | 23:42:00 | O:270.49 H:270.48 L:270.48 C:270.48
+2026-05-14 02:42:44 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-13 23:42:00
+2026-05-14 02:42:44 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-13 23:42:00
+2026-05-14 02:42:46 - [Worker-TSLA] DATA | TSLA | 23:42:00 | O:447.98 H:447.82 L:447.58 C:447.58
+2026-05-14 02:42:46 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-13 23:42:00
+2026-05-14 02:42:52 - [Worker-AAPL] DATA | AAPL | 23:42:00 | O:298.21 H:298.18 L:298.18 C:298.22
+2026-05-14 02:42:52 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-13 23:42:00
+2026-05-14 02:42:53 - [Worker-MSFT] DATA | MSFT | 23:42:00 | O:404.26 H:404.26 L:404.26 C:404.26
+2026-05-14 02:42:54 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-13 23:42:00
+2026-05-14 02:42:56 - [Worker-NVDA] DATA | NVDA | 23:42:00 | O:227.33 H:227.36 L:227.34 C:227.33
+2026-05-14 02:42:56 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-13 23:42:00
+2026-05-16 03:56:16 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 03:56:16 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:29:46 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:29:46 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:29:47 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:29:47 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:29:48 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:30:29 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:30:29 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:30:29 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:30:29 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:30:30 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:30:57 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:30:57 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:30:57 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:30:57 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:30:58 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:31:49 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:31:49 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:31:49 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:31:49 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:31:50 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:32:50 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:32:50 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:32:50 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:32:50 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:32:51 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:33:54 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:33:54 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:33:54 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:33:54 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:33:55 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:34:12 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:34:12 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:34:13 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:34:13 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:34:13 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:40:59 - [MainThread] GraphQL Trigger: Env 4 requesting PKs: [2, 12, 14, 15, 16, 20, 21, 22, 23, 25]
+2026-05-16 10:40:59 - [GraphQL-Trigger] SYNC ENGINE STARTING
+2026-05-16 10:40:59 - [MainThread] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3987
+ * Running on http://192.168.1.3:3987
+2026-05-16 10:40:59 - [MainThread] [33mPress CTRL+C to quit[0m
+2026-05-16 10:41:00 - [GraphQL-Trigger] Successfully mapped PKs [2, 12, 14, 15, 16, 20, 21, 22, 23, 25] to ['MSFT', 'HPQ', 'TSLA', 'AAPL', 'GOOG', 'NVDA', 'META', 'AMZN', 'AMD', 'ARM']
+2026-05-16 10:42:40 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-16 07:42:00
+2026-05-16 10:42:48 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-16 07:42:00
+2026-05-16 10:42:50 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-16 07:42:00
+2026-05-16 10:42:53 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-16 07:42:00
+2026-05-16 10:42:53 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-16 07:42:00
+2026-05-16 10:42:54 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-16 07:42:00
+2026-05-16 10:42:54 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-16 07:42:00
+2026-05-16 10:42:54 - [DB-Writer] DATA INSERTED for META | at 2026-05-16 07:42:00
+2026-05-16 10:42:54 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-16 07:42:00
+2026-05-16 10:42:56 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-16 07:42:00
+2026-05-16 10:43:46 - [DB-Writer] DATA INSERTED for MSFT | at 2026-05-16 07:43:00
+2026-05-16 10:43:48 - [DB-Writer] DATA INSERTED for AMZN | at 2026-05-16 07:43:00
+2026-05-16 10:43:49 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-16 07:43:00
+2026-05-16 10:43:50 - [DB-Writer] DATA INSERTED for META | at 2026-05-16 07:43:00
+2026-05-16 10:43:53 - [DB-Writer] DATA INSERTED for AAPL | at 2026-05-16 07:43:00
+2026-05-16 10:43:54 - [DB-Writer] DATA INSERTED for ARM | at 2026-05-16 07:43:00
+2026-05-16 10:43:55 - [DB-Writer] DATA INSERTED for GOOG | at 2026-05-16 07:43:00
+2026-05-16 10:43:55 - [DB-Writer] DATA INSERTED for NVDA | at 2026-05-16 07:43:00
+2026-05-16 10:43:55 - [DB-Writer] DATA INSERTED for AMD | at 2026-05-16 07:43:00
+2026-05-16 10:43:55 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-16 07:43:00
+2026-05-16 10:44:37 - [DB-Writer] DATA INSERTED for HPQ | at 2026-05-16 07:44:00
+2026-05-16 10:44:37 - [DB-Writer] DATA INSERTED for TSLA | at 2026-05-16 07:44:00

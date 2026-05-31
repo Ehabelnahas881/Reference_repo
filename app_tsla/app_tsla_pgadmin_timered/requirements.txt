@@ -1,0 +1,22 @@
+# --- Core Browser Automation ---
+undetected-chromedriver
+selenium
+
+# --- Database & AWS RDS Connection ---
+psycopg2-binary
+Flask-SQLAlchemy
+sqlalchemy
+
+# --- GraphQL API & Web Server ---
+Flask
+ariadne
+
+# --- Utilities & Timezones ---
+pytz
+
+############# required commands ###################
+#python -m venv venv
+# pip install --upgrade pip
+#pip install -r requirements.txt
+# "dyTRADE".financial_market_session_time_log
+#pip install setuptools

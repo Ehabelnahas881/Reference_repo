@@ -1,0 +1,9 @@
+2026-05-14 02:35:19 - [Worker-AMD] [AMD] Worker initialized.
+2026-05-14 02:35:20 - [Worker-AMD] [AMD] Market is OPEN. Starting scraper...
+2026-05-16 10:30:04 - [Worker-AMD] [AMD] Worker initialized.
+2026-05-16 10:30:05 - [Worker-AMD] [AMD] Market is OPEN. Starting scraper...
+2026-05-16 10:30:05 - [Worker-AMD] [AMD] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:41:17 - [Worker-AMD] [AMD] Worker validated.
+2026-05-16 10:41:18 - [Worker-AMD] [AMD] Market is OPEN. Starting scraper...
+2026-05-16 10:42:56 - [Worker-AMD] [AMD] Data collected and pushed to DB: O:420.19 H:420.19 L:420.19 C:420.19
+2026-05-16 10:43:55 - [Worker-AMD] [AMD] Data collected and pushed to DB: O:420.19 H:420.19 L:420.19 C:420.19

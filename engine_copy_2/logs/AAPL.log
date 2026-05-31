@@ -1,0 +1,10 @@
+2026-05-14 02:35:06 - [Worker-AAPL] [AAPL] Worker initialized.
+2026-05-14 02:35:08 - [Worker-AAPL] [AAPL] Market is OPEN. Starting scraper...
+2026-05-16 10:29:53 - [Worker-AAPL] [AAPL] Worker initialized.
+2026-05-16 10:29:54 - [Worker-AAPL] [AAPL] Market is OPEN. Starting scraper...
+2026-05-16 10:29:54 - [Worker-AAPL] [AAPL] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:31:04 - [Worker-AAPL] [AAPL] Worker initialized.
+2026-05-16 10:41:06 - [Worker-AAPL] [AAPL] Worker validated.
+2026-05-16 10:41:07 - [Worker-AAPL] [AAPL] Market is OPEN. Starting scraper...
+2026-05-16 10:42:39 - [Worker-AAPL] [AAPL] Data collected and pushed to DB: O:299.85 H:299.85 L:299.85 C:299.85
+2026-05-16 10:43:53 - [Worker-AAPL] [AAPL] Data collected and pushed to DB: O:299.85 H:299.85 L:299.85 C:299.85

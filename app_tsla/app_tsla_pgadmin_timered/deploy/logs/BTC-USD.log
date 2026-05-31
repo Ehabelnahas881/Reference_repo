@@ -1,0 +1,12 @@
+2026-03-14 20:46:29,265 - Database Connected Successfully for BTC-USD
+2026-03-14 20:46:29,266 - Scraper Online for BTC-USD
+2026-03-14 20:48:09,111 - [BTC-USD] Regular Buffered: 18:47 | Pending: 1
+2026-03-14 20:49:25,217 - [BTC-USD] Regular Buffered: 18:48 | Pending: 2
+2026-03-14 20:50:32,042 - [BTC-USD] Regular Buffered: 18:49 | Pending: 3
+2026-03-14 20:51:46,503 - [BTC-USD] Regular Buffered: 18:50 | Pending: 4
+2026-03-14 20:52:55,302 - [BTC-USD] Regular Buffered: 18:51 | Pending: 5
+2026-03-14 20:52:55,545 - [BTC-USD] Flush Failed: relation "TEST_BTC.one_min_timeseries_data" does not exist
+LINE 2:                 INSERT INTO "TEST_BTC"."one_min_timeseries_d...
+                                    ^
+.
+2026-03-14 20:54:05,154 - [BTC-USD] Regular Buffered: 18:52 | Pending: 6

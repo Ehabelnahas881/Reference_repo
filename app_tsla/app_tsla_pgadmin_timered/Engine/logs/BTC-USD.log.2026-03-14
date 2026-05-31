@@ -1,0 +1,26 @@
+2026-03-14 21:50:35,505 - Database Connected for BTC-USD
+2026-03-14 21:50:35,506 - Worker Online for BTC-USD
+2026-03-14 21:52:08,014 - [BTC-USD] Regular Buffered: 19:51
+2026-03-14 21:53:10,978 - [BTC-USD] Regular Buffered: 19:52
+2026-03-14 21:54:13,799 - [BTC-USD] Regular Buffered: 19:53
+2026-03-14 21:55:13,844 - [BTC-USD] Regular Buffered: 19:54
+2026-03-14 21:56:21,114 - [BTC-USD] Regular Buffered: 19:55
+2026-03-14 21:56:21,425 - Flush Failed for BTC-USD: relation "TEST_BTC.one_min_timeseries_data" does not exist
+LINE 1: INSERT INTO "TEST_BTC"."one_min_timeseries_data" ("one_min_t...
+                    ^
+
+2026-03-14 21:57:25,382 - [BTC-USD] Regular Buffered: 19:56
+2026-03-14 21:57:25,644 - Flush Failed for BTC-USD: relation "TEST_BTC.one_min_timeseries_data" does not exist
+LINE 1: INSERT INTO "TEST_BTC"."one_min_timeseries_data" ("one_min_t...
+                    ^
+
+2026-03-14 21:58:43,298 - [BTC-USD] Regular Buffered: 19:57
+2026-03-14 21:58:43,545 - Flush Failed for BTC-USD: relation "TEST_BTC.one_min_timeseries_data" does not exist
+LINE 1: INSERT INTO "TEST_BTC"."one_min_timeseries_data" ("one_min_t...
+                    ^
+
+2026-03-14 22:00:08,608 - [BTC-USD] Regular Buffered: 19:58
+2026-03-14 22:00:10,406 - Flush Failed for BTC-USD: relation "TEST_BTC.one_min_timeseries_data" does not exist
+LINE 1: INSERT INTO "TEST_BTC"."one_min_timeseries_data" ("one_min_t...
+                    ^
+

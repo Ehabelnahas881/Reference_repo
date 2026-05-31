@@ -1,0 +1,20 @@
+2026-05-14 02:35:02 - [Worker-HPQ] [HPQ] Worker initialized.
+2026-05-14 02:35:03 - [Worker-HPQ] [HPQ] Market is OPEN. Starting scraper...
+2026-05-16 10:29:50 - [Worker-HPQ] [HPQ] Worker initialized.
+2026-05-16 10:29:51 - [Worker-HPQ] [HPQ] Market is OPEN. Starting scraper...
+2026-05-16 10:29:51 - [Worker-HPQ] [HPQ] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:30:31 - [Worker-HPQ] [HPQ] Worker initialized.
+2026-05-16 10:30:32 - [Worker-HPQ] [HPQ] Market is OPEN. Starting scraper...
+2026-05-16 10:30:32 - [Worker-HPQ] [HPQ] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:30:59 - [Worker-HPQ] [HPQ] Worker initialized.
+2026-05-16 10:31:00 - [Worker-HPQ] [HPQ] Market is OPEN. Starting scraper...
+2026-05-16 10:31:00 - [Worker-HPQ] [HPQ] Scraper error: run() takes 1 positional argument but 2 were given
+2026-05-16 10:32:53 - [Worker-HPQ] [HPQ] Worker initialized.
+2026-05-16 10:34:15 - [Worker-HPQ] [HPQ] Worker initialized.
+2026-05-16 10:34:16 - [Worker-HPQ] [HPQ] Market is OPEN. Starting scraper...
+2026-05-16 10:34:16 - [Worker-HPQ] [HPQ] Scraper error: run() got an unexpected keyword argument 'worker_log'
+2026-05-16 10:41:02 - [Worker-HPQ] [HPQ] Worker validated.
+2026-05-16 10:41:03 - [Worker-HPQ] [HPQ] Market is OPEN. Starting scraper...
+2026-05-16 10:42:53 - [Worker-HPQ] [HPQ] Data collected and pushed to DB: O:20.81 H:20.81 L:20.81 C:20.81
+2026-05-16 10:43:49 - [Worker-HPQ] [HPQ] Data collected and pushed to DB: O:20.81 H:20.81 L:20.81 C:20.81
+2026-05-16 10:44:37 - [Worker-HPQ] [HPQ] Data collected and pushed to DB: O:20.81 H:20.81 L:20.81 C:20.81

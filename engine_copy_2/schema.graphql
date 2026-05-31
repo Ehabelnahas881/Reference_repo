@@ -1,0 +1,15 @@
+schema {
+  query: Query
+}
+
+type Query {
+  YFS_Extractor(
+    financial_asset_list: [Int!]!
+    environment_pk: Int!
+  ): YFSResult!
+}
+
+type YFSResult {
+  success: Boolean
+  error: String
+}

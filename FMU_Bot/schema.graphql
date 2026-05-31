@@ -1,0 +1,16 @@
+schema {
+    query: Query
+}
+
+scalar JSON
+
+type Query {
+    resolve_FMU(
+        financial_market_pks: [Int!]!
+    ): FMU!
+}
+
+type FMU {
+    success: Boolean!
+    errors: [String]!
+}

@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kpd-yfe-yahoo-finance-extractor-kub-tst-dta-kns
+  namespace: kns-dta-data-kubernetes-namespace-tst-tst-kct
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: kpd-yfe-yahoo-finance-extractor-kub-tst-dta-kns
+  template:
+    metadata:
+      labels:
+        app: kpd-yfe-yahoo-finance-extractor-kub-tst-dta-kns
+    spec:
+      containers:
+      - name: ubuntu
+        image: proceedit/dci-dta-data-docker-image-dvl-dta-kns:latest
+        resources:
+          requests:
+            cpu: "250m"
+            memory: "256Mi"
+          limits:
+            cpu: "500m"
+            memory: "512Mi"
+        volumeMounts:
+        - mountPath: /kns-dta-data-kubernetes-namespace-tst-tst-kct
+          name: efs-storage
+          subPath: kpd-yfe-yahoo-finance-extractor-kub-tst-dta-kns
+      volumes:
+      - name: efs-storage
+        persistentVolumeClaim:
+          claimName: pvc-kns-dta-data-kubernetes-namespace-tst-tst-kct

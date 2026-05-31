@@ -1,0 +1,16 @@
+type StockPrice {
+    id: ID
+    symbol: String!
+    date: String!
+    close: Float!
+    open: Float
+    high: Float
+    low: Float
+    volume: String
+    timestamp: Float!
+}
+
+type Query {
+    latestPrice(symbol: String!): StockPrice
+    priceHistory(symbol: String!, limit: Int): [StockPrice]
+}

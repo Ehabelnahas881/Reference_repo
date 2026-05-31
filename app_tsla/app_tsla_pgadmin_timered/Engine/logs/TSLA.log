@@ -1,0 +1,109 @@
+2026-03-16 00:05:21,290 - Database Connected for TSLA
+2026-03-16 00:05:21,299 - Worker Online for TSLA
+2026-03-16 00:07:01,674 - [TSLA] Weekend-Test Buffered: 22:06
+2026-03-16 00:07:53,677 - [TSLA] Weekend-Test Buffered: 22:07
+2026-03-16 00:08:58,378 - [TSLA] Weekend-Test Buffered: 22:08
+2026-03-16 00:10:01,019 - [TSLA] Weekend-Test Buffered: 22:09
+2026-03-16 00:11:04,647 - [TSLA] Weekend-Test Buffered: 22:10
+2026-03-16 00:11:04,998 - [TSLA] FLUSHED 5 records.
+2026-03-16 00:11:58,316 - [TSLA] Weekend-Test Buffered: 22:11
+2026-03-16 00:12:49,170 - [TSLA] Weekend-Test Buffered: 22:12
+2026-03-16 00:13:50,280 - [TSLA] Weekend-Test Buffered: 22:13
+2026-03-16 00:14:52,483 - [TSLA] Weekend-Test Buffered: 22:14
+2026-03-16 00:15:51,492 - [TSLA] Weekend-Test Buffered: 22:15
+2026-03-16 00:15:51,772 - [TSLA] FLUSHED 5 records.
+2026-03-16 00:16:51,415 - [TSLA] Weekend-Test Buffered: 22:16
+2026-03-16 00:17:52,621 - [TSLA] Weekend-Test Buffered: 22:17
+2026-03-16 00:18:56,571 - [TSLA] Weekend-Test Buffered: 22:18
+2026-03-16 00:19:56,231 - [TSLA] Weekend-Test Buffered: 22:19
+2026-03-16 00:21:15,212 - [TSLA] Weekend-Test Buffered: 22:20
+2026-03-16 00:21:15,451 - [TSLA] FLUSHED 5 records.
+2026-03-16 00:22:09,280 - [TSLA] Weekend-Test Buffered: 22:21
+2026-03-16 00:23:02,131 - [TSLA] Weekend-Test Buffered: 22:22
+2026-03-16 00:23:58,508 - [TSLA] Weekend-Test Buffered: 22:23
+2026-03-16 00:24:55,479 - [TSLA] Weekend-Test Buffered: 22:24
+2026-03-16 00:25:51,669 - [TSLA] Weekend-Test Buffered: 22:25
+2026-03-16 00:25:51,900 - [TSLA] FLUSHED 5 records.
+2026-03-16 00:26:55,166 - [TSLA] Weekend-Test Buffered: 22:26
+2026-03-16 00:27:52,145 - [TSLA] Weekend-Test Buffered: 22:27
+2026-03-16 00:28:49,547 - [TSLA] Weekend-Test Buffered: 22:28
+2026-03-16 00:29:50,438 - [TSLA] Weekend-Test Buffered: 22:29
+2026-03-16 00:30:52,566 - [TSLA] Weekend-Test Buffered: 22:30
+2026-03-16 00:30:52,797 - [TSLA] FLUSHED 5 records.
+2026-03-16 00:31:53,400 - [TSLA] Weekend-Test Buffered: 22:31
+2026-03-16 00:32:54,102 - [TSLA] Weekend-Test Buffered: 22:32
+2026-03-16 00:33:52,770 - [TSLA] Weekend-Test Buffered: 22:33
+2026-03-16 00:34:55,036 - [TSLA] Weekend-Test Buffered: 22:34
+2026-03-16 00:35:52,343 - [TSLA] Weekend-Test Buffered: 22:35
+2026-03-16 00:35:52,585 - [TSLA] FLUSHED 5 records.
+2026-03-16 02:32:13,651 - Database Connected for TSLA
+2026-03-16 02:32:13,652 - Worker Online for TSLA
+2026-03-16 02:33:53,793 - [TSLA] Post-Market-Fallback Buffered: 00:33
+2026-03-16 02:34:49,728 - [TSLA] Post-Market-Fallback Buffered: 00:34
+2026-03-16 02:35:56,161 - [TSLA] Post-Market-Fallback Buffered: 00:35
+2026-03-16 02:36:49,794 - [TSLA] Post-Market-Fallback Buffered: 00:36
+2026-03-16 02:37:51,371 - [TSLA] Post-Market-Fallback Buffered: 00:37
+2026-03-16 02:37:51,655 - [TSLA] FLUSHED 5 records.
+2026-03-16 02:38:48,627 - [TSLA] Post-Market-Fallback Buffered: 00:38
+2026-03-16 02:39:51,214 - [TSLA] Post-Market-Fallback Buffered: 00:39
+2026-03-16 02:40:53,771 - [TSLA] Post-Market-Fallback Buffered: 00:40
+2026-03-16 02:41:57,910 - [TSLA] Post-Market-Fallback Buffered: 00:41
+2026-03-16 02:42:54,338 - [TSLA] Post-Market-Fallback Buffered: 00:42
+2026-03-16 02:42:54,589 - [TSLA] FLUSHED 5 records.
+2026-03-16 02:43:55,701 - [TSLA] Post-Market-Fallback Buffered: 00:43
+2026-03-16 02:44:53,969 - [TSLA] Post-Market-Fallback Buffered: 00:44
+2026-03-16 02:45:52,592 - [TSLA] Post-Market-Fallback Buffered: 00:45
+2026-03-16 02:46:02,179 - Worker Online for TSLA
+2026-03-16 02:47:54,155 - [TSLA] Post-Market-Fallback Buffered: 00:47
+2026-03-16 02:48:47,910 - [TSLA] Post-Market-Fallback Buffered: 00:48
+2026-03-16 02:49:54,944 - [TSLA] Post-Market-Fallback Buffered: 00:49
+2026-03-16 02:50:09,535 - Worker Online for TSLA
+2026-03-16 02:52:01,385 - [TSLA] Overnight Buffered: 00:51
+2026-03-16 02:52:55,207 - [TSLA] Overnight Buffered: 00:52
+2026-03-16 02:53:55,207 - [TSLA] Overnight Buffered: 00:53
+2026-03-16 02:54:55,656 - [TSLA] Overnight Buffered: 00:54
+2026-03-16 02:55:55,255 - [TSLA] Overnight Buffered: 00:55
+2026-03-16 02:55:55,493 - [TSLA] FLUSHED 5 records.
+2026-03-16 02:56:51,479 - [TSLA] Overnight Buffered: 00:56
+2026-03-16 02:57:55,892 - [TSLA] Overnight Buffered: 00:57
+2026-03-16 02:58:56,956 - [TSLA] Overnight Buffered: 00:58
+2026-03-16 22:45:36,488 - Worker Online for TSLA
+2026-03-16 22:47:35,238 - [TSLA] Regular Buffered: 20:46
+2026-03-16 22:48:58,904 - [TSLA] Regular Buffered: 20:47
+2026-03-16 22:50:19,239 - [TSLA] Regular Buffered: 20:48
+2026-03-16 22:51:32,545 - [TSLA] Regular Buffered: 20:49
+2026-03-16 22:52:39,575 - [TSLA] Regular Buffered: 20:50
+2026-03-16 22:52:39,834 - [TSLA] FLUSHED 5 records.
+2026-03-16 22:53:44,982 - [TSLA] Regular Buffered: 20:51
+2026-03-16 22:54:48,598 - Worker Online for TSLA
+2026-03-16 22:56:17,240 - [TSLA] Regular Buffered: 20:55
+2026-03-16 22:57:22,875 - [TSLA] Regular Buffered: 20:56
+2026-03-16 22:58:42,868 - [TSLA] Regular Buffered: 20:57
+2026-03-16 22:59:53,906 - [TSLA] Regular Buffered: 20:58
+2026-03-16 23:01:00,600 - [TSLA] Regular Buffered: 20:59
+2026-03-16 23:01:19,881 - Loop Error: connection already closed
+2026-03-16 23:01:39,951 - Fetch failed: HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=10)
+2026-03-16 23:01:40,006 - Fetch failed: HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /quote/TSLA/?p=TSLA&ts=1773694899.9516723 (Caused by NameResolutionError("HTTPSConnection(host='finance.yahoo.com', port=443): Failed to resolve 'finance.yahoo.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 23:03:07,557 - [TSLA] Post-Market-Fallback Buffered: 21:02
+2026-03-16 23:03:08,509 - [TSLA] FLUSHED 6 records.
+2026-03-16 23:04:16,720 - [TSLA] Post-Market-Fallback Buffered: 21:03
+2026-03-16 23:05:23,633 - [TSLA] Post-Market-Fallback Buffered: 21:04
+2026-03-16 23:06:24,628 - [TSLA] Post-Market-Fallback Buffered: 21:05
+2026-03-16 23:07:27,036 - [TSLA] Post-Market-Fallback Buffered: 21:06
+2026-03-16 23:08:34,723 - [TSLA] Post-Market-Fallback Buffered: 21:07
+2026-03-16 23:08:34,964 - [TSLA] FLUSHED 5 records.
+2026-03-16 23:11:55,707 - Worker Online for TSLA
+2026-03-16 23:13:04,912 - [TSLA] Post-Market Buffered: 21:12
+2026-03-16 23:13:05,158 - [TSLA] FLUSHED 1 record(s) to RDS.
+2026-03-16 23:14:03,400 - [TSLA] Post-Market Buffered: 21:13
+2026-03-16 23:14:03,640 - [TSLA] FLUSHED 1 record(s) to RDS.
+2026-03-16 23:15:04,113 - [TSLA] Post-Market Buffered: 21:14
+2026-03-16 23:15:04,382 - [TSLA] FLUSHED 1 record(s) to RDS.
+2026-03-16 23:16:06,712 - [TSLA] Post-Market Buffered: 21:15
+2026-03-16 23:16:07,088 - [TSLA] FLUSHED 1 record(s) to RDS.
+2026-03-16 23:16:55,308 - Fetch error: HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.
+2026-03-16 23:17:56,821 - Fetch error: HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out.
+2026-03-16 23:18:50,442 - [TSLA] Post-Market Buffered: 21:16
+2026-03-16 23:18:50,681 - [TSLA] FLUSHED 1 record(s) to RDS.
+2026-03-16 23:19:44,610 - [TSLA] Post-Market Buffered: 21:17
+2026-03-16 23:19:44,841 - [TSLA] FLUSHED 1 record(s) to RDS.

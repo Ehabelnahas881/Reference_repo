@@ -1,0 +1,8 @@
+from datetime import datetime
+
+end_date = 1771338600
+end_date_datetime = datetime.fromtimestamp(end_date)
+end_date_dd_mm_yy = end_date_datetime.strftime('%d-%m-%Y %H:%M:%S')
+
+print(f"Original timestamp: {end_date}")
+print(f"Converted date (DD-MM-YY): {end_date_dd_mm_yy}")

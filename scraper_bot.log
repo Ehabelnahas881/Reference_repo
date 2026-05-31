@@ -1,0 +1,1262 @@
+2026-05-02 03:58:42 - [Market] ENGINE ONLINE - 10 ASSET PERSISTENT MODE
+2026-05-02 03:58:42 - [Market] [Worker-A] Warming Session (Impersonating "Windows")...
+2026-05-02 03:58:42 - [Market] Serving on http://0.0.0.0:3989
+2026-05-02 03:59:27 - [Market] [Worker-B] Warming Session (Impersonating "macOS")...
+2026-05-04 03:21:37 - [Market] ENGINE ONLINE - BUFFERED PERSISTENCE ENABLED
+2026-05-04 03:21:37 - [Market] Serving on http://0.0.0.0:3989
+2026-05-04 03:21:37 - [Market] [Worker-A] Warming up session identity...
+2026-05-04 03:21:38 - [Market] [DB] Connection pool established.
+2026-05-04 03:21:42 - [Market] [Worker-A] Warming up session identity...
+2026-05-04 03:21:42 - [Market] [TSLA] WORKER LIVE.
+2026-05-04 03:21:47 - [Market] [Worker-A] Warming up session identity...
+2026-05-04 03:21:48 - [Market] [AAPL] WORKER LIVE.
+2026-05-04 03:21:52 - [Market] [Worker-A] Warming up session identity...
+2026-05-04 03:21:53 - [Market] [NVDA] WORKER LIVE.
+2026-05-04 03:21:57 - [Market] [Worker-A] Warming up session identity...
+2026-05-04 03:22:01 - [Market] [MSFT] WORKER LIVE.
+2026-05-04 03:22:02 - [Market] [Worker-B] Warming up session identity...
+2026-05-04 03:22:02 - [Market] [AMZN] WORKER LIVE.
+2026-05-04 03:22:07 - [Market] [Worker-B] Warming up session identity...
+2026-05-04 03:22:09 - [Market] [GOOG] WORKER LIVE.
+2026-05-04 03:22:12 - [Market] [Worker-B] Warming up session identity...
+2026-05-04 03:22:13 - [Market] [META] WORKER LIVE.
+2026-05-04 03:22:17 - [Market] [Worker-B] Warming up session identity...
+2026-05-04 03:22:19 - [Market] [HPQ] WORKER LIVE.
+2026-05-04 03:22:22 - [Market] [Worker-B] Warming up session identity...
+2026-05-04 03:22:24 - [Market] [AMD] WORKER LIVE.
+2026-05-04 03:22:27 - [Market] [ARM] WORKER LIVE.
+2026-05-04 03:22:48 - [Market] [AAPL] Queued 00:22
+2026-05-04 03:22:48 - [Market] [TSLA] Queued 00:22
+2026-05-04 03:22:48 - [Market] [NVDA] Queued 00:22
+2026-05-04 03:22:48 - [Market] [DB SUCCESS] AAPL stored.
+2026-05-04 03:22:49 - [Market] [DB SUCCESS] TSLA stored.
+2026-05-04 03:22:49 - [Market] [DB SUCCESS] NVDA stored.
+2026-05-04 03:23:47 - [Market] [HPQ] Queued 00:23
+2026-05-04 03:23:47 - [Market] [DB SUCCESS] HPQ stored.
+2026-05-04 03:23:48 - [Market] [AMZN] Queued 00:23
+2026-05-04 03:23:48 - [Market] [AAPL] Queued 00:23
+2026-05-04 03:23:49 - [Market] [GOOG] Queued 00:23
+2026-05-04 03:23:49 - [Market] [TSLA] Queued 00:23
+2026-05-04 03:23:49 - [Market] [ARM] Queued 00:23
+2026-05-04 03:23:50 - [Market] [META] Queued 00:23
+2026-05-04 03:23:51 - [Market] [MSFT] Queued 00:23
+2026-05-04 03:23:51 - [Market] [DB SUCCESS] AMZN stored.
+2026-05-04 03:23:51 - [Market] [AMD] Queued 00:23
+2026-05-04 03:23:52 - [Market] [NVDA] Queued 00:23
+2026-05-04 03:23:52 - [Market] [DB SUCCESS] AAPL stored.
+2026-05-04 03:23:52 - [Market] [DB SUCCESS] GOOG stored.
+2026-05-04 03:23:52 - [Market] [DB SUCCESS] TSLA stored.
+2026-05-04 03:23:53 - [Market] [DB SUCCESS] ARM stored.
+2026-05-04 03:23:53 - [Market] [DB SUCCESS] META stored.
+2026-05-04 03:23:53 - [Market] [DB SUCCESS] MSFT stored.
+2026-05-04 03:23:53 - [Market] [DB SUCCESS] AMD stored.
+2026-05-04 03:23:54 - [Market] [DB SUCCESS] NVDA stored.
+2026-05-04 03:24:47 - [Market] [ARM] Queued 00:24
+2026-05-04 03:24:48 - [Market] [AMD] Queued 00:24
+2026-05-04 03:24:48 - [Market] [DB SUCCESS] ARM stored.
+2026-05-04 03:24:48 - [Market] [META] Queued 00:24
+2026-05-04 03:24:49 - [Market] [MSFT] Queued 00:24
+2026-05-04 03:24:49 - [Market] [HPQ] Queued 00:24
+2026-05-04 03:24:49 - [Market] [GOOG] Queued 00:24
+2026-05-04 03:24:50 - [Market] [AAPL] Queued 00:24
+2026-05-04 03:24:50 - [Market] [AMZN] Queued 00:24
+2026-05-04 03:24:50 - [Market] [TSLA] Queued 00:24
+2026-05-04 03:24:51 - [Market] [NVDA] Queued 00:24
+2026-05-04 03:24:51 - [Market] [DB SUCCESS] AMD stored.
+2026-05-04 03:24:51 - [Market] [DB SUCCESS] META stored.
+2026-05-04 03:24:51 - [Market] [DB SUCCESS] MSFT stored.
+2026-05-04 03:24:51 - [Market] [DB SUCCESS] HPQ stored.
+2026-05-04 03:24:51 - [Market] [DB SUCCESS] GOOG stored.
+2026-05-04 03:24:52 - [Market] [DB SUCCESS] AAPL stored.
+2026-05-04 03:24:52 - [Market] [DB SUCCESS] AMZN stored.
+2026-05-04 03:24:52 - [Market] [DB SUCCESS] TSLA stored.
+2026-05-04 03:24:52 - [Market] [DB SUCCESS] NVDA stored.
+2026-05-05 01:59:10 - [Market] ENGINE ONLINE - MULTI-THREADED ISOLATION ENABLED
+2026-05-05 01:59:10 - [Market] Serving on http://0.0.0.0:3989
+2026-05-05 01:59:10 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 01:59:11 - [Market] [THREAD-NVDA] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-META] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-GOOG] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-TSLA] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-AAPL] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-MSFT] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-HPQ] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-ARM] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-AMD] DB Connected.
+2026-05-05 01:59:11 - [Market] [THREAD-AMZN] DB Connected.
+2026-05-05 01:59:15 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 01:59:15 - [Market] [TSLA] WORKER LIVE.
+2026-05-05 01:59:19 - [Market] [AAPL] WORKER LIVE.
+2026-05-05 01:59:20 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 01:59:25 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 01:59:25 - [Market] [NVDA] WORKER LIVE.
+2026-05-05 01:59:29 - [Market] [MSFT] WORKER LIVE.
+2026-05-05 01:59:30 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 01:59:35 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 01:59:35 - [Market] [AMZN] WORKER LIVE.
+2026-05-05 01:59:40 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 01:59:41 - [Market] [GOOG] WORKER LIVE.
+2026-05-05 01:59:45 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 01:59:45 - [Market] [META] WORKER LIVE.
+2026-05-05 01:59:49 - [Market] [HPQ] WORKER LIVE.
+2026-05-05 01:59:50 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 01:59:55 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 01:59:56 - [Market] [AMD] WORKER LIVE.
+2026-05-05 01:59:59 - [Market] [ARM] WORKER LIVE.
+2026-05-05 02:00:47 - [Market] [NVDA] Queued for Thread-Writer 23:00
+2026-05-05 02:00:47 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:00:48 - [Market] [TSLA] Queued for Thread-Writer 23:00
+2026-05-05 02:00:48 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:00:48 - [Market] [META] Queued for Thread-Writer 23:00
+2026-05-05 02:00:48 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:00:48 - [Market] [AMZN] Queued for Thread-Writer 23:00
+2026-05-05 02:00:49 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:00:49 - [Market] [GOOG] Queued for Thread-Writer 23:00
+2026-05-05 02:00:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:00:49 - [Market] [HPQ] Queued for Thread-Writer 23:00
+2026-05-05 02:00:49 - [Market] [ARM] Queued for Thread-Writer 23:00
+2026-05-05 02:00:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:00:50 - [Market] [AAPL] Queued for Thread-Writer 23:00
+2026-05-05 02:00:50 - [Market] [AMD] Queued for Thread-Writer 23:00
+2026-05-05 02:00:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:00:50 - [Market] [MSFT] Queued for Thread-Writer 23:00
+2026-05-05 02:00:51 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:00:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:00:52 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:01:48 - [Market] [HPQ] Queued for Thread-Writer 23:01
+2026-05-05 02:01:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:01:48 - [Market] [AMZN] Queued for Thread-Writer 23:01
+2026-05-05 02:01:48 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:01:49 - [Market] [ARM] Queued for Thread-Writer 23:01
+2026-05-05 02:01:49 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:01:49 - [Market] [AMD] Queued for Thread-Writer 23:01
+2026-05-05 02:01:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:01:49 - [Market] [NVDA] Queued for Thread-Writer 23:01
+2026-05-05 02:01:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:01:50 - [Market] [AAPL] Queued for Thread-Writer 23:01
+2026-05-05 02:01:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:01:50 - [Market] [META] Queued for Thread-Writer 23:01
+2026-05-05 02:01:50 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:01:50 - [Market] [GOOG] Queued for Thread-Writer 23:01
+2026-05-05 02:01:50 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:01:51 - [Market] [TSLA] Queued for Thread-Writer 23:01
+2026-05-05 02:01:51 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:01:51 - [Market] [MSFT] Queued for Thread-Writer 23:01
+2026-05-05 02:01:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:02:52 - [Market] [META] Queued for Thread-Writer 23:02
+2026-05-05 02:02:52 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:02:53 - [Market] [TSLA] Queued for Thread-Writer 23:02
+2026-05-05 02:02:53 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:02:53 - [Market] [MSFT] Queued for Thread-Writer 23:02
+2026-05-05 02:02:53 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:02:53 - [Market] [ARM] Queued for Thread-Writer 23:02
+2026-05-05 02:02:54 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:02:54 - [Market] [HPQ] Queued for Thread-Writer 23:02
+2026-05-05 02:02:54 - [Market] [NVDA] Queued for Thread-Writer 23:02
+2026-05-05 02:02:54 - [Market] [AAPL] Queued for Thread-Writer 23:02
+2026-05-05 02:02:54 - [Market] [GOOG] Queued for Thread-Writer 23:02
+2026-05-05 02:02:54 - [Market] [AMD] Queued for Thread-Writer 23:02
+2026-05-05 02:02:54 - [Market] [AMZN] Queued for Thread-Writer 23:02
+2026-05-05 02:02:54 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:02:54 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:02:54 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:02:54 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:02:54 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:02:54 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:03:47 - [Market] [GOOG] Queued for Thread-Writer 23:03
+2026-05-05 02:03:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:03:48 - [Market] [AAPL] Queued for Thread-Writer 23:03
+2026-05-05 02:03:48 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:03:48 - [Market] [TSLA] Queued for Thread-Writer 23:03
+2026-05-05 02:03:48 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:03:49 - [Market] [ARM] Queued for Thread-Writer 23:03
+2026-05-05 02:03:49 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:03:49 - [Market] [HPQ] Queued for Thread-Writer 23:03
+2026-05-05 02:03:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:03:49 - [Market] [META] Queued for Thread-Writer 23:03
+2026-05-05 02:03:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:03:50 - [Market] [NVDA] Queued for Thread-Writer 23:03
+2026-05-05 02:03:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:03:50 - [Market] [AMZN] Queued for Thread-Writer 23:03
+2026-05-05 02:03:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:03:50 - [Market] [MSFT] Queued for Thread-Writer 23:03
+2026-05-05 02:03:50 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:03:51 - [Market] [AMD] Queued for Thread-Writer 23:03
+2026-05-05 02:03:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:04:48 - [Market] [GOOG] Queued for Thread-Writer 23:04
+2026-05-05 02:04:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:04:48 - [Market] [AMD] Queued for Thread-Writer 23:04
+2026-05-05 02:04:48 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:04:49 - [Market] [MSFT] Queued for Thread-Writer 23:04
+2026-05-05 02:04:49 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:04:49 - [Market] [AAPL] Queued for Thread-Writer 23:04
+2026-05-05 02:04:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:04:50 - [Market] [ARM] Queued for Thread-Writer 23:04
+2026-05-05 02:04:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:04:50 - [Market] [NVDA] Queued for Thread-Writer 23:04
+2026-05-05 02:04:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:04:50 - [Market] [AMZN] Queued for Thread-Writer 23:04
+2026-05-05 02:04:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:04:51 - [Market] [TSLA] Queued for Thread-Writer 23:04
+2026-05-05 02:04:51 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:04:51 - [Market] [HPQ] Queued for Thread-Writer 23:04
+2026-05-05 02:04:51 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:04:51 - [Market] [META] Queued for Thread-Writer 23:04
+2026-05-05 02:04:52 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:05:48 - [Market] [TSLA] Queued for Thread-Writer 23:05
+2026-05-05 02:05:48 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:05:48 - [Market] [META] Queued for Thread-Writer 23:05
+2026-05-05 02:05:48 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:05:49 - [Market] [AMZN] Queued for Thread-Writer 23:05
+2026-05-05 02:05:49 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:05:49 - [Market] [MSFT] Queued for Thread-Writer 23:05
+2026-05-05 02:05:49 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:05:49 - [Market] [HPQ] Queued for Thread-Writer 23:05
+2026-05-05 02:05:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:05:50 - [Market] [GOOG] Queued for Thread-Writer 23:05
+2026-05-05 02:05:50 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:05:50 - [Market] [ARM] Queued for Thread-Writer 23:05
+2026-05-05 02:05:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:05:50 - [Market] [AAPL] Queued for Thread-Writer 23:05
+2026-05-05 02:05:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:05:51 - [Market] [AMD] Queued for Thread-Writer 23:05
+2026-05-05 02:05:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:05:51 - [Market] [NVDA] Queued for Thread-Writer 23:05
+2026-05-05 02:05:51 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:06:48 - [Market] [MSFT] Queued for Thread-Writer 23:06
+2026-05-05 02:06:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:06:48 - [Market] [GOOG] Queued for Thread-Writer 23:06
+2026-05-05 02:06:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:06:49 - [Market] [AAPL] Queued for Thread-Writer 23:06
+2026-05-05 02:06:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:06:50 - [Market] [NVDA] Queued for Thread-Writer 23:06
+2026-05-05 02:06:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:06:50 - [Market] [HPQ] Queued for Thread-Writer 23:06
+2026-05-05 02:06:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:06:50 - [Market] [AMD] Queued for Thread-Writer 23:06
+2026-05-05 02:06:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:06:51 - [Market] [TSLA] Queued for Thread-Writer 23:06
+2026-05-05 02:06:51 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:06:51 - [Market] [META] Queued for Thread-Writer 23:06
+2026-05-05 02:06:51 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:06:52 - [Market] [AMZN] Queued for Thread-Writer 23:06
+2026-05-05 02:06:52 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:06:52 - [Market] [ARM] Queued for Thread-Writer 23:06
+2026-05-05 02:06:53 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:07:48 - [Market] [ARM] Queued for Thread-Writer 23:07
+2026-05-05 02:07:48 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:07:48 - [Market] [GOOG] Queued for Thread-Writer 23:07
+2026-05-05 02:07:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:07:49 - [Market] [NVDA] Queued for Thread-Writer 23:07
+2026-05-05 02:07:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:07:49 - [Market] [META] Queued for Thread-Writer 23:07
+2026-05-05 02:07:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:07:49 - [Market] [TSLA] Queued for Thread-Writer 23:07
+2026-05-05 02:07:49 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:07:49 - [Market] [HPQ] Queued for Thread-Writer 23:07
+2026-05-05 02:07:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:07:50 - [Market] [AMZN] Queued for Thread-Writer 23:07
+2026-05-05 02:07:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:07:50 - [Market] [AAPL] Queued for Thread-Writer 23:07
+2026-05-05 02:07:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:07:51 - [Market] [MSFT] Queued for Thread-Writer 23:07
+2026-05-05 02:07:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:07:51 - [Market] [AMD] Queued for Thread-Writer 23:07
+2026-05-05 02:07:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:08:48 - [Market] [HPQ] Queued for Thread-Writer 23:08
+2026-05-05 02:08:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:08:48 - [Market] [GOOG] Queued for Thread-Writer 23:08
+2026-05-05 02:08:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:08:49 - [Market] [ARM] Queued for Thread-Writer 23:08
+2026-05-05 02:08:49 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:08:49 - [Market] [TSLA] Queued for Thread-Writer 23:08
+2026-05-05 02:08:49 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:08:49 - [Market] [NVDA] Queued for Thread-Writer 23:08
+2026-05-05 02:08:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:08:50 - [Market] [AMZN] Queued for Thread-Writer 23:08
+2026-05-05 02:08:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:08:50 - [Market] [META] Queued for Thread-Writer 23:08
+2026-05-05 02:08:50 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:08:50 - [Market] [AAPL] Queued for Thread-Writer 23:08
+2026-05-05 02:08:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:08:51 - [Market] [AMD] Queued for Thread-Writer 23:08
+2026-05-05 02:08:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:08:51 - [Market] [MSFT] Queued for Thread-Writer 23:08
+2026-05-05 02:08:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:09:48 - [Market] [AAPL] Queued for Thread-Writer 23:09
+2026-05-05 02:09:48 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:09:48 - [Market] [AMD] Queued for Thread-Writer 23:09
+2026-05-05 02:09:48 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:09:49 - [Market] [HPQ] Queued for Thread-Writer 23:09
+2026-05-05 02:09:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:09:49 - [Market] [MSFT] Queued for Thread-Writer 23:09
+2026-05-05 02:09:49 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:09:49 - [Market] [NVDA] Queued for Thread-Writer 23:09
+2026-05-05 02:09:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:09:50 - [Market] [GOOG] Queued for Thread-Writer 23:09
+2026-05-05 02:09:50 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:09:50 - [Market] [META] Queued for Thread-Writer 23:09
+2026-05-05 02:09:50 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:09:51 - [Market] [TSLA] Queued for Thread-Writer 23:09
+2026-05-05 02:09:51 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:09:51 - [Market] [ARM] Queued for Thread-Writer 23:09
+2026-05-05 02:09:51 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:09:51 - [Market] [AMZN] Queued for Thread-Writer 23:09
+2026-05-05 02:09:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:10:48 - [Market] [MSFT] Queued for Thread-Writer 23:10
+2026-05-05 02:10:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:10:48 - [Market] [META] Queued for Thread-Writer 23:10
+2026-05-05 02:10:48 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:10:49 - [Market] [GOOG] Queued for Thread-Writer 23:10
+2026-05-05 02:10:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:10:49 - [Market] [AMD] Queued for Thread-Writer 23:10
+2026-05-05 02:10:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:10:49 - [Market] [AAPL] Queued for Thread-Writer 23:10
+2026-05-05 02:10:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:10:50 - [Market] [HPQ] Queued for Thread-Writer 23:10
+2026-05-05 02:10:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:10:50 - [Market] [TSLA] Queued for Thread-Writer 23:10
+2026-05-05 02:10:50 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:10:50 - [Market] [NVDA] Queued for Thread-Writer 23:10
+2026-05-05 02:10:51 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:10:51 - [Market] [ARM] Queued for Thread-Writer 23:10
+2026-05-05 02:10:51 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:10:51 - [Market] [AMZN] Queued for Thread-Writer 23:10
+2026-05-05 02:10:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:11:48 - [Market] [MSFT] Queued for Thread-Writer 23:11
+2026-05-05 02:11:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:11:48 - [Market] [META] Queued for Thread-Writer 23:11
+2026-05-05 02:11:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:11:49 - [Market] [AMD] Queued for Thread-Writer 23:11
+2026-05-05 02:11:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:11:49 - [Market] [ARM] Queued for Thread-Writer 23:11
+2026-05-05 02:11:49 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:11:50 - [Market] [TSLA] Queued for Thread-Writer 23:11
+2026-05-05 02:11:50 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:11:50 - [Market] [HPQ] Queued for Thread-Writer 23:11
+2026-05-05 02:11:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:11:51 - [Market] [NVDA] Queued for Thread-Writer 23:11
+2026-05-05 02:11:51 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:11:51 - [Market] [AAPL] Queued for Thread-Writer 23:11
+2026-05-05 02:11:51 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:11:51 - [Market] [AMZN] Queued for Thread-Writer 23:11
+2026-05-05 02:11:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:11:52 - [Market] [GOOG] Queued for Thread-Writer 23:11
+2026-05-05 02:11:52 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:12:06 - [Market] ENGINE ONLINE - MULTI-THREADED ISOLATION ENABLED
+2026-05-05 02:12:06 - [Market] Serving on http://0.0.0.0:3989
+2026-05-05 02:12:06 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:12:08 - [Market] [THREAD-MSFT] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-TSLA] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-GOOG] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-AMZN] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-NVDA] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-AMD] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-AAPL] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-HPQ] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-ARM] DB Connected.
+2026-05-05 02:12:08 - [Market] [THREAD-META] DB Connected.
+2026-05-05 02:12:11 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:12:15 - [Market] [TSLA] WORKER LIVE.
+2026-05-05 02:12:16 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:12:18 - [Market] [AAPL] WORKER LIVE.
+2026-05-05 02:12:21 - [Market] [NVDA] WORKER LIVE.
+2026-05-05 02:12:21 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:12:26 - [Market] [MSFT] WORKER LIVE.
+2026-05-05 02:12:26 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:12:31 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:12:32 - [Market] [AMZN] WORKER LIVE.
+2026-05-05 02:12:36 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:12:38 - [Market] [GOOG] WORKER LIVE.
+2026-05-05 02:12:41 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:12:42 - [Market] [META] WORKER LIVE.
+2026-05-05 02:12:46 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:12:48 - [Market] [HPQ] WORKER LIVE.
+2026-05-05 02:12:51 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:12:52 - [Market] [AMD] WORKER LIVE.
+2026-05-05 02:12:58 - [Market] [ARM] WORKER LIVE.
+2026-05-05 02:23:30 - [Market] ENGINE ONLINE - MULTI-THREADED ISOLATION ENABLED
+2026-05-05 02:23:30 - [Market] Serving on http://0.0.0.0:3989
+2026-05-05 02:23:30 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:23:32 - [Market] [THREAD-NVDA] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-GOOG] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-AMD] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-META] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-MSFT] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-AMZN] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-HPQ] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-ARM] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-TSLA] DB Connected.
+2026-05-05 02:23:32 - [Market] [THREAD-AAPL] DB Connected.
+2026-05-05 02:23:35 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:23:37 - [Market] [TSLA] WORKER LIVE.
+2026-05-05 02:23:40 - [Market] [AAPL] WORKER LIVE.
+2026-05-05 02:23:40 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:23:45 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:23:46 - [Market] [NVDA] WORKER LIVE.
+2026-05-05 02:23:50 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:23:51 - [Market] [MSFT] WORKER LIVE.
+2026-05-05 02:23:55 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:23:57 - [Market] [AMZN] WORKER LIVE.
+2026-05-05 02:24:00 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:24:04 - [Market] [GOOG] WORKER LIVE.
+2026-05-05 02:24:05 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:24:08 - [Market] [META] WORKER LIVE.
+2026-05-05 02:24:10 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:24:12 - [Market] [HPQ] WORKER LIVE.
+2026-05-05 02:24:15 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:24:16 - [Market] [AMD] WORKER LIVE.
+2026-05-05 02:24:22 - [Market] [ARM] WORKER LIVE.
+2026-05-05 02:24:47 - [Market] [AAPL] Queued for Thread-Writer 23:24
+2026-05-05 02:24:47 - [Market] [AAPL] Prices: [276.5, 276.51, 276.5, 276.5] | Valid: [276.5, 276.51, 276.5, 276.5]
+2026-05-05 02:24:47 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:24:48 - [Market] [NVDA] Queued for Thread-Writer 23:24
+2026-05-05 02:24:48 - [Market] [NVDA] Prices: [197.82, 197.82, 197.77, 197.79] | Valid: [197.82, 197.82, 197.77, 197.79]
+2026-05-05 02:24:48 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:24:48 - [Market] [AMZN] Queued for Thread-Writer 23:24
+2026-05-05 02:24:48 - [Market] [AMZN] Prices: [272.03, 272.2, 272.03, 272.2] | Valid: [272.03, 272.2, 272.03, 272.2]
+2026-05-05 02:24:49 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:24:49 - [Market] [MSFT] Queued for Thread-Writer 23:24
+2026-05-05 02:24:49 - [Market] [MSFT] Prices: [413.07, 413.1, 413.0, 413.0] | Valid: [413.07, 413.1, 413.0, 413.0]
+2026-05-05 02:24:49 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:24:49 - [Market] [TSLA] Queued for Thread-Writer 23:24
+2026-05-05 02:24:49 - [Market] [TSLA] Prices: [391.63, 391.65, 391.64, 391.64] | Valid: [391.63, 391.65, 391.64, 391.64]
+2026-05-05 02:24:49 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:25:48 - [Market] [AMD] Queued for Thread-Writer 23:25
+2026-05-05 02:25:48 - [Market] [AMD] Prices: [343.89, 343.9, 343.89, 343.75] | Valid: [343.89, 343.9, 343.89, 343.75]
+2026-05-05 02:25:48 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:25:48 - [Market] [NVDA] Queued for Thread-Writer 23:25
+2026-05-05 02:25:48 - [Market] [NVDA] Prices: [197.79, 197.76, 197.75, 197.75] | Valid: [197.79, 197.76, 197.75, 197.75]
+2026-05-05 02:25:48 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:25:48 - [Market] [GOOG] Queued for Thread-Writer 23:25
+2026-05-05 02:25:48 - [Market] [GOOG] Prices: [379.46, 379.37, 379.5, 379.5] | Valid: [379.46, 379.37, 379.5, 379.5]
+2026-05-05 02:25:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:25:49 - [Market] [META] Queued for Thread-Writer 23:25
+2026-05-05 02:25:49 - [Market] [META] Prices: [609.8, 609.8, 609.5, 609.5] | Valid: [609.8, 609.8, 609.5, 609.5]
+2026-05-05 02:25:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:25:49 - [Market] [HPQ] Queued for Thread-Writer 23:25
+2026-05-05 02:25:49 - [Market] [HPQ] Prices: [20.84, 20.84, 20.84, 20.84] | Valid: [20.84, 20.84, 20.84, 20.84]
+2026-05-05 02:25:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:25:50 - [Market] [TSLA] Queued for Thread-Writer 23:25
+2026-05-05 02:25:50 - [Market] [TSLA] Prices: [391.62, 391.62, 391.63, 391.65] | Valid: [391.62, 391.62, 391.63, 391.65]
+2026-05-05 02:25:50 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:25:50 - [Market] [ARM] Queued for Thread-Writer 23:25
+2026-05-05 02:25:50 - [Market] [ARM] Prices: [202.0, 201.9, 201.9, 201.9] | Valid: [202.0, 201.9, 201.9, 201.9]
+2026-05-05 02:25:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:25:50 - [Market] [AMZN] Queued for Thread-Writer 23:25
+2026-05-05 02:25:50 - [Market] [AMZN] Prices: [272.2, 272.14, 272.17, 272.2] | Valid: [272.2, 272.14, 272.17, 272.2]
+2026-05-05 02:25:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:25:51 - [Market] [MSFT] Queued for Thread-Writer 23:25
+2026-05-05 02:25:51 - [Market] [MSFT] Prices: [413.01, 412.99, 412.99, 412.95] | Valid: [413.01, 412.99, 412.99, 412.95]
+2026-05-05 02:25:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:25:51 - [Market] [AAPL] Queued for Thread-Writer 23:25
+2026-05-05 02:25:51 - [Market] [AAPL] Prices: [276.5, 276.49, 276.5, 276.49] | Valid: [276.5, 276.49, 276.5, 276.49]
+2026-05-05 02:25:51 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:26:48 - [Market] [AMZN] Queued for Thread-Writer 23:26
+2026-05-05 02:26:48 - [Market] [AMZN] Prices: [272.2, 272.19, 272.2, 272.2] | Valid: [272.2, 272.19, 272.2, 272.2]
+2026-05-05 02:26:48 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:26:48 - [Market] [MSFT] Queued for Thread-Writer 23:26
+2026-05-05 02:26:48 - [Market] [MSFT] Prices: [412.95, 412.9, 412.96, 412.98] | Valid: [412.95, 412.9, 412.96, 412.98]
+2026-05-05 02:26:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:26:49 - [Market] [HPQ] Queued for Thread-Writer 23:26
+2026-05-05 02:26:49 - [Market] [HPQ] Prices: [20.84, 20.79, 20.79, 20.79] | Valid: [20.84, 20.79, 20.79, 20.79]
+2026-05-05 02:26:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:26:49 - [Market] [META] Queued for Thread-Writer 23:26
+2026-05-05 02:26:49 - [Market] [META] Prices: [609.5, 609.45, 609.5, 609.63] | Valid: [609.5, 609.45, 609.5, 609.63]
+2026-05-05 02:26:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:26:50 - [Market] [GOOG] Queued for Thread-Writer 23:26
+2026-05-05 02:26:50 - [Market] [GOOG] Prices: [379.48, 379.48, 379.5, 379.5] | Valid: [379.48, 379.48, 379.5, 379.5]
+2026-05-05 02:26:50 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:26:50 - [Market] [TSLA] Queued for Thread-Writer 23:26
+2026-05-05 02:26:50 - [Market] [TSLA] Prices: [391.6, 391.62, 391.62, 391.62] | Valid: [391.6, 391.62, 391.62, 391.62]
+2026-05-05 02:26:50 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:26:51 - [Market] [AAPL] Queued for Thread-Writer 23:26
+2026-05-05 02:26:51 - [Market] [AAPL] Prices: [276.49, 276.5, 276.48, 276.5] | Valid: [276.49, 276.5, 276.48, 276.5]
+2026-05-05 02:26:51 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:26:51 - [Market] [NVDA] Queued for Thread-Writer 23:26
+2026-05-05 02:26:51 - [Market] [NVDA] Prices: [197.76, 197.76, 197.76, 197.74] | Valid: [197.76, 197.76, 197.76, 197.74]
+2026-05-05 02:26:51 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:26:51 - [Market] [ARM] Queued for Thread-Writer 23:26
+2026-05-05 02:26:51 - [Market] [ARM] Prices: [201.8, 201.8, 201.5, 201.5] | Valid: [201.8, 201.8, 201.5, 201.5]
+2026-05-05 02:26:51 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:26:52 - [Market] [AMD] Queued for Thread-Writer 23:26
+2026-05-05 02:26:52 - [Market] [AMD] Prices: [343.87, 343.87, 343.86, 343.89] | Valid: [343.87, 343.87, 343.86, 343.89]
+2026-05-05 02:26:52 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:27:09 - [Market] ENGINE ONLINE - MULTI-THREADED ISOLATION ENABLED
+2026-05-05 02:27:09 - [Market] Serving on http://0.0.0.0:3989
+2026-05-05 02:27:09 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:27:11 - [Market] [THREAD-ARM] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-TSLA] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-GOOG] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-NVDA] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-MSFT] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-HPQ] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-META] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-AMD] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-AAPL] DB Connected.
+2026-05-05 02:27:11 - [Market] [THREAD-AMZN] DB Connected.
+2026-05-05 02:27:14 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:27:15 - [Market] [TSLA] WORKER LIVE.
+2026-05-05 02:27:19 - [Market] [AAPL] WORKER LIVE.
+2026-05-05 02:27:19 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:27:24 - [Market] [NVDA] WORKER LIVE.
+2026-05-05 02:27:24 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:27:29 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:27:30 - [Market] [MSFT] WORKER LIVE.
+2026-05-05 02:27:34 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:27:36 - [Market] [AMZN] WORKER LIVE.
+2026-05-05 02:27:39 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:27:39 - [Market] [GOOG] WORKER LIVE.
+2026-05-05 02:27:44 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:27:45 - [Market] [META] WORKER LIVE.
+2026-05-05 02:27:49 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:27:50 - [Market] [HPQ] WORKER LIVE.
+2026-05-05 02:27:54 - [Market] [AMD] WORKER LIVE.
+2026-05-05 02:27:54 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:28:00 - [Market] [ARM] WORKER LIVE.
+2026-05-05 02:28:48 - [Market] [MSFT] Queued for Thread-Writer 23:28
+2026-05-05 02:28:48 - [Market] [MSFT] Prices: [412.93, 412.93, 412.93, 412.93] 
+2026-05-05 02:28:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:28:48 - [Market] [META] Queued for Thread-Writer 23:28
+2026-05-05 02:28:48 - [Market] [META] Prices: [609.65, 609.52, 609.52, 609.6] 
+2026-05-05 02:28:48 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:28:49 - [Market] [HPQ] Queued for Thread-Writer 23:28
+2026-05-05 02:28:49 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:28:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:28:49 - [Market] [GOOG] Queued for Thread-Writer 23:28
+2026-05-05 02:28:49 - [Market] [GOOG] Prices: [379.47, 379.47, 379.24, 379.24] 
+2026-05-05 02:28:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:28:50 - [Market] [AMZN] Queued for Thread-Writer 23:28
+2026-05-05 02:28:50 - [Market] [AMZN] Prices: [272.2, 272.01, 272.19, 271.95] 
+2026-05-05 02:28:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:28:50 - [Market] [AMD] Queued for Thread-Writer 23:28
+2026-05-05 02:28:50 - [Market] [AMD] Prices: [343.75, 343.9, 343.75, 343.85] 
+2026-05-05 02:28:50 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:28:50 - [Market] [NVDA] Queued for Thread-Writer 23:28
+2026-05-05 02:28:50 - [Market] [NVDA] Prices: [197.75, 197.77, 197.73, 197.73] 
+2026-05-05 02:28:51 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:28:51 - [Market] [TSLA] Queued for Thread-Writer 23:28
+2026-05-05 02:28:51 - [Market] [TSLA] Prices: [391.65, 391.63, 391.61, 391.63] 
+2026-05-05 02:28:51 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:28:51 - [Market] [AAPL] Queued for Thread-Writer 23:28
+2026-05-05 02:28:51 - [Market] [AAPL] Prices: [276.49, 276.49, 276.41, 276.42] 
+2026-05-05 02:28:51 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:29:48 - [Market] [MSFT] Queued for Thread-Writer 23:29
+2026-05-05 02:29:48 - [Market] [MSFT] Prices: [412.92, 412.92, 412.94, 412.86] 
+2026-05-05 02:29:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:29:48 - [Market] [AMD] Queued for Thread-Writer 23:29
+2026-05-05 02:29:48 - [Market] [AMD] Prices: [343.75, 343.89, 344.0, 343.87] 
+2026-05-05 02:29:48 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:29:48 - [Market] [HPQ] Queued for Thread-Writer 23:29
+2026-05-05 02:29:48 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:29:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:29:49 - [Market] [GOOG] Queued for Thread-Writer 23:29
+2026-05-05 02:29:49 - [Market] [GOOG] Prices: [379.47, 379.47, 379.47, 379.4] 
+2026-05-05 02:29:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:29:49 - [Market] [META] Queued for Thread-Writer 23:29
+2026-05-05 02:29:49 - [Market] [META] Prices: [609.6, 609.6, 609.45, 609.45] 
+2026-05-05 02:29:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:29:49 - [Market] [AMZN] Queued for Thread-Writer 23:29
+2026-05-05 02:29:49 - [Market] [AMZN] Prices: [271.95, 272.15, 271.96, 272.2] 
+2026-05-05 02:29:49 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:29:50 - [Market] [AAPL] Queued for Thread-Writer 23:29
+2026-05-05 02:29:50 - [Market] [AAPL] Prices: [276.42, 276.42, 276.42, 276.42] 
+2026-05-05 02:29:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:29:50 - [Market] [NVDA] Queued for Thread-Writer 23:29
+2026-05-05 02:29:50 - [Market] [NVDA] Prices: [197.72, 197.75, 197.74, 197.79] 
+2026-05-05 02:29:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:29:50 - [Market] [ARM] Queued for Thread-Writer 23:29
+2026-05-05 02:29:50 - [Market] [ARM] Prices: [201.85, 201.85, 201.79, 201.78] 
+2026-05-05 02:29:51 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:29:51 - [Market] [TSLA] Queued for Thread-Writer 23:29
+2026-05-05 02:29:51 - [Market] [TSLA] Prices: [391.63, 391.61, 391.64, 391.69] 
+2026-05-05 02:29:51 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:30:48 - [Market] [HPQ] Queued for Thread-Writer 23:30
+2026-05-05 02:30:48 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:30:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:30:48 - [Market] [AMZN] Queued for Thread-Writer 23:30
+2026-05-05 02:30:48 - [Market] [AMZN] Prices: [272.0, 272.0, 272.0, 272.0] 
+2026-05-05 02:30:48 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:30:49 - [Market] [MSFT] Queued for Thread-Writer 23:30
+2026-05-05 02:30:49 - [Market] [MSFT] Prices: [412.94, 412.9, 413.0, 412.86] 
+2026-05-05 02:30:49 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:30:49 - [Market] [GOOG] Queued for Thread-Writer 23:30
+2026-05-05 02:30:49 - [Market] [GOOG] Prices: [379.47, 379.47, 379.47, 379.37] 
+2026-05-05 02:30:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:30:49 - [Market] [AMD] Queued for Thread-Writer 23:30
+2026-05-05 02:30:49 - [Market] [AMD] Prices: [343.9, 343.9, 343.87, 343.9] 
+2026-05-05 02:30:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:30:50 - [Market] [ARM] Queued for Thread-Writer 23:30
+2026-05-05 02:30:50 - [Market] [ARM] Prices: [202.0, 202.0, 201.8, 201.8] 
+2026-05-05 02:30:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:30:50 - [Market] [TSLA] Queued for Thread-Writer 23:30
+2026-05-05 02:30:50 - [Market] [TSLA] Prices: [391.72, 391.78, 391.76, 391.84] 
+2026-05-05 02:30:50 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:30:50 - [Market] [NVDA] Queued for Thread-Writer 23:30
+2026-05-05 02:30:50 - [Market] [NVDA] Prices: [197.78, 197.77, 197.78, 197.77] 
+2026-05-05 02:30:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:30:51 - [Market] [AAPL] Queued for Thread-Writer 23:30
+2026-05-05 02:30:51 - [Market] [AAPL] Prices: [276.42, 276.43, 276.45, 276.43] 
+2026-05-05 02:30:51 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:30:51 - [Market] [META] Queued for Thread-Writer 23:30
+2026-05-05 02:30:51 - [Market] [META] Prices: [609.6, 609.53, 609.6, 609.8] 
+2026-05-05 02:30:51 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:31:48 - [Market] [AAPL] Queued for Thread-Writer 23:31
+2026-05-05 02:31:48 - [Market] [AAPL] Prices: [276.45, 276.43, 276.49, 276.49] 
+2026-05-05 02:31:48 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:31:48 - [Market] [GOOG] Queued for Thread-Writer 23:31
+2026-05-05 02:31:48 - [Market] [GOOG] Prices: [379.37, 379.37, 379.49, 379.37] 
+2026-05-05 02:31:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:31:48 - [Market] [MSFT] Queued for Thread-Writer 23:31
+2026-05-05 02:31:48 - [Market] [MSFT] Prices: [412.85, 412.85, 412.85, 412.84] 
+2026-05-05 02:31:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:31:49 - [Market] [AMD] Queued for Thread-Writer 23:31
+2026-05-05 02:31:49 - [Market] [AMD] Prices: [343.9, 343.75, 343.91, 343.91] 
+2026-05-05 02:31:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:31:49 - [Market] [ARM] Queued for Thread-Writer 23:31
+2026-05-05 02:31:49 - [Market] [ARM] Prices: [201.8, 201.8, 201.9, 201.9] 
+2026-05-05 02:31:49 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:31:49 - [Market] [META] Queued for Thread-Writer 23:31
+2026-05-05 02:31:49 - [Market] [META] Prices: [609.6, 609.48, 609.45, 609.45] 
+2026-05-05 02:31:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:31:50 - [Market] [TSLA] Queued for Thread-Writer 23:31
+2026-05-05 02:31:50 - [Market] [TSLA] Prices: [391.7, 391.71, 391.8, 391.8] 
+2026-05-05 02:31:50 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:31:50 - [Market] [NVDA] Queued for Thread-Writer 23:31
+2026-05-05 02:31:50 - [Market] [NVDA] Prices: [197.78, 197.77, 197.79, 197.77] 
+2026-05-05 02:31:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:31:50 - [Market] [AMZN] Queued for Thread-Writer 23:31
+2026-05-05 02:31:50 - [Market] [AMZN] Prices: [271.98, 271.95, 271.95, 272.0] 
+2026-05-05 02:31:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:31:51 - [Market] [HPQ] Queued for Thread-Writer 23:31
+2026-05-05 02:31:51 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:31:51 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:32:48 - [Market] [TSLA] Queued for Thread-Writer 23:32
+2026-05-05 02:32:48 - [Market] [TSLA] Prices: [391.84, 391.75, 391.81, 391.8] 
+2026-05-05 02:32:48 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:32:48 - [Market] [MSFT] Queued for Thread-Writer 23:32
+2026-05-05 02:32:48 - [Market] [MSFT] Prices: [412.8, 412.8, 412.8, 412.8] 
+2026-05-05 02:32:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:32:49 - [Market] [META] Queued for Thread-Writer 23:32
+2026-05-05 02:32:49 - [Market] [META] Prices: [609.66, 609.45, 609.53, 609.65] 
+2026-05-05 02:32:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:32:49 - [Market] [GOOG] Queued for Thread-Writer 23:32
+2026-05-05 02:32:49 - [Market] [GOOG] Prices: [379.37, 379.37, 379.37, 379.37] 
+2026-05-05 02:32:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:32:49 - [Market] [AAPL] Queued for Thread-Writer 23:32
+2026-05-05 02:32:49 - [Market] [AAPL] Prices: [276.49, 276.5, 276.5, 276.43] 
+2026-05-05 02:32:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:32:50 - [Market] [AMZN] Queued for Thread-Writer 23:32
+2026-05-05 02:32:50 - [Market] [AMZN] Prices: [272.0, 271.97, 271.98, 272.0] 
+2026-05-05 02:32:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:32:50 - [Market] [NVDA] Queued for Thread-Writer 23:32
+2026-05-05 02:32:50 - [Market] [NVDA] Prices: [197.77, 197.78, 197.77, 197.74] 
+2026-05-05 02:32:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:32:50 - [Market] [HPQ] Queued for Thread-Writer 23:32
+2026-05-05 02:32:50 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:32:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:32:50 - [Market] [ARM] Queued for Thread-Writer 23:32
+2026-05-05 02:32:50 - [Market] [ARM] Prices: [201.6, 201.6, 201.6, 201.79] 
+2026-05-05 02:32:51 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:32:51 - [Market] [AMD] Queued for Thread-Writer 23:32
+2026-05-05 02:32:51 - [Market] [AMD] Prices: [343.91, 343.84, 343.86, 343.93] 
+2026-05-05 02:32:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:33:48 - [Market] [ARM] Queued for Thread-Writer 23:33
+2026-05-05 02:33:48 - [Market] [ARM] Prices: [201.79, 201.76, 201.76, 201.75] 
+2026-05-05 02:33:48 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:33:49 - [Market] [HPQ] Queued for Thread-Writer 23:33
+2026-05-05 02:33:49 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:33:49 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:33:49 - [Market] [AMZN] Queued for Thread-Writer 23:33
+2026-05-05 02:33:49 - [Market] [AMZN] Prices: [272.2, 272.11, 272.2, 271.9] 
+2026-05-05 02:33:49 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:33:49 - [Market] [AMD] Queued for Thread-Writer 23:33
+2026-05-05 02:33:49 - [Market] [AMD] Prices: [343.97, 343.87, 343.9, 343.93] 
+2026-05-05 02:33:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:33:50 - [Market] [META] Queued for Thread-Writer 23:33
+2026-05-05 02:33:50 - [Market] [META] Prices: [609.52, 609.52, 609.5, 609.55] 
+2026-05-05 02:33:50 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:33:50 - [Market] [NVDA] Queued for Thread-Writer 23:33
+2026-05-05 02:33:50 - [Market] [NVDA] Prices: [197.75, 197.74, 197.75, 197.75] 
+2026-05-05 02:33:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:33:51 - [Market] [GOOG] Queued for Thread-Writer 23:33
+2026-05-05 02:33:51 - [Market] [GOOG] Prices: [379.37, 379.5, 379.5, 379.5] 
+2026-05-05 02:33:51 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:33:51 - [Market] [MSFT] Queued for Thread-Writer 23:33
+2026-05-05 02:33:51 - [Market] [MSFT] Prices: [412.8, 412.78, 412.79, 412.75] 
+2026-05-05 02:33:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:33:52 - [Market] [TSLA] Queued for Thread-Writer 23:33
+2026-05-05 02:33:52 - [Market] [TSLA] Prices: [391.81, 391.81, 391.81, 391.81] 
+2026-05-05 02:33:52 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:33:52 - [Market] [AAPL] Queued for Thread-Writer 23:33
+2026-05-05 02:33:52 - [Market] [AAPL] Prices: [276.42, 276.42, 276.42, 276.42] 
+2026-05-05 02:33:52 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:34:48 - [Market] [NVDA] Queued for Thread-Writer 23:34
+2026-05-05 02:34:48 - [Market] [NVDA] Prices: [197.73, 197.73, 197.72, 197.7] 
+2026-05-05 02:34:48 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:34:48 - [Market] [META] Queued for Thread-Writer 23:34
+2026-05-05 02:34:48 - [Market] [META] Prices: [609.45, 609.45, 609.52, 609.42] 
+2026-05-05 02:34:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:34:49 - [Market] [TSLA] Queued for Thread-Writer 23:34
+2026-05-05 02:34:49 - [Market] [TSLA] Prices: [391.84, 391.84, 391.8, 391.84] 
+2026-05-05 02:34:49 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:34:50 - [Market] [AAPL] Queued for Thread-Writer 23:34
+2026-05-05 02:34:50 - [Market] [AAPL] Prices: [276.42, 276.45, 276.44, 276.44] 
+2026-05-05 02:34:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:34:50 - [Market] [MSFT] Queued for Thread-Writer 23:34
+2026-05-05 02:34:50 - [Market] [MSFT] Prices: [412.75, 412.75, 412.8, 412.8] 
+2026-05-05 02:34:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:34:51 - [Market] [GOOG] Queued for Thread-Writer 23:34
+2026-05-05 02:34:51 - [Market] [GOOG] Prices: [379.5, 379.5, 379.4, 379.36] 
+2026-05-05 02:34:51 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:34:51 - [Market] [AMZN] Queued for Thread-Writer 23:34
+2026-05-05 02:34:51 - [Market] [AMZN] Prices: [272.2, 272.2, 272.2, 272.2] 
+2026-05-05 02:34:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:34:51 - [Market] [ARM] Queued for Thread-Writer 23:34
+2026-05-05 02:34:51 - [Market] [ARM] Prices: [201.75, 201.75, 201.75, 201.75] 
+2026-05-05 02:34:51 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:34:52 - [Market] [HPQ] Queued for Thread-Writer 23:34
+2026-05-05 02:34:52 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:34:52 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:34:52 - [Market] [AMD] Queued for Thread-Writer 23:34
+2026-05-05 02:34:52 - [Market] [AMD] Prices: [343.91, 343.9, 343.95, 343.93] 
+2026-05-05 02:34:52 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:35:48 - [Market] [HPQ] Queued for Thread-Writer 23:35
+2026-05-05 02:35:48 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:35:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:35:48 - [Market] [GOOG] Queued for Thread-Writer 23:35
+2026-05-05 02:35:48 - [Market] [GOOG] Prices: [379.36, 379.36, 379.4, 379.4] 
+2026-05-05 02:35:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:35:48 - [Market] [AMD] Queued for Thread-Writer 23:35
+2026-05-05 02:35:48 - [Market] [AMD] Prices: [343.92, 343.85, 343.92, 343.95] 
+2026-05-05 02:35:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:35:49 - [Market] [MSFT] Queued for Thread-Writer 23:35
+2026-05-05 02:35:49 - [Market] [MSFT] Prices: [412.8, 412.8, 412.75, 412.75] 
+2026-05-05 02:35:49 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:35:49 - [Market] [AMZN] Queued for Thread-Writer 23:35
+2026-05-05 02:35:49 - [Market] [AMZN] Prices: [271.9, 271.9, 272.0, 272.04] 
+2026-05-05 02:35:50 - [Market] [ARM] Queued for Thread-Writer 23:35
+2026-05-05 02:35:50 - [Market] [ARM] Prices: [201.78, 201.78, 201.78, 201.01] 
+2026-05-05 02:35:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:35:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:35:50 - [Market] [AAPL] Queued for Thread-Writer 23:35
+2026-05-05 02:35:50 - [Market] [AAPL] Prices: [276.44, 276.5, 276.5, 276.5] 
+2026-05-05 02:35:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:35:51 - [Market] [META] Queued for Thread-Writer 23:35
+2026-05-05 02:35:51 - [Market] [META] Prices: [609.41, 609.41, 609.41, 609.4] 
+2026-05-05 02:35:51 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:35:51 - [Market] [NVDA] Queued for Thread-Writer 23:35
+2026-05-05 02:35:51 - [Market] [NVDA] Prices: [197.73, 197.73, 197.73, 197.75] 
+2026-05-05 02:35:52 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:35:52 - [Market] [TSLA] Queued for Thread-Writer 23:35
+2026-05-05 02:35:52 - [Market] [TSLA] Prices: [391.81, 391.77, 391.8, 391.77] 
+2026-05-05 02:35:52 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:36:48 - [Market] [GOOG] Queued for Thread-Writer 23:36
+2026-05-05 02:36:48 - [Market] [GOOG] Prices: [379.37, 379.27, 379.24, 379.24] 
+2026-05-05 02:36:48 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:36:49 - [Market] [ARM] Queued for Thread-Writer 23:36
+2026-05-05 02:36:49 - [Market] [ARM] Prices: [201.6, 201.6, 201.6, 201.6] 
+2026-05-05 02:36:49 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:36:49 - [Market] [TSLA] Queued for Thread-Writer 23:36
+2026-05-05 02:36:49 - [Market] [TSLA] Prices: [391.75, 391.8, 391.8, 391.8] 
+2026-05-05 02:36:49 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:36:49 - [Market] [META] Queued for Thread-Writer 23:36
+2026-05-05 02:36:49 - [Market] [META] Prices: [609.42, 609.42, 609.42, 609.41] 
+2026-05-05 02:36:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:36:50 - [Market] [AMZN] Queued for Thread-Writer 23:36
+2026-05-05 02:36:50 - [Market] [AMZN] Prices: [272.05, 272.15, 272.15, 272.03] 
+2026-05-05 02:36:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:36:50 - [Market] [NVDA] Queued for Thread-Writer 23:36
+2026-05-05 02:36:50 - [Market] [NVDA] Prices: [197.72, 197.71, 197.71, 197.72] 
+2026-05-05 02:36:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:36:50 - [Market] [AMD] Queued for Thread-Writer 23:36
+2026-05-05 02:36:50 - [Market] [AMD] Prices: [343.78, 344.0, 343.95, 343.9] 
+2026-05-05 02:36:50 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:36:51 - [Market] [MSFT] Queued for Thread-Writer 23:36
+2026-05-05 02:36:51 - [Market] [MSFT] Prices: [412.75, 412.78, 412.76, 412.8] 
+2026-05-05 02:36:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:36:51 - [Market] [AAPL] Queued for Thread-Writer 23:36
+2026-05-05 02:36:51 - [Market] [AAPL] Prices: [276.43, 276.45, 276.49, 276.42] 
+2026-05-05 02:36:51 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:36:51 - [Market] [HPQ] Queued for Thread-Writer 23:36
+2026-05-05 02:36:51 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:36:52 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:37:48 - [Market] [META] Queued for Thread-Writer 23:37
+2026-05-05 02:37:48 - [Market] [META] Prices: [609.42, 609.4, 609.4, 609.42] 
+2026-05-05 02:37:48 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:37:48 - [Market] [NVDA] Queued for Thread-Writer 23:37
+2026-05-05 02:37:48 - [Market] [NVDA] Prices: [197.72, 197.72, 197.71, 197.7] 
+2026-05-05 02:37:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:37:49 - [Market] [AAPL] Queued for Thread-Writer 23:37
+2026-05-05 02:37:49 - [Market] [AAPL] Prices: [276.47, 276.42, 276.47, 276.43] 
+2026-05-05 02:37:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:37:50 - [Market] [ARM] Queued for Thread-Writer 23:37
+2026-05-05 02:37:50 - [Market] [ARM] Prices: [201.6, 201.6, 201.6, 201.69] 
+2026-05-05 02:37:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:37:51 - [Market] [AMZN] Queued for Thread-Writer 23:37
+2026-05-05 02:37:51 - [Market] [AMZN] Prices: [271.9, 272.09, 271.9, 271.9] 
+2026-05-05 02:37:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:37:51 - [Market] [HPQ] Queued for Thread-Writer 23:37
+2026-05-05 02:37:51 - [Market] [HPQ] Prices: [20.79, 20.79, 20.79, 20.79] 
+2026-05-05 02:37:52 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:37:52 - [Market] [MSFT] Queued for Thread-Writer 23:37
+2026-05-05 02:37:52 - [Market] [MSFT] Prices: [412.77, 412.77, 412.77, 412.8] 
+2026-05-05 02:37:52 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:37:52 - [Market] [TSLA] Queued for Thread-Writer 23:37
+2026-05-05 02:37:52 - [Market] [TSLA] Prices: [391.75, 391.77, 391.75, 391.77] 
+2026-05-05 02:37:52 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:37:53 - [Market] [GOOG] Queued for Thread-Writer 23:37
+2026-05-05 02:37:53 - [Market] [GOOG] Prices: [379.24, 379.24, 379.24, 379.24] 
+2026-05-05 02:37:53 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:37:53 - [Market] [AMD] Queued for Thread-Writer 23:37
+2026-05-05 02:37:53 - [Market] [AMD] Prices: [343.9, 343.96, 343.96, 343.85] 
+2026-05-05 02:37:54 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:40:15 - [Market] ENGINE ONLINE - MULTI-THREADED ISOLATION ENABLED
+2026-05-05 02:40:15 - [Market] Serving on http://0.0.0.0:3989
+2026-05-05 02:40:15 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:40:16 - [Market] [THREAD-GOOG] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-NVDA] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-AMD] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-MSFT] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-AMZN] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-HPQ] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-ARM] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-AAPL] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-META] DB Connected.
+2026-05-05 02:40:16 - [Market] [THREAD-TSLA] DB Connected.
+2026-05-05 02:40:20 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:40:20 - [Market] [TSLA] WORKER LIVE.
+2026-05-05 02:40:25 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:40:25 - [Market] [AAPL] WORKER LIVE.
+2026-05-05 02:40:30 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:40:31 - [Market] [NVDA] WORKER LIVE.
+2026-05-05 02:40:35 - [Market] [MSFT] WORKER LIVE.
+2026-05-05 02:40:35 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:40:40 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:40:41 - [Market] [AMZN] WORKER LIVE.
+2026-05-05 02:40:45 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:40:45 - [Market] [GOOG] WORKER LIVE.
+2026-05-05 02:40:50 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:40:50 - [Market] [META] WORKER LIVE.
+2026-05-05 02:40:55 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:40:56 - [Market] [HPQ] WORKER LIVE.
+2026-05-05 02:41:00 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:41:01 - [Market] [AMD] WORKER LIVE.
+2026-05-05 02:41:08 - [Market] [ARM] WORKER LIVE.
+2026-05-05 02:41:47 - [Market] [MSFT] Queued for Thread-Writer 23:41
+2026-05-05 02:41:47 - [Market] [MSFT] Prices: [412.95, 412.85, 412.85, 412.82] 
+2026-05-05 02:41:48 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:41:49 - [Market] [TSLA] Queued for Thread-Writer 23:41
+2026-05-05 02:41:49 - [Market] [TSLA] Prices: [391.78, 391.78, 391.8, 391.79] 
+2026-05-05 02:41:49 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:41:49 - [Market] [AAPL] Queued for Thread-Writer 23:41
+2026-05-05 02:41:49 - [Market] [AAPL] Prices: [276.5, 276.5, 276.46, 276.46] 
+2026-05-05 02:41:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:41:50 - [Market] [GOOG] Queued for Thread-Writer 23:41
+2026-05-05 02:41:50 - [Market] [GOOG] Prices: [379.32, 379.4, 379.47, 379.24] 
+2026-05-05 02:41:50 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:41:51 - [Market] [AMZN] Queued for Thread-Writer 23:41
+2026-05-05 02:41:51 - [Market] [AMZN] Prices: [272.1, 272.1, 271.95, 272.01] 
+2026-05-05 02:41:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:41:52 - [Market] [META] Queued for Thread-Writer 23:41
+2026-05-05 02:41:52 - [Market] [META] Prices: [609.45, 609.53, 609.51, 609.58] 
+2026-05-05 02:41:52 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:41:52 - [Market] [HPQ] Queued for Thread-Writer 23:41
+2026-05-05 02:41:52 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83] 
+2026-05-05 02:41:52 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:41:53 - [Market] [NVDA] Queued for Thread-Writer 23:41
+2026-05-05 02:41:53 - [Market] [NVDA] Prices: [197.72, 197.7, 197.74, 197.74] 
+2026-05-05 02:41:53 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:42:48 - [Market] [TSLA] Queued for Thread-Writer 23:42
+2026-05-05 02:42:48 - [Market] [TSLA] Prices: [391.84, 391.84, 391.8, 391.88] 
+2026-05-05 02:42:48 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:42:48 - [Market] [ARM] Queued for Thread-Writer 23:42
+2026-05-05 02:42:48 - [Market] [ARM] Prices: [201.78, 201.78, 201.78, 201.78] 
+2026-05-05 02:42:48 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:42:49 - [Market] [GOOG] Queued for Thread-Writer 23:42
+2026-05-05 02:42:49 - [Market] [GOOG] Prices: [379.24, 379.25, 379.25, 379.25] 
+2026-05-05 02:42:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:42:49 - [Market] [AAPL] Queued for Thread-Writer 23:42
+2026-05-05 02:42:49 - [Market] [AAPL] Prices: [276.49, 276.5, 276.46, 276.46] 
+2026-05-05 02:42:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:42:50 - [Market] [MSFT] Queued for Thread-Writer 23:42
+2026-05-05 02:42:50 - [Market] [MSFT] Prices: [412.82, 412.82, 412.82, 412.82] 
+2026-05-05 02:42:50 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:42:50 - [Market] [HPQ] Queued for Thread-Writer 23:42
+2026-05-05 02:42:50 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83] 
+2026-05-05 02:42:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:42:51 - [Market] [META] Queued for Thread-Writer 23:42
+2026-05-05 02:42:51 - [Market] [META] Prices: [609.64, 609.53, 609.54, 609.66] 
+2026-05-05 02:42:51 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:42:51 - [Market] [AMZN] Queued for Thread-Writer 23:42
+2026-05-05 02:42:51 - [Market] [AMZN] Prices: [272.03, 272.0, 272.0, 272.03] 
+2026-05-05 02:42:51 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:42:51 - [Market] [NVDA] Queued for Thread-Writer 23:42
+2026-05-05 02:42:51 - [Market] [NVDA] Prices: [197.73, 197.71, 197.72, 197.72] 
+2026-05-05 02:42:51 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:42:52 - [Market] [AMD] Queued for Thread-Writer 23:42
+2026-05-05 02:42:52 - [Market] [AMD] Prices: [343.68, 343.6, 343.62, 343.57] 
+2026-05-05 02:42:52 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:43:49 - [Market] [NVDA] Queued for Thread-Writer 23:43
+2026-05-05 02:43:49 - [Market] [NVDA] Prices: [197.73, 197.72, 197.73, 197.72] 
+2026-05-05 02:43:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:43:50 - [Market] [GOOG] Queued for Thread-Writer 23:43
+2026-05-05 02:43:50 - [Market] [GOOG] Prices: [379.27, 379.24, 379.24, 379.24] 
+2026-05-05 02:43:50 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:43:50 - [Market] [HPQ] Queued for Thread-Writer 23:43
+2026-05-05 02:43:50 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83] 
+2026-05-05 02:43:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:43:50 - [Market] [ARM] Queued for Thread-Writer 23:43
+2026-05-05 02:43:50 - [Market] [ARM] Prices: [201.78, 201.51, 201.51, 201.51] 
+2026-05-05 02:43:51 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:43:51 - [Market] [AMD] Queued for Thread-Writer 23:43
+2026-05-05 02:43:51 - [Market] [AMD] Prices: [343.5, 343.49, 343.51, 343.55] 
+2026-05-05 02:43:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:43:51 - [Market] [MSFT] Queued for Thread-Writer 23:43
+2026-05-05 02:43:51 - [Market] [MSFT] Prices: [412.82, 412.76, 412.8, 412.78] 
+2026-05-05 02:43:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:43:51 - [Market] [AMZN] Queued for Thread-Writer 23:43
+2026-05-05 02:43:51 - [Market] [AMZN] Prices: [272.03, 272.03, 272.03, 272.0] 
+2026-05-05 02:43:52 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:43:52 - [Market] [AAPL] Queued for Thread-Writer 23:43
+2026-05-05 02:43:52 - [Market] [AAPL] Prices: [276.42, 276.42, 276.42, 276.46] 
+2026-05-05 02:43:52 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:43:53 - [Market] [META] Queued for Thread-Writer 23:43
+2026-05-05 02:43:53 - [Market] [META] Prices: [609.66, 609.66, 609.7, 609.75] 
+2026-05-05 02:43:53 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:43:53 - [Market] [TSLA] Queued for Thread-Writer 23:43
+2026-05-05 02:43:53 - [Market] [TSLA] Prices: [391.8, 391.85, 391.83, 391.85] 
+2026-05-05 02:43:53 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:44:47 - [Market] [META] Queued for Thread-Writer 23:44
+2026-05-05 02:44:47 - [Market] [META] Prices: [609.8, 609.6, 609.65, 609.66] 
+2026-05-05 02:44:48 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:44:48 - [Market] [AMZN] Queued for Thread-Writer 23:44
+2026-05-05 02:44:48 - [Market] [AMZN] Prices: [272.02, 272.03, 272.0, 272.03] 
+2026-05-05 02:44:48 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:44:48 - [Market] [NVDA] Queued for Thread-Writer 23:44
+2026-05-05 02:44:48 - [Market] [NVDA] Prices: [197.73, 197.73, 197.7, 197.72] 
+2026-05-05 02:44:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:44:49 - [Market] [GOOG] Queued for Thread-Writer 23:44
+2026-05-05 02:44:49 - [Market] [GOOG] Prices: [379.27, 379.28, 379.18, 379.18] 
+2026-05-05 02:44:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:44:49 - [Market] [ARM] Queued for Thread-Writer 23:44
+2026-05-05 02:44:49 - [Market] [ARM] Prices: [201.51, 201.51, 201.5, 201.04] 
+2026-05-05 02:44:50 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:44:50 - [Market] [HPQ] Queued for Thread-Writer 23:44
+2026-05-05 02:44:50 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83] 
+2026-05-05 02:44:50 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:44:50 - [Market] [AAPL] Queued for Thread-Writer 23:44
+2026-05-05 02:44:50 - [Market] [AAPL] Prices: [276.5, 276.5, 276.49, 276.49] 
+2026-05-05 02:44:50 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:44:51 - [Market] [MSFT] Queued for Thread-Writer 23:44
+2026-05-05 02:44:51 - [Market] [MSFT] Prices: [412.78, 412.78, 412.78, 412.78] 
+2026-05-05 02:44:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:44:51 - [Market] [TSLA] Queued for Thread-Writer 23:44
+2026-05-05 02:44:51 - [Market] [TSLA] Prices: [391.85, 391.82, 391.85, 391.78] 
+2026-05-05 02:44:51 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:44:51 - [Market] [AMD] Queued for Thread-Writer 23:44
+2026-05-05 02:44:51 - [Market] [AMD] Prices: [343.51, 343.59, 343.64, 343.52] 
+2026-05-05 02:44:51 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:45:47 - [Market] [NVDA] Queued for Thread-Writer 23:45
+2026-05-05 02:45:47 - [Market] [NVDA] Prices: [197.71, 197.72, 197.71, 197.71] 
+2026-05-05 02:45:48 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:45:48 - [Market] [HPQ] Queued for Thread-Writer 23:45
+2026-05-05 02:45:48 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83] 
+2026-05-05 02:45:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:45:48 - [Market] [AMD] Queued for Thread-Writer 23:45
+2026-05-05 02:45:48 - [Market] [AMD] Prices: [343.5, 343.47, 343.5, 343.41] 
+2026-05-05 02:45:48 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:45:49 - [Market] [AAPL] Queued for Thread-Writer 23:45
+2026-05-05 02:45:49 - [Market] [AAPL] Prices: [276.45, 276.47, 276.47, 276.5] 
+2026-05-05 02:45:49 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:45:49 - [Market] [META] Queued for Thread-Writer 23:45
+2026-05-05 02:45:49 - [Market] [META] Prices: [609.66, 609.66, 609.58, 609.65] 
+2026-05-05 02:45:49 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:45:49 - [Market] [ARM] Queued for Thread-Writer 23:45
+2026-05-05 02:45:49 - [Market] [ARM] Prices: [201.04, 201.14, 201.14, 201.14] 
+2026-05-05 02:45:49 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:45:50 - [Market] [GOOG] Queued for Thread-Writer 23:45
+2026-05-05 02:45:50 - [Market] [GOOG] Prices: [379.18, 379.45, 379.18, 379.18] 
+2026-05-05 02:45:50 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:45:50 - [Market] [TSLA] Queued for Thread-Writer 23:45
+2026-05-05 02:45:50 - [Market] [TSLA] Prices: [391.78, 391.81, 391.75, 391.75] 
+2026-05-05 02:45:50 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:45:50 - [Market] [AMZN] Queued for Thread-Writer 23:45
+2026-05-05 02:45:50 - [Market] [AMZN] Prices: [272.03, 272.0, 272.01, 272.0] 
+2026-05-05 02:45:50 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:45:51 - [Market] [MSFT] Queued for Thread-Writer 23:45
+2026-05-05 02:45:51 - [Market] [MSFT] Prices: [412.78, 412.77, 412.74, 412.73] 
+2026-05-05 02:45:51 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:46:43 - [Market] ENGINE ONLINE - MULTI-THREADED ISOLATION ENABLED
+2026-05-05 02:46:43 - [Market] Serving on http://0.0.0.0:3989
+2026-05-05 02:46:43 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:46:44 - [Market] [THREAD-MSFT] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-META] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-AMZN] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-HPQ] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-NVDA] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-TSLA] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-AAPL] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-AMD] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-GOOG] DB Connected.
+2026-05-05 02:46:45 - [Market] [THREAD-ARM] DB Connected.
+2026-05-05 02:46:48 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:46:50 - [Market] [TSLA] WORKER LIVE. Schedule: [15, 28, 44, 58]
+2026-05-05 02:46:53 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:46:54 - [Market] [AAPL] WORKER LIVE. Schedule: [17, 30, 44, 58]
+2026-05-05 02:46:58 - [Market] [NVDA] WORKER LIVE. Schedule: [17, 31, 46, 58]
+2026-05-05 02:46:58 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:47:03 - [Market] [Worker-A] Warming up session identity...
+2026-05-05 02:47:05 - [Market] [MSFT] WORKER LIVE. Schedule: [17, 31, 45, 58]
+2026-05-05 02:47:08 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:47:09 - [Market] [AMZN] WORKER LIVE. Schedule: [14, 32, 45, 58]
+2026-05-05 02:47:13 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:47:14 - [Market] [GOOG] WORKER LIVE. Schedule: [14, 31, 46, 58]
+2026-05-05 02:47:18 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:47:20 - [Market] [META] WORKER LIVE. Schedule: [17, 32, 44, 58]
+2026-05-05 02:47:23 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:47:24 - [Market] [HPQ] WORKER LIVE. Schedule: [17, 30, 45, 58]
+2026-05-05 02:47:28 - [Market] [AMD] WORKER LIVE. Schedule: [13, 28, 46, 58]
+2026-05-05 02:47:28 - [Market] [Worker-B] Warming up session identity...
+2026-05-05 02:47:34 - [Market] [ARM] WORKER LIVE. Schedule: [14, 31, 43, 58]
+2026-05-05 02:47:46 - [Market] [AAPL] Queued for Thread-Writer 23:47
+2026-05-05 02:47:46 - [Market] [AAPL] Prices: [276.49, 276.5, 276.49, 276.49]
+2026-05-05 02:47:46 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:47:47 - [Market] [TSLA] Queued for Thread-Writer 23:47
+2026-05-05 02:47:47 - [Market] [TSLA] Prices: [391.74, 391.74, 391.74, 391.68]
+2026-05-05 02:47:47 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:47:48 - [Market] [NVDA] Queued for Thread-Writer 23:47
+2026-05-05 02:47:48 - [Market] [NVDA] Prices: [197.73, 197.71, 197.7, 197.72]
+2026-05-05 02:47:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:48:45 - [Market] [ARM] Queued for Thread-Writer 23:48
+2026-05-05 02:48:45 - [Market] [ARM] Prices: [201.52, 201.11, 201.11, 201.11]
+2026-05-05 02:48:46 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:48:46 - [Market] [AAPL] Queued for Thread-Writer 23:48
+2026-05-05 02:48:46 - [Market] [AAPL] Prices: [276.5, 276.5, 276.5, 276.5]
+2026-05-05 02:48:46 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:48:47 - [Market] [META] Queued for Thread-Writer 23:48
+2026-05-05 02:48:47 - [Market] [META] Prices: [609.58, 609.6, 609.63, 609.63]
+2026-05-05 02:48:47 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:48:47 - [Market] [TSLA] Queued for Thread-Writer 23:48
+2026-05-05 02:48:47 - [Market] [TSLA] Prices: [391.67, 391.67, 391.65, 391.65]
+2026-05-05 02:48:47 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:48:47 - [Market] [MSFT] Queued for Thread-Writer 23:48
+2026-05-05 02:48:47 - [Market] [MSFT] Prices: [412.6, 412.65, 412.65, 412.64]
+2026-05-05 02:48:47 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:48:48 - [Market] [HPQ] Queued for Thread-Writer 23:48
+2026-05-05 02:48:48 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83]
+2026-05-05 02:48:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:48:48 - [Market] [AMZN] Queued for Thread-Writer 23:48
+2026-05-05 02:48:48 - [Market] [AMZN] Prices: [272.02, 272.03, 272.03, 272.01]
+2026-05-05 02:48:48 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:48:48 - [Market] [NVDA] Queued for Thread-Writer 23:48
+2026-05-05 02:48:48 - [Market] [NVDA] Prices: [197.72, 197.71, 197.72, 197.7]
+2026-05-05 02:48:49 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:48:49 - [Market] [GOOG] Queued for Thread-Writer 23:48
+2026-05-05 02:48:49 - [Market] [GOOG] Prices: [379.21, 379.21, 379.34, 379.24]
+2026-05-05 02:48:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:48:49 - [Market] [AMD] Queued for Thread-Writer 23:48
+2026-05-05 02:48:49 - [Market] [AMD] Prices: [343.25, 343.37, 343.34, 343.25]
+2026-05-05 02:48:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:49:46 - [Market] [TSLA] Queued for Thread-Writer 23:49
+2026-05-05 02:49:46 - [Market] [TSLA] Prices: [391.65, 391.65, 391.66, 391.66]
+2026-05-05 02:49:46 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:49:47 - [Market] [MSFT] Queued for Thread-Writer 23:49
+2026-05-05 02:49:47 - [Market] [MSFT] Prices: [412.64, 412.65, 412.69, 412.69]
+2026-05-05 02:49:47 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:49:48 - [Market] [ARM] Queued for Thread-Writer 23:49
+2026-05-05 02:49:48 - [Market] [ARM] Prices: [201.11, 201.11, 201.11, 201.11]
+2026-05-05 02:49:48 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:49:48 - [Market] [AAPL] Queued for Thread-Writer 23:49
+2026-05-05 02:49:48 - [Market] [AAPL] Prices: [276.49, 276.49, 276.49, 276.49]
+2026-05-05 02:49:48 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:49:48 - [Market] [HPQ] Queued for Thread-Writer 23:49
+2026-05-05 02:49:48 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83]
+2026-05-05 02:49:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:49:49 - [Market] [AMZN] Queued for Thread-Writer 23:49
+2026-05-05 02:49:49 - [Market] [AMZN] Prices: [272.0, 272.03, 272.03, 272.01]
+2026-05-05 02:49:49 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:49:49 - [Market] [GOOG] Queued for Thread-Writer 23:49
+2026-05-05 02:49:49 - [Market] [GOOG] Prices: [379.2, 379.2, 379.45, 379.45]
+2026-05-05 02:49:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:49:49 - [Market] [AMD] Queued for Thread-Writer 23:49
+2026-05-05 02:49:49 - [Market] [AMD] Prices: [343.35, 343.35, 343.2, 343.37]
+2026-05-05 02:49:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:49:50 - [Market] [META] Queued for Thread-Writer 23:49
+2026-05-05 02:49:50 - [Market] [META] Prices: [609.72, 609.65, 609.74, 609.63]
+2026-05-05 02:49:50 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:49:50 - [Market] [NVDA] Queued for Thread-Writer 23:49
+2026-05-05 02:49:50 - [Market] [NVDA] Prices: [197.71, 197.71, 197.71, 197.71]
+2026-05-05 02:49:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:50:45 - [Market] [ARM] Queued for Thread-Writer 23:50
+2026-05-05 02:50:45 - [Market] [ARM] Prices: [201.11, 201.11, 201.11, 201.11]
+2026-05-05 02:50:45 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:50:46 - [Market] [META] Queued for Thread-Writer 23:50
+2026-05-05 02:50:46 - [Market] [META] Prices: [609.63, 609.63, 609.63, 609.63]
+2026-05-05 02:50:46 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:50:46 - [Market] [AAPL] Queued for Thread-Writer 23:50
+2026-05-05 02:50:46 - [Market] [AAPL] Prices: [276.5, 276.5, 276.49, 276.5]
+2026-05-05 02:50:46 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:50:47 - [Market] [TSLA] Queued for Thread-Writer 23:50
+2026-05-05 02:50:47 - [Market] [TSLA] Prices: [391.65, 391.75, 391.72, 391.66]
+2026-05-05 02:50:47 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:50:48 - [Market] [AMZN] Queued for Thread-Writer 23:50
+2026-05-05 02:50:48 - [Market] [AMZN] Prices: [272.01, 272.03, 272.02, 272.01]
+2026-05-05 02:50:48 - [Market] [THREAD-AMZN] Data Stored.
+2026-05-05 02:50:48 - [Market] [HPQ] Queued for Thread-Writer 23:50
+2026-05-05 02:50:48 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83]
+2026-05-05 02:50:48 - [Market] [THREAD-HPQ] Data Stored.
+2026-05-05 02:50:48 - [Market] [MSFT] Queued for Thread-Writer 23:50
+2026-05-05 02:50:48 - [Market] [MSFT] Prices: [412.6, 412.7, 412.7, 412.65]
+2026-05-05 02:50:49 - [Market] [THREAD-MSFT] Data Stored.
+2026-05-05 02:50:49 - [Market] [GOOG] Queued for Thread-Writer 23:50
+2026-05-05 02:50:49 - [Market] [GOOG] Prices: [379.45, 379.45, 379.39, 379.39]
+2026-05-05 02:50:49 - [Market] [THREAD-GOOG] Data Stored.
+2026-05-05 02:50:49 - [Market] [AMD] Queued for Thread-Writer 23:50
+2026-05-05 02:50:49 - [Market] [AMD] Prices: [343.31, 343.41, 343.36, 343.41]
+2026-05-05 02:50:49 - [Market] [THREAD-AMD] Data Stored.
+2026-05-05 02:50:49 - [Market] [NVDA] Queued for Thread-Writer 23:50
+2026-05-05 02:50:49 - [Market] [NVDA] Prices: [197.7, 197.72, 197.7, 197.71]
+2026-05-05 02:50:50 - [Market] [THREAD-NVDA] Data Stored.
+2026-05-05 02:51:45 - [Market] [ARM] Queued for Thread-Writer 23:51
+2026-05-05 02:51:45 - [Market] [ARM] Prices: [201.11, 202.0, 202.0, 202.0]
+2026-05-05 02:51:45 - [Market] [THREAD-ARM] Data Stored.
+2026-05-05 02:51:46 - [Market] [AAPL] Queued for Thread-Writer 23:51
+2026-05-05 02:51:46 - [Market] [AAPL] Prices: [276.5, 276.5, 276.5, 276.5]
+2026-05-05 02:51:46 - [Market] [THREAD-AAPL] Data Stored.
+2026-05-05 02:51:47 - [Market] [META] Queued for Thread-Writer 23:51
+2026-05-05 02:51:47 - [Market] [META] Prices: [609.63, 609.76, 609.75, 609.75]
+2026-05-05 02:51:47 - [Market] [THREAD-META] Data Stored.
+2026-05-05 02:51:47 - [Market] [TSLA] Queued for Thread-Writer 23:51
+2026-05-05 02:51:47 - [Market] [TSLA] Prices: [391.65, 391.65, 391.64, 391.62]
+2026-05-05 02:51:47 - [Market] [THREAD-TSLA] Data Stored.
+2026-05-05 02:51:48 - [Market] [HPQ] Queued for Thread-Writer 23:51
+2026-05-05 02:51:48 - [Market] [HPQ] Prices: [20.83, 20.83, 20.83, 20.83]
+2026-05-06 02:43:41 - [Market] HYBRID ENGINE STARTING...
+2026-05-06 02:43:41 - [Market] Serving on http://0.0.0.0:3989
+2026-05-06 02:44:33 - [Market] [AAPL] Synced to Threaded-Writer: 23:44
+2026-05-06 02:44:38 - [Market] [ARM] Synced to Threaded-Writer: 23:44
+2026-05-06 02:44:44 - [Market] [TSLA] Synced to Threaded-Writer: 23:44
+2026-05-06 02:44:48 - [Market] [HPQ] Synced to Threaded-Writer: 23:44
+2026-05-06 02:44:51 - [Market] [META] Synced to Threaded-Writer: 23:44
+2026-05-06 02:44:52 - [Market] [AMD] Synced to Threaded-Writer: 23:44
+2026-05-06 02:44:54 - [Market] [NVDA] Synced to Threaded-Writer: 23:44
+2026-05-06 02:45:00 - [Market] [AMZN] Synced to Threaded-Writer: 23:44
+2026-05-06 02:45:03 - [Market] [MSFT] Synced to Threaded-Writer: 23:44
+2026-05-06 02:45:05 - [Market] [GOOG] Synced to Threaded-Writer: 23:44
+2026-05-06 02:45:42 - [Market] [NVDA] Synced to Threaded-Writer: 23:45
+2026-05-06 02:45:49 - [Market] [TSLA] Synced to Threaded-Writer: 23:45
+2026-05-06 02:45:51 - [Market] [AAPL] Synced to Threaded-Writer: 23:45
+2026-05-06 02:45:52 - [Market] [ARM] Synced to Threaded-Writer: 23:45
+2026-05-06 02:45:55 - [Market] [HPQ] Synced to Threaded-Writer: 23:45
+2026-05-06 02:45:56 - [Market] [META] Synced to Threaded-Writer: 23:45
+2026-05-06 02:45:56 - [Market] [AMD] Synced to Threaded-Writer: 23:45
+2026-05-06 02:46:25 - [Market] [MSFT] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:35 - [Market] [ARM] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:41 - [Market] [TSLA] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:46 - [Market] [AAPL] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:47 - [Market] [AMD] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:49 - [Market] [NVDA] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:53 - [Market] [AMZN] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:55 - [Market] [GOOG] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:57 - [Market] [HPQ] Synced to Threaded-Writer: 23:46
+2026-05-06 02:46:59 - [Market] [META] Synced to Threaded-Writer: 23:46
+2026-05-06 02:47:25 - [Market] [TSLA] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:38 - [Market] [GOOG] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:44 - [Market] [NVDA] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:45 - [Market] [META] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:46 - [Market] [MSFT] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:47 - [Market] [AAPL] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:48 - [Market] [AMD] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:49 - [Market] [HPQ] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:53 - [Market] [ARM] Synced to Threaded-Writer: 23:47
+2026-05-06 02:47:55 - [Market] [AMZN] Synced to Threaded-Writer: 23:47
+2026-05-06 02:48:18 - [Market] [AAPL] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:24 - [Market] [MSFT] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:34 - [Market] [META] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:39 - [Market] [GOOG] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:46 - [Market] [TSLA] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:47 - [Market] [AMD] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:50 - [Market] [AMZN] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:54 - [Market] [HPQ] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:55 - [Market] [ARM] Synced to Threaded-Writer: 23:48
+2026-05-06 02:48:58 - [Market] [NVDA] Synced to Threaded-Writer: 23:48
+2026-05-06 02:49:29 - [Market] [META] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:34 - [Market] [AMZN] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:39 - [Market] [AMD] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:41 - [Market] [HPQ] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:43 - [Market] [GOOG] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:44 - [Market] [AAPL] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:49 - [Market] [MSFT] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:50 - [Market] [ARM] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:52 - [Market] [TSLA] Synced to Threaded-Writer: 23:49
+2026-05-06 02:49:56 - [Market] [NVDA] Synced to Threaded-Writer: 23:49
+2026-05-06 02:50:22 - [Market] [HPQ] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:46 - [Market] [MSFT] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:49 - [Market] [AMZN] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:53 - [Market] [NVDA] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:54 - [Market] [ARM] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:54 - [Market] [TSLA] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:55 - [Market] [AMD] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:56 - [Market] [AAPL] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:56 - [Market] [META] Synced to Threaded-Writer: 23:50
+2026-05-06 02:50:58 - [Market] [GOOG] Synced to Threaded-Writer: 23:50
+2026-05-06 02:51:41 - [Market] [META] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:42 - [Market] [ARM] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:45 - [Market] [TSLA] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:48 - [Market] [AMZN] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:49 - [Market] [GOOG] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:52 - [Market] [AMD] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:53 - [Market] [AAPL] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:54 - [Market] [HPQ] Synced to Threaded-Writer: 23:51
+2026-05-06 02:51:56 - [Market] [NVDA] Synced to Threaded-Writer: 23:51
+2026-05-06 02:52:00 - [Market] [MSFT] Synced to Threaded-Writer: 23:51
+2026-05-06 02:52:40 - [Market] [META] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:41 - [Market] [AAPL] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:45 - [Market] [GOOG] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:48 - [Market] [AMZN] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:49 - [Market] [TSLA] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:54 - [Market] [HPQ] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:55 - [Market] [ARM] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:56 - [Market] [AMD] Synced to Threaded-Writer: 23:52
+2026-05-06 02:52:57 - [Market] [NVDA] Synced to Threaded-Writer: 23:52
+2026-05-06 02:53:27 - [Market] [GOOG] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:48 - [Market] [AMZN] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:50 - [Market] [MSFT] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:50 - [Market] [AMD] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:52 - [Market] [META] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:54 - [Market] [HPQ] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:55 - [Market] [AAPL] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:56 - [Market] [TSLA] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:57 - [Market] [ARM] Synced to Threaded-Writer: 23:53
+2026-05-06 02:53:58 - [Market] [NVDA] Synced to Threaded-Writer: 23:53
+2026-05-06 02:54:26 - [Market] [ARM] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:37 - [Market] [AMD] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:42 - [Market] [GOOG] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:44 - [Market] [META] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:46 - [Market] [MSFT] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:47 - [Market] [HPQ] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:52 - [Market] [NVDA] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:54 - [Market] [TSLA] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:56 - [Market] [AAPL] Synced to Threaded-Writer: 23:54
+2026-05-06 02:54:56 - [Market] [AMZN] Synced to Threaded-Writer: 23:54
+2026-05-06 02:55:37 - [Market] [MSFT] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:41 - [Market] [AMZN] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:47 - [Market] [AMD] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:52 - [Market] [GOOG] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:54 - [Market] [AAPL] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:56 - [Market] [ARM] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:57 - [Market] [META] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:57 - [Market] [NVDA] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:58 - [Market] [HPQ] Synced to Threaded-Writer: 23:55
+2026-05-06 02:55:59 - [Market] [TSLA] Synced to Threaded-Writer: 23:55
+2026-05-06 02:56:42 - [Market] [GOOG] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:44 - [Market] [AMD] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:48 - [Market] [MSFT] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:49 - [Market] [AMZN] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:51 - [Market] [TSLA] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:53 - [Market] [AAPL] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:57 - [Market] [HPQ] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:57 - [Market] [ARM] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:59 - [Market] [META] Synced to Threaded-Writer: 23:56
+2026-05-06 02:56:59 - [Market] [NVDA] Synced to Threaded-Writer: 23:56

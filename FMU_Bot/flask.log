@@ -1,0 +1,12 @@
+ * Serving Flask app '/kns-dta-data-kubernetes-namespace-ppd-ppd-kct/FMU-Financial_Market_Updater.Bot-API_2.0/FMU_Bot/app.py'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4574
+ * Running on http://192.168.187.3:4574
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 168-863-224
+192.168.187.5 - - [12/Oct/2025 17:12:00] "GET /health HTTP/1.1" 200 -
+192.168.187.5 - - [12/Oct/2025 17:12:11] "POST /graphql HTTP/1.1" 200 -

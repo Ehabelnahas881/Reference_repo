@@ -1,0 +1,625 @@
+'[text] price yf-15xzs3e base'
+
+<span class="up2 price yf-15xzs3e base" data-testid="qsp-pre-price">407.44</span>
+
+
+(venv) PS C:\Users\ehaba\scraper\app_tsla\app_tsla_pgadmin_timered> python new_scraper.py
+💎 HARDENED HYBRID RECORDER ACTIVE 💎
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:16:42] Total Records: 2859
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receiving message from renderer: 28.938
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+        0x455093
+        0x4550d4
+        0x24b490
+        0x23b863
+        0x23b595
+        0x2396a8
+        0x239ef6
+        0x246d3b
+        0x258a6e
+        0x25e4b6
+        0x23a57c
+        0x258803
+        0x2d565a
+        0x2b7f56
+        0x2896c9
+        0x28a484
+        0x6a7e34
+        0x6a30c9
+        0x6c0add
+        0x46db38
+        0x4758ad
+        0x45d848
+        0x45da12
+        0x4475fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:17:58] Total Records: 2859
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out rreceiving message from renderer: 29.019
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+        0x6f5093
+        0x6f50d4
+        0x4eb490
+        0x4db863
+        0x4db595
+        0x4d96a8
+        0x4d9ef6
+        0x4e6d3b
+        0x4f8a6e
+        0x4fe4b6
+        0x4da57c
+        0x4f8803
+        0x57565a
+        0x557f56
+        0x5296c9
+        0x52a484
+        0x947e34
+        0x9430c9
+        0x960add
+        0x70db38
+        0x7158ad
+        0x6fd848
+        0x6fda12
+        0x6e75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:19:09] Total Records: 2859
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out rreceiving message from renderer: 28.964
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+        0x10c5093
+        0x10c50d4
+        0xebb490
+        0xeab863
+        0xeab595
+        0xea96a8
+        0xea9ef6
+        0xeb6d3b
+        0xec8a6e
+        0xece4b6
+        0xeaa57c
+        0xec8803
+        0xf4565a
+        0xf27f56
+        0xef96c9
+        0xefa484
+        0x1317e34
+        0x13130c9
+        0x1330add
+        0x10ddb38
+        0x10e58ad
+        0x10cd848
+        0x10cda12
+        0x10b75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:20:20] Total Records: 2859
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:21:42] Total Records: 2860
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out rreceiving message from renderer: 28.911
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+        0x11a5093
+        0x11a50d4
+        0xf9b490
+        0xf8b863
+        0xf8b595
+        0xf896a8
+        0xf89ef6
+        0xf96d3b
+        0xfa8a6e
+        0xfae4b6
+        0xf8a57c
+        0xfa8803
+        0x102565a
+        0x1007f56
+        0xfd96c9
+        0xfda484
+        0x13f7e34
+        0x13f30c9
+        0x1410add
+        0x11bdb38
+        0x11c58ad
+        0x11ad848
+        0x11ada12
+        0x11975fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:23:13] Total Records: 2860
+✅ [20:24:37] Total Records: 2861
+🌙 Overnight Mode: Checking TSLA UI...
+ 2862
+🌙 Overnight Mode: Checking TSLA U 2862
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82     
+✅ [20:27:14] Total Records: 2863 
+🌙 Overnight Mode: Checking TSLA UI...
+❌ UI Scrape failed to find a price.
+✅ [20:28:38] Total Records: 2863
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeoout: Timed out receiving message from renderer: 29.052
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+        0x8b5093
+        0x8b50d4
+        0x6ab490
+        0x69b863
+        0x69b595
+        0x6996a8
+        0x699ef6
+        0x6a6d3b
+        0x6b8a6e
+        0x6be4b6
+        0x69a57c
+        0x6b8803
+        0x73565a
+        0x717f56
+        0x6e96c9
+        0x6ea484
+        0xb07e34
+        0xb030c9
+        0xb20add
+        0x8cdb38
+        0x8bd848
+        0x8bda12
+        0x8a75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:36:09] Total Records: 2863
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:38:05] Total Records: 2864
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: HTTPConnectionPool(host='localhostt', port=56395): Read timed out. (read timeout=120)    
+❌ UI Scrape failed to find a price.
+✅ [20:41:57] Total Records: 2864
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 29.035
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0xca5093
+        0xca50d4
+        0xa9b490
+        0xa8b863
+        0xa8b595
+        0xa896a8
+        0xa89ef6
+        0xa96d3b
+        0xaa8a6e
+        0xaae4b6
+        0xa8a57c
+        0xaa8803
+        0xb2565a
+        0xb07f56
+        0xad96c9
+        0xada484
+        0xef7e34
+        0xef30c9
+        0xf10add
+        0xcbdb38
+        0xcc58ad
+        0xcad848
+        0xcada12
+        0xc975fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:45:31] Total Records: 2864
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 28.178
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0x11d5093
+        0x11d50d4
+        0xfcb490
+        0xfbb863
+        0xfbb595
+        0xfb96a8
+        0xfb9ef6
+        0xfc6d3b
+        0xfd8a6e
+        0xfde4b6
+        0xfba57c
+        0xfd8803
+        0x105565a
+        0x1037f56
+        0x10096c9
+        0x100a484
+        0x1427e34
+        0x14230c9
+        0x1440add
+        0x11edb38
+        0x11f58ad
+        0x11dd848
+        0x11dda12
+        0x11c75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:46:38] Total Records: 2864
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:47:49] Total Records: 2865
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:49:02] Total Records: 2866
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:50:16] Total Records: 2867
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 28.903
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0x1205093
+        0x12050d4
+        0xffb490
+        0xfeb863
+        0xfeb595
+        0xfe96a8
+        0xfe9ef6
+        0xff6d3b
+        0x1008a6e
+        0x100e4b6
+        0xfea57c
+        0x1008803
+        0x108565a
+        0x1067f56
+        0x10396c9
+        0x103a484
+        0x1457e34
+        0x14530c9
+        0x1470add
+        0x121db38
+        0x12258ad
+        0x120d848
+        0x120da12
+        0x11f75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:51:26] Total Records: 2867
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 29.013
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0x1295093
+        0x12950d4
+        0x108b490
+        0x107b863
+        0x107b595
+        0x10796a8
+        0x1079ef6
+        0x1086d3b
+        0x1098a6e
+        0x109e4b6
+        0x107a57c
+        0x1098803
+        0x111565a
+        0x10f7f56
+        0x10c96c9
+        0x10ca484
+        0x14e7e34
+        0x14e30c9
+        0x1500add
+        0x12adb38
+        0x12b58ad
+        0x129d848
+        0x129da12
+        0x12875fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:52:35] Total Records: 2867
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:53:43] Total Records: 2868
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:54:51] Total Records: 2869
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:56:00] Total Records: 2870
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [20:57:14] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+❌ UI Scrape failed to find a price.
+✅ [20:58:36] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 29.030
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0xf15093
+        0xf150d4
+        0xd0b490
+        0xcfb863
+        0xcfb595
+        0xcf96a8
+        0xcf9ef6
+        0xd06d3b
+        0xd18a6e
+        0xd1e4b6
+        0xcfa57c
+        0xd18803
+        0xd9565a
+        0xd77f56
+        0xd496c9
+        0xd4a484
+        0x1167e34
+        0x11630c9
+        0x1180add
+        0xf2db38
+        0xf358ad
+        0xf1d848
+        0xf1da12
+        0xf075fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [20:59:45] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 28.986
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0x3e5093
+        0x3e50d4
+        0x1db490
+        0x1cb863
+        0x1cb595
+        0x1c96a8
+        0x1c9ef6
+        0x1d6d3b
+        0x1e8a6e
+        0x1ee4b6
+        0x1ca57c
+        0x1e8803
+        0x26565a
+        0x247f56
+        0x2196c9
+        0x21a484
+        0x637e34
+        0x6330c9
+        0x650add
+        0x3fdb38
+        0x4058ad
+        0x3ed848
+        0x3eda12
+        0x3d75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [21:01:08] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 29.021
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0x965093
+        0x9650d4
+        0x75b490
+        0x74b863
+        0x74b595
+        0x7496a8
+        0x749ef6
+        0x756d3b
+        0x768a6e
+        0x76e4b6
+        0x74a57c
+        0x768803
+        0x7e565a
+        0x7c7f56
+        0x7996c9
+        0x79a484
+        0xbb7e34
+        0xbb30c9
+        0xbd0add
+        0x97db38
+        0x9858ad
+        0x96d848
+        0x96da12
+        0x9575fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [21:02:17] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 28.893
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0x12d5093
+        0x12d50d4
+        0x10cb490
+        0x10bb863
+        0x10bb595
+        0x10b96a8
+        0x10b9ef6
+        0x10c6d3b
+        0x10d8a6e
+        0x10de4b6
+        0x10ba57c
+        0x10d8803
+        0x115565a
+        0x1137f56
+        0x11096c9
+        0x110a484
+        0x1527e34
+        0x15230c9
+        0x1540add
+        0x12edb38
+        0x12f58ad
+        0x12dd848
+        0x12dda12
+        0x12c75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [21:03:25] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+❌ UI Scrape failed to find a price.
+✅ [21:04:32] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 28.983
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0xe45093
+        0xe450d4
+        0xc3b490
+        0xc2b863
+        0xc2b595
+        0xc296a8
+        0xc29ef6
+        0xc36d3b
+        0xc48a6e
+        0xc4e4b6
+        0xc2a57c
+        0xc48803
+        0xcc565a
+        0xca7f56
+        0xc796c9
+        0xc7a484
+        0x1097e34
+        0x10930c9
+        0x10b0add
+        0xe5db38
+        0xe658ad
+        0xe4d848
+        0xe4da12
+        0xe375fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [21:05:44] Total Records: 2871
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [21:06:55] Total Records: 2872
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 29.103
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0xfd5093
+        0xfd50d4
+        0xdcb490
+        0xdbb863
+        0xdbb595
+        0xdb96a8
+        0xdb9ef6
+        0xdc6d3b
+        0xdd8a6e
+        0xdde4b6
+        0xdba57c
+        0xdd8803
+        0xe5565a
+        0xe37f56
+        0xe096c9
+        0xe0a484
+        0x1227e34
+        0x12230c9
+        0x1240add
+        0xfedb38
+        0xff58ad
+        0xfdd848
+        0xfdda12
+        0xfc75fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [21:08:34] Total Records: 2872
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [21:09:58] Total Records: 2873
+🌙 Overnight Mode: Checking TSLA UI...
+🎯 DEBUG: Found Price via span[data-testid="qsp-price"]: 411.82
+✅ [21:11:22] Total Records: 2874
+🌙 Overnight Mode: Checking TSLA UI...
+⚠️ UI Scrape Error: Message: timeout: Timed out receivving message from renderer: 28.967
+  (Session info: chrome=145.0.7632.77)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:  
+        0xf55093
+        0xf550d4
+        0xd4b490
+        0xd3b863
+        0xd3b595
+        0xd396a8
+        0xd39ef6
+        0xd46d3b
+        0xd58a6e
+        0xd5e4b6
+        0xd3a57c
+        0xd58803
+        0xdd565a
+        0xdb7f56
+        0xd896c9
+        0xd8a484
+        0x11a7e34
+        0x11a30c9
+        0x11c0add
+        0xf6db38
+        0xf758ad
+        0xf5d848
+        0xf5da12
+        0xf475fa
+        0x75c55d49
+        0x77d2d5db
+        0x77d2d561
+
+❌ UI Scrape failed to find a price.
+✅ [21:12:45] Total Records: 2874

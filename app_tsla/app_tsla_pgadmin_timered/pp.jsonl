@@ -1,0 +1,165 @@
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST", "timestamp": 1771974392, "date": "2026-02-24 18:06:32", "close": 409.38, "open": 408.425, "high": 409.4, "low": 408.405, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST", "timestamp": 1771974450, "date": "2026-02-24 18:07:30", "close": 409.38, "open": 408.425, "high": 409.4, "low": 408.405, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST", "timestamp": 1771974510, "date": "2026-02-24 18:08:30", "close": 409.38, "open": 408.425, "high": 409.4, "low": 408.405, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST", "timestamp": 1771974558, "date": "2026-02-24 18:09:18", "close": 409.38, "open": 408.425, "high": 409.4, "low": 408.405, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771974803, "date": "2026-02-24 18:13:23", "close": 409.38, "open": 408.9025, "high": 409.466, "low": 408.8165, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771974956, "date": "2026-02-24 18:15:56", "close": 409.38, "open": 408.9025, "high": 409.4462, "low": 408.8363, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975005, "date": "2026-02-24 18:16:45", "close": 409.38, "open": 408.9025, "high": 409.4741, "low": 408.8084, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975052, "date": "2026-02-24 18:17:32", "close": 409.38, "open": 408.9025, "high": 409.4602, "low": 408.8223, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975101, "date": "2026-02-24 18:18:21", "close": 409.38, "open": 408.9025, "high": 409.4828, "low": 408.7997, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975154, "date": "2026-02-24 18:19:14", "close": 409.38, "open": 408.9025, "high": 409.4792, "low": 408.8033, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975208, "date": "2026-02-24 18:20:08", "close": 409.38, "open": 408.9025, "high": 409.456, "low": 408.8265, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975251, "date": "2026-02-24 18:20:51", "close": 409.38, "open": 408.9025, "high": 409.4687, "low": 408.8138, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975296, "date": "2026-02-24 18:21:36", "close": 409.38, "open": 408.9025, "high": 409.4526, "low": 408.8299, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975345, "date": "2026-02-24 18:22:25", "close": 409.38, "open": 408.9025, "high": 409.4287, "low": 408.8538, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771975390, "date": "2026-02-24 18:23:10", "close": 409.38, "open": 408.9025, "high": 409.455, "low": 408.8275, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771979414, "date": "2026-02-24 19:30:00", "open": 408.85, "high": 408.85, "low": 408.85, "close": 408.85, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771979483, "date": "2026-02-24 19:31:00", "open": 408.85, "high": 408.85, "low": 408.8, "close": 408.8, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771979700, "date": "2026-02-24 19:35:00", "open": 408.59, "high": 408.7, "low": 408.55, "close": 408.55, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771979820, "date": "2026-02-24 19:37:00", "open": 408.64, "high": 408.7, "low": 408.6, "close": 408.69, "volume": 0}
+{"symbol": "TSLA", "session_id": 3, "session_name": "POST_MARKET", "timestamp": 1771980000, "date": "2026-02-24 19:40:00", "open": 408.72, "high": 408.79, "low": 408.66, "close": 408.72, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771980607, "date": "2026-02-24 19:50:00", "open": 409.12, "high": 409.15, "low": 409.09, "close": 409.15, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771980674, "date": "2026-02-24 19:51:00", "open": 409.15, "high": 409.15, "low": 409.09, "close": 409.12, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771980735, "date": "2026-02-24 19:52:00", "open": 409.12, "high": 409.15, "low": 409.07, "close": 409.14, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771980794, "date": "2026-02-24 19:53:00", "open": 409.14, "high": 409.16, "low": 409.07, "close": 409.16, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771980853, "date": "2026-02-24 19:54:00", "open": 409.16, "high": 409.31, "low": 409.16, "close": 409.22, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771980912, "date": "2026-02-24 19:55:00", "open": 409.22, "high": 409.3, "low": 409.2, "close": 409.2, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771981330, "date": "2026-02-24 20:02:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771981389, "date": "2026-02-24 20:03:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771981562, "date": "2026-02-24 20:06:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771981621, "date": "2026-02-24 20:07:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771981680, "date": "2026-02-24 20:08:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982085, "date": "2026-02-24 20:13:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982160, "date": "2026-02-24 20:15:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982173, "date": "2026-02-24 20:15:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982279, "date": "2026-02-24 20:17:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982317, "date": "2026-02-24 20:17:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982339, "date": "2026-02-24 20:18:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982399, "date": "2026-02-24 20:19:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982429, "date": "2026-02-24 20:19:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982462, "date": "2026-02-24 20:20:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982617, "date": "2026-02-24 20:22:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982699, "date": "2026-02-24 20:24:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982759, "date": "2026-02-24 20:25:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771982838, "date": "2026-02-24 20:26:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771983479, "date": "2026-02-24 20:37:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771983538, "date": "2026-02-24 20:37:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771983644, "date": "2026-02-24 20:38:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771983741, "date": "2026-02-24 20:40:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771983831, "date": "2026-02-24 20:42:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1771983914, "date": "2026-02-24 20:43:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772021519, "date": "2026-02-25 07:11:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772021579, "date": "2026-02-25 07:12:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772021653, "date": "2026-02-25 07:13:00", "open": 409.38, "high": 409.38, "low": 409.38, "close": 409.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772021819, "date": "2026-02-25 07:16:00", "open": 410.08, "high": 410.09, "low": 410.07, "close": 410.07, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772021878, "date": "2026-02-25 07:17:00", "open": 410.07, "high": 410.07, "low": 409.95, "close": 409.99, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772021939, "date": "2026-02-25 07:18:00", "open": 409.99, "high": 409.99, "low": 409.91, "close": 409.95, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022000, "date": "2026-02-25 07:19:00", "open": 409.95, "high": 409.99, "low": 409.9, "close": 409.97, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022118, "date": "2026-02-25 07:21:00", "open": 410.31, "high": 410.38, "low": 410.3, "close": 410.3, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022178, "date": "2026-02-25 07:22:00", "open": 410.3, "high": 410.53, "low": 410.3, "close": 410.53, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022238, "date": "2026-02-25 07:23:00", "open": 410.53, "high": 410.68, "low": 410.53, "close": 410.64, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022298, "date": "2026-02-25 07:24:00", "open": 410.64, "high": 410.71, "low": 410.48, "close": 410.6, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022358, "date": "2026-02-25 07:25:00", "open": 410.6, "high": 411.21, "low": 410.6, "close": 411.11, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022418, "date": "2026-02-25 07:26:00", "open": 411.11, "high": 411.11, "low": 410.95, "close": 411.0, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022478, "date": "2026-02-25 07:27:00", "open": 411.0, "high": 411.15, "low": 411.0, "close": 411.14, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022538, "date": "2026-02-25 07:28:00", "open": 411.14, "high": 411.38, "low": 411.14, "close": 411.38, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022598, "date": "2026-02-25 07:29:00", "open": 411.39, "high": 411.39, "low": 411.2, "close": 411.21, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022658, "date": "2026-02-25 07:30:00", "open": 411.2, "high": 411.31, "low": 411.2, "close": 411.25, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022778, "date": "2026-02-25 07:32:00", "open": 411.02, "high": 411.02, "low": 410.71, "close": 410.82, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022838, "date": "2026-02-25 07:33:00", "open": 410.82, "high": 410.89, "low": 410.82, "close": 410.89, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022899, "date": "2026-02-25 07:34:00", "open": 410.88, "high": 410.96, "low": 410.81, "close": 410.96, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772022958, "date": "2026-02-25 07:35:00", "open": 410.8, "high": 410.86, "low": 410.8, "close": 410.86, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023018, "date": "2026-02-25 07:36:00", "open": 410.86, "high": 411.1, "low": 410.86, "close": 411.09, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023078, "date": "2026-02-25 07:37:00", "open": 411.09, "high": 411.09, "low": 410.98, "close": 411.0, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023139, "date": "2026-02-25 07:38:00", "open": 410.98, "high": 410.99, "low": 410.82, "close": 410.82, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023198, "date": "2026-02-25 07:39:00", "open": 410.82, "high": 410.82, "low": 410.73, "close": 410.74, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023258, "date": "2026-02-25 07:40:00", "open": 410.74, "high": 410.74, "low": 410.67, "close": 410.67, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023378, "date": "2026-02-25 07:42:00", "open": 410.6, "high": 410.65, "low": 410.6, "close": 410.65, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023438, "date": "2026-02-25 07:43:00", "open": 410.65, "high": 410.65, "low": 410.54, "close": 410.54, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023498, "date": "2026-02-25 07:44:00", "open": 410.54, "high": 410.54, "low": 410.39, "close": 410.39, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023558, "date": "2026-02-25 07:45:00", "open": 410.39, "high": 410.53, "low": 410.39, "close": 410.51, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023618, "date": "2026-02-25 07:46:00", "open": 410.51, "high": 410.51, "low": 410.41, "close": 410.41, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023678, "date": "2026-02-25 07:47:00", "open": 410.41, "high": 410.58, "low": 410.41, "close": 410.5, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023738, "date": "2026-02-25 07:48:00", "open": 410.5, "high": 410.55, "low": 410.5, "close": 410.55, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023798, "date": "2026-02-25 07:49:00", "open": 410.55, "high": 410.61, "low": 410.55, "close": 410.61, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023858, "date": "2026-02-25 07:50:00", "open": 410.61, "high": 410.61, "low": 410.3, "close": 410.3, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772023978, "date": "2026-02-25 07:52:00", "open": 410.67, "high": 410.75, "low": 410.67, "close": 410.75, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024038, "date": "2026-02-25 07:53:00", "open": 410.7, "high": 410.75, "low": 410.65, "close": 410.75, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024098, "date": "2026-02-25 07:54:00", "open": 410.75, "high": 410.75, "low": 410.68, "close": 410.71, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024158, "date": "2026-02-25 07:55:00", "open": 410.71, "high": 410.72, "low": 410.66, "close": 410.67, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024218, "date": "2026-02-25 07:56:00", "open": 410.67, "high": 410.67, "low": 410.6, "close": 410.6, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024278, "date": "2026-02-25 07:57:00", "open": 410.6, "high": 410.65, "low": 410.55, "close": 410.61, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024338, "date": "2026-02-25 07:58:00", "open": 410.61, "high": 410.61, "low": 410.42, "close": 410.5, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024398, "date": "2026-02-25 07:59:00", "open": 410.5, "high": 410.58, "low": 410.5, "close": 410.58, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024458, "date": "2026-02-25 08:00:00", "open": 410.58, "high": 410.7, "low": 410.58, "close": 410.65, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024578, "date": "2026-02-25 08:02:00", "open": 410.65, "high": 411.13, "low": 409.45, "close": 410.58, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024638, "date": "2026-02-25 08:03:00", "open": 409.44, "high": 410.7, "low": 408.88, "close": 410.62, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024698, "date": "2026-02-25 08:04:00", "open": 410.65, "high": 410.8, "low": 410.61, "close": 410.64, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024758, "date": "2026-02-25 08:05:00", "open": 410.64, "high": 410.77, "low": 410.6, "close": 410.7, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024818, "date": "2026-02-25 08:06:00", "open": 410.66, "high": 410.8, "low": 410.66, "close": 410.75, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024878, "date": "2026-02-25 08:07:00", "open": 410.71, "high": 410.9, "low": 410.7, "close": 410.88, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024938, "date": "2026-02-25 08:08:00", "open": 410.87, "high": 410.93, "low": 410.79, "close": 410.79, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772024998, "date": "2026-02-25 08:09:00", "open": 410.79, "high": 410.93, "low": 410.79, "close": 410.86, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025058, "date": "2026-02-25 08:10:00", "open": 410.89, "high": 410.92, "low": 410.75, "close": 410.8, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025178, "date": "2026-02-25 08:12:00", "open": 410.85, "high": 410.9, "low": 410.75, "close": 410.9, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025238, "date": "2026-02-25 08:13:00", "open": 410.9, "high": 411.1, "low": 410.83, "close": 411.1, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025298, "date": "2026-02-25 08:14:00", "open": 411.04, "high": 411.12, "low": 411.0, "close": 411.04, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025359, "date": "2026-02-25 08:15:00", "open": 411.06, "high": 411.06, "low": 410.92, "close": 410.92, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025419, "date": "2026-02-25 08:16:00", "open": 410.92, "high": 411.0, "low": 410.83, "close": 410.85, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025478, "date": "2026-02-25 08:17:00", "open": 410.85, "high": 411.0, "low": 410.74, "close": 410.89, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025538, "date": "2026-02-25 08:18:00", "open": 410.89, "high": 410.93, "low": 410.8, "close": 410.93, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025604, "date": "2026-02-25 08:19:00", "open": 410.93, "high": 410.93, "low": 410.8, "close": 410.93, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025719, "date": "2026-02-25 08:21:00", "open": 410.9, "high": 410.99, "low": 410.81, "close": 410.82, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025780, "date": "2026-02-25 08:22:00", "open": 410.82, "high": 410.99, "low": 410.82, "close": 410.91, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025898, "date": "2026-02-25 08:24:00", "open": 410.91, "high": 411.16, "low": 410.82, "close": 410.99, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772025959, "date": "2026-02-25 08:25:00", "open": 410.99, "high": 411.12, "low": 410.99, "close": 411.05, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026019, "date": "2026-02-25 08:26:00", "open": 411.05, "high": 411.35, "low": 411.05, "close": 411.29, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026080, "date": "2026-02-25 08:27:00", "open": 411.3, "high": 411.35, "low": 410.91, "close": 410.91, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026198, "date": "2026-02-25 08:29:00", "open": 411.06, "high": 411.11, "low": 410.9, "close": 410.98, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026258, "date": "2026-02-25 08:30:00", "open": 411.0, "high": 411.0, "low": 410.8, "close": 410.91, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026378, "date": "2026-02-25 08:32:00", "open": 410.99, "high": 411.0, "low": 410.64, "close": 410.72, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026438, "date": "2026-02-25 08:33:00", "open": 410.72, "high": 410.87, "low": 410.6, "close": 410.87, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026498, "date": "2026-02-25 08:34:00", "open": 410.74, "high": 410.95, "low": 410.74, "close": 410.82, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026558, "date": "2026-02-25 08:35:00", "open": 410.82, "high": 410.94, "low": 410.7, "close": 410.9, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026618, "date": "2026-02-25 08:36:00", "open": 410.9, "high": 410.94, "low": 410.76, "close": 410.82, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026679, "date": "2026-02-25 08:37:00", "open": 410.82, "high": 410.82, "low": 410.6, "close": 410.71, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026739, "date": "2026-02-25 08:38:00", "open": 410.71, "high": 410.8, "low": 410.65, "close": 410.75, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026799, "date": "2026-02-25 08:39:00", "open": 410.65, "high": 410.7, "low": 410.6, "close": 410.65, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026859, "date": "2026-02-25 08:40:00", "open": 410.65, "high": 410.65, "low": 410.23, "close": 410.5, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772026978, "date": "2026-02-25 08:42:00", "open": 410.5, "high": 410.65, "low": 410.45, "close": 410.6, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027038, "date": "2026-02-25 08:43:00", "open": 410.6, "high": 410.65, "low": 410.5, "close": 410.55, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027099, "date": "2026-02-25 08:44:00", "open": 410.55, "high": 410.65, "low": 410.55, "close": 410.6, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027158, "date": "2026-02-25 08:45:00", "open": 410.55, "high": 410.64, "low": 410.5, "close": 410.5, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027218, "date": "2026-02-25 08:46:00", "open": 410.5, "high": 410.55, "low": 410.5, "close": 410.55, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027278, "date": "2026-02-25 08:47:00", "open": 410.53, "high": 410.7, "low": 410.52, "close": 410.63, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027338, "date": "2026-02-25 08:48:00", "open": 410.63, "high": 410.68, "low": 410.52, "close": 410.63, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027398, "date": "2026-02-25 08:49:00", "open": 410.63, "high": 410.7, "low": 410.57, "close": 410.63, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027458, "date": "2026-02-25 08:50:00", "open": 410.63, "high": 410.76, "low": 410.6, "close": 410.75, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027578, "date": "2026-02-25 08:52:00", "open": 410.82, "high": 410.9, "low": 410.56, "close": 410.6, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027638, "date": "2026-02-25 08:53:00", "open": 410.66, "high": 410.8, "low": 410.5, "close": 410.5, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027698, "date": "2026-02-25 08:54:00", "open": 410.55, "high": 410.73, "low": 410.5, "close": 410.57, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027758, "date": "2026-02-25 08:55:00", "open": 410.52, "high": 410.72, "low": 410.5, "close": 410.66, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027818, "date": "2026-02-25 08:56:00", "open": 410.66, "high": 410.85, "low": 410.62, "close": 410.8, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027878, "date": "2026-02-25 08:57:00", "open": 410.85, "high": 411.02, "low": 410.8, "close": 411.02, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027938, "date": "2026-02-25 08:58:00", "open": 411.02, "high": 411.11, "low": 410.98, "close": 411.0, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772027998, "date": "2026-02-25 08:59:00", "open": 411.0, "high": 411.06, "low": 410.9, "close": 410.95, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028058, "date": "2026-02-25 09:00:00", "open": 411.0, "high": 411.06, "low": 410.95, "close": 410.95, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028178, "date": "2026-02-25 09:02:00", "open": 410.88, "high": 411.11, "low": 410.71, "close": 411.11, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028238, "date": "2026-02-25 09:03:00", "open": 411.11, "high": 411.17, "low": 411.0, "close": 411.17, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028298, "date": "2026-02-25 09:04:00", "open": 411.17, "high": 411.17, "low": 411.02, "close": 411.08, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028358, "date": "2026-02-25 09:05:00", "open": 411.02, "high": 411.08, "low": 410.96, "close": 411.03, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028418, "date": "2026-02-25 09:06:00", "open": 411.03, "high": 411.03, "low": 410.88, "close": 410.92, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028478, "date": "2026-02-25 09:07:00", "open": 410.92, "high": 410.94, "low": 410.8, "close": 410.86, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028538, "date": "2026-02-25 09:08:00", "open": 410.86, "high": 410.93, "low": 410.74, "close": 410.8, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028598, "date": "2026-02-25 09:09:00", "open": 410.8, "high": 411.08, "low": 410.73, "close": 410.92, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028658, "date": "2026-02-25 09:10:00", "open": 411.09, "high": 411.09, "low": 410.87, "close": 411.0, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028778, "date": "2026-02-25 09:12:00", "open": 411.39, "high": 411.5, "low": 411.15, "close": 411.41, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028838, "date": "2026-02-25 09:13:00", "open": 411.43, "high": 411.43, "low": 411.13, "close": 411.19, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028898, "date": "2026-02-25 09:14:00", "open": 411.2, "high": 411.26, "low": 411.0, "close": 411.07, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772028958, "date": "2026-02-25 09:15:00", "open": 411.07, "high": 411.19, "low": 411.0, "close": 411.0, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772029018, "date": "2026-02-25 09:16:00", "open": 411.0, "high": 411.09, "low": 410.8, "close": 410.92, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772029078, "date": "2026-02-25 09:17:00", "open": 410.8, "high": 410.94, "low": 410.8, "close": 410.9, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772029138, "date": "2026-02-25 09:18:00", "open": 410.9, "high": 410.92, "low": 410.82, "close": 410.92, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772029199, "date": "2026-02-25 09:19:00", "open": 410.92, "high": 410.95, "low": 410.87, "close": 410.95, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772425619, "date": "2026-03-01 23:26:00", "open": 402.51, "high": 402.51, "low": 402.51, "close": 402.51, "volume": 0}
+{"symbol": "TSLA", "timestamp": 1772425680, "date": "2026-03-01 23:27:00", "open": 402.51, "high": 402.51, "low": 402.51, "close": 402.51, "volume": 0}

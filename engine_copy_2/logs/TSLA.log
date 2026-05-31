@@ -1,0 +1,16 @@
+2026-05-14 02:35:04 - [Worker-TSLA] [TSLA] Worker initialized.
+2026-05-14 02:35:05 - [Worker-TSLA] [TSLA] Market is OPEN. Starting scraper...
+2026-05-16 10:29:52 - [Worker-TSLA] [TSLA] Worker initialized.
+2026-05-16 10:29:53 - [Worker-TSLA] [TSLA] Market is OPEN. Starting scraper...
+2026-05-16 10:29:53 - [Worker-TSLA] [TSLA] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:30:33 - [Worker-TSLA] [TSLA] Worker initialized.
+2026-05-16 10:30:35 - [Worker-TSLA] [TSLA] Market is OPEN. Starting scraper...
+2026-05-16 10:30:35 - [Worker-TSLA] [TSLA] Scraper error: run() missing 1 required positional argument: 'worker_log'
+2026-05-16 10:31:01 - [Worker-TSLA] [TSLA] Worker initialized.
+2026-05-16 10:31:02 - [Worker-TSLA] [TSLA] Market is OPEN. Starting scraper...
+2026-05-16 10:31:02 - [Worker-TSLA] [TSLA] Scraper error: run() takes 1 positional argument but 2 were given
+2026-05-16 10:41:04 - [Worker-TSLA] [TSLA] Worker validated.
+2026-05-16 10:41:05 - [Worker-TSLA] [TSLA] Market is OPEN. Starting scraper...
+2026-05-16 10:42:50 - [Worker-TSLA] [TSLA] Data collected and pushed to DB: O:418.57 H:418.57 L:418.57 C:418.57
+2026-05-16 10:43:55 - [Worker-TSLA] [TSLA] Data collected and pushed to DB: O:418.57 H:418.57 L:418.57 C:418.57
+2026-05-16 10:44:37 - [Worker-TSLA] [TSLA] Data collected and pushed to DB: O:418.57 H:418.57 L:418.57 C:418.57
