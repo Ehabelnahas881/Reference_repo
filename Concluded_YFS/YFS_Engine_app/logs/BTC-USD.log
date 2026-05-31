@@ -1,0 +1,23 @@
+2026-03-16 00:05:37,008 - Database Connected for BTC-USD
+2026-03-16 00:05:37,013 - Worker Online for BTC-USD
+2026-03-16 00:13:04,144 - [BTC-USD] Regular Buffered: 22:12
+2026-03-16 00:24:49,410 - [BTC-USD] Regular Buffered: 22:24
+2026-03-16 00:26:52,084 - [BTC-USD] Regular Buffered: 22:26
+2026-03-16 00:34:49,929 - [BTC-USD] Regular Buffered: 22:34
+2026-03-16 00:35:53,143 - [BTC-USD] Regular Buffered: 22:35
+2026-03-16 00:35:53,154 - CRITICAL LOOP ERROR for BTC-USD: connection already closed
+2026-03-16 02:32:29,332 - Database Connected for BTC-USD
+2026-03-16 02:32:29,334 - Worker Online for BTC-USD
+2026-03-16 02:35:48,583 - [BTC-USD] Regular Buffered: 00:35
+2026-03-16 02:39:51,613 - [BTC-USD] Regular Buffered: 00:39
+2026-03-16 02:43:47,508 - [BTC-USD] Regular Buffered: 00:43
+2026-03-16 02:46:17,870 - Worker Online for BTC-USD
+2026-03-16 02:50:25,347 - Worker Online for BTC-USD
+2026-03-16 02:52:50,172 - [BTC-USD] Regular Buffered: 00:52
+2026-03-16 02:54:54,788 - [BTC-USD] Regular Buffered: 00:54
+2026-03-16 02:56:51,474 - [BTC-USD] Regular Buffered: 00:56
+2026-03-16 02:57:52,169 - [BTC-USD] Regular Buffered: 00:57
+2026-03-16 22:45:55,467 - Worker Online for BTC-USD
+2026-03-16 22:47:21,093 - [BTC-USD] Regular Buffered: 20:46
+2026-03-16 22:50:04,819 - [BTC-USD] Regular Buffered: 20:49
+2026-03-16 22:50:05,357 - Fetch failed: ('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: incorrect header check'))
