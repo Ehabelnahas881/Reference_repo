@@ -1,0 +1,15 @@
+schema {
+  query: Query
+}
+
+type Query {
+  IDE_Extractor(
+    financial_asset_list: [Int!]!
+    environment_pk: Int!
+  ): IDEResult!
+}
+
+type IDEResult {
+  success: Boolean
+  error: String
+}
