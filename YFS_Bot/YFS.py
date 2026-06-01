@@ -160,7 +160,7 @@ def validate_market_session():
     
     # Dynamically build today's boundary limits directly in UTC
     start = now_utc.replace(hour=0, minute=0, second=0, microsecond=0)
-    end = now_utc.replace(hour=8, minute=0, second=0, microsecond=0)
+    end = now_utc.replace(hour=23, minute=59, second=0, microsecond=0)
     
     # Direct comparison including the full datetime payload
     return start <= now_utc <= end
@@ -245,7 +245,7 @@ class SyncScraper:
             if resp.status_code == 429: return "RATE_LIMIT"
             
             soup = BeautifulSoup(resp.text, 'lxml')
-            el = soup.find(attrs={"data-testid": "qsp-overnight-price"})
+            el = soup.find(attrs={"data-testid": "qsp-pre-price"})
             #el = soup.find(attrs={"data-testid": "qsp-post-price"}) or soup.find(attrs={"data-field": "qsp-overnight-price"}) or soup.find(attrs={"data-field": "qsp-pre-price"})
             return float(re.sub(r'[^\d.]', '', el.text)) if el else None
         except Exception as e:
